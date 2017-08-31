@@ -91,3 +91,30 @@ annotated left foot sub-images.
 
 
 
+## ECG data
+https://physionet.org/challenge/2017/
+
+The 2017 PhysioNet/CinC Challenge aims to encourage the development
+of algorithms to classify, from a single short ECG lead recording
+(between 30 s and 60 s in length), whether the recording shows
+normal sinus rhythm, atrial fibrillation (AF), an alternative
+rhythm, or is too noisy to be classified. 
+
+ECG recordings, collected using the AliveCor device, were generously
+donated for this Challenge by AliveCor. The training set contains
+8,528 single lead ECG recordings lasting from 9 s to just over 60 s
+(see Table 2) and the test set contains 3,658 ECG recordings of
+similar lengths. The test set is unavailable to the public and will
+remain private for the purpose of scoring for the duration of the
+Challenge and for some period afterwards. 
+
+ECG recordings were sampled as 300 Hz and they have been band pass
+filtered by the AliveCor device. All data are provided in MATLAB V4
+WFDB-compliant format (each including a .mat file containing the ECG
+and a .hea file containing the waveform information). More details
+of the training set can be seen in Table 2. Figure 1 shows the
+examples of the ECG waveforms (lasting for 20 s) for the four
+classes in this Challenge. From top to bottom, they are ECG
+waveforms of normal rhythm, AF rhythm, other rhythm and noisy
+recordings.
+

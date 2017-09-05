@@ -89,5 +89,7 @@ Problem 1.  Another idea is that the full image should contain left
 foot if it contains sufficiently many similar keypoints from the
 annotated left foot sub-images.
 
-
-
+## What is the population of developers, what is the distribution of skills?
+  - http://coderwall.com/{username}.json
+  - Type in google search: "scraping linkedin python"
+  - https://www.scrapehero.com/tutorial-scraping-linkedin-for-public-company-data/

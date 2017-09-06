@@ -47,7 +47,7 @@ Further ideas are encouraged.
 Opensecrets.org provides a list of donations made to US politicians and the policies they have sponsored, co-sponsored or signed. I want to do a text analysis comparing the donating groups by field of interest to policies that relate to the regulation of that field, to see if there is a relationship between the policy and the donations.
 
 
-## Correlation between Pitchfork review scores and Pitchfork Metadata (Contact jtliso)
+## Correlation between Pitchfork review scores and Pitchfork Metadata (Contact J.T. Liso at gliso@vols.utk.edu)
  - Scrape data from Pitchfork (https://github.com/nsgrantham/pitchfork-reviews)
  - Discover if certain artists are unproportionally rated low or high scores
  - Find correlation between certain scores and words within a review

@@ -47,6 +47,14 @@ Further ideas are encouraged.
 Opensecrets.org provides a list of donations made to US politicians and the policies they have sponsored, co-sponsored or signed. I want to do a text analysis comparing the donating groups by field of interest to policies that relate to the regulation of that field, to see if there is a relationship between the policy and the donations.
 
 
+## Correlation between Pitchfork review scores and Pitchfork Metadata (Contact jtliso)
+ - Scrape data from Pitchfork (https://github.com/nsgrantham/pitchfork-reviews)
+ - Discover if certain artists are unproportionally rated low or high scores
+ - Find correlation between certain scores and words within a review
+ - Discover if certain reviewers tend to review high or low scores (or use certain words)
+ - Is there a certain time of the week/year that gets high or low scores?
+ - Perhaps compare Pitchfork reviews to social media mentions, sales, or stream frequencies
+
 ## Search for code clones
    https://www.itwire.com/security/79504-researchers-find-marcus-hutchins-code-that-was-used-in-malware.html
    https://github.com/MalwareTech/BasicHook/blob/master/BasicHook/hook.cpp#L77
@@ -144,10 +152,3 @@ annotated left foot sub-images.
   - https://github.com/blackducksoftware/ohloh_api/blob/master/examples/account_sample.py
 
 
-## Correlation between Pitchfork review scores and Pitchfork Metadata (jtliso)
- - Scrape data from Pitchfork (https://github.com/nsgrantham/pitchfork-reviews)
- - Discover if certain artists are unproportionally rated low or high scores
- - Find correlation between certain scores and words within a review
- - Discover if certain reviewers tend to review high or low scores (or use certain words)
- - Is there a certain time of the week/year that gets high or low scores?
- - Perhaps compare Pitchfork reviews to social media mentions, sales, or stream frequencies

@@ -95,3 +95,12 @@ annotated left foot sub-images.
   - https://www.scrapehero.com/tutorial-scraping-linkedin-for-public-company-data/
   - https://www.fullcontact.com/developer/docs/ (limits to 100 names per month)
   - https://github.com/blackducksoftware/ohloh_api/blob/master/examples/account_sample.py
+
+
+## Correlation between Pitchfork review scores and Pitchfork Metadata (jtliso)
+ - Scrape data from Pitchfork (https://github.com/nsgrantham/pitchfork-reviews)
+ - Discover if certain artists are unproportionally rated low or high scores
+ - Find correlation between certain scores and words within a review
+ - Discover if certain reviewers tend to review high or low scores (or use certain words)
+ - Is there a certain time of the week/year that gets high or low scores?
+ - Perhaps compare Pitchfork reviews to social media mentions, sales, or stream frequencies

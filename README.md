@@ -93,3 +93,4 @@ annotated left foot sub-images.
   - http://coderwall.com/{username}.json
   - Type in google search: "scraping linkedin python"
   - https://www.scrapehero.com/tutorial-scraping-linkedin-for-public-company-data/
+  - https://www.fullcontact.com/developer/docs/ (limits to 100 names per month)

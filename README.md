@@ -1,5 +1,52 @@
 # Final project teasers
 
+## Analyze data from libraries.io using TDA: Please contact Jacob Miller at jmill225@vols.utk.edu
+
+Question: Using topological data analysis software, can one determine a way of classifying similar structures of open source software?
+
+What: Topological data analytics is a new field of data analytics which attempts to understand the underlying space that data comes from. It can capitalize from data sources in the form of point clouds or networks to form simplicial complexes. This form of data analytics has been popular in the study of brainwave data. Specifically there is research where the analysis is used on hypocampal brainwave data of lab mice to determine where the mouse is located within an arena.
+
+How: Possibly relying on the network structure of open source dependencies, we could create simplicial complexes using something like the "nearest-neighbor" filtration. With this new encoding of the data, we can use available software to find the zigzag persistant homology of the system.
+
+Further ideas are encouraged. 
+
+## Startup Analytics Idea: Contact Luke Mills
+
+    Every year there are myriad new startups launched. These span numerous industries, with a greater number failing than suceeding.
+
+    This project will analyze startup data such as industry, location, and other parameters to see if there is any correlation between these factors and success.
+    
+    The crunchbase API will be used to obtain necessary data.
+
+## Retrieve and fix missing/incorrect metadata on Music or Video Media Files: Contact Axel Hranov
+
+-Provide a file with missing/incorrect metadata
+-Have user provide optional additional search suggestions
+-Crawl public metadata databases and search for song/movie/show/etc. and udpdate metadata if found
+-Possibly maintain seperate database for files that do not exist in other DBs.
+
+### Lightweight Tool for Retrieval of Optimal Settings/Modification of PC games (Pulled from PCGamingWiki)
+
+-Small program that can be run that asks for a game name (or detects what game is being run through Steam API)
+-Search PCGamingWiki.com for the game, and collects the standardized and nonstandardized information
+-Organize and display information in single screen format
+-Provide hyperlinks to the folders containing the save files/ini files/etc. (No need to manually go through file explorer)
+
+### DeepDream Video Converter (DeepDream Batch Handler)
+
+-Input a video/gif/WEBM file
+-User can choose several different parameters to determine DeepDream algorithm
+-Interperet individual frames and feed each one into DeepDream
+-Replace the frame with the new frame generated
+-Output new file to desired filename
+-Result is trippy, crazy version of input video.
+-Example of Video Ran through Deep Dream
+
+## How do political donations affect policy decisions?  Contact Denizhan Pak
+
+Opensecrets.org provides a list of donations made to US politicians and the policies they have sponsored, co-sponsored or signed. I want to do a text analysis comparing the donating groups by field of interest to policies that relate to the regulation of that field, to see if there is a relationship between the policy and the donations.
+
+
 ## Search for code clones
    https://www.itwire.com/security/79504-researchers-find-marcus-hutchins-code-that-was-used-in-malware.html
    https://github.com/MalwareTech/BasicHook/blob/master/BasicHook/hook.cpp#L77

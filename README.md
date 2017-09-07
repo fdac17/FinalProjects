@@ -5,6 +5,28 @@
 I will be investigating Gymnastic outcomes. Using gymnastic competition score to determine base hierarchical structure of top gymnast. Then some correlation and analysis on this heirarctical structure based on gyms rank, age, age based on level, years in each level. Is there a way to predict early on if a gymnast is more likely to get injury or take injury time off , if so what age and what is its relation to score? As well as we can as a few more questions.
 
 Data source: Competition gymnastic site: example usa gymnastics Articles and Website information about known top level gymnasts Video to text data: A Lot of gymnastic competition is stream, and include some information about injuries and breaks from gymnastics. As well as technical aspects that we later could use to help certain injuries.
+Social Media Image Analysis
+Goal
+
+## Quantify professionalism, interests, and activities based on individual's images on social media. Contact Paine Leffler
+Reasoning
+
+   - Tedious to look through a large amount of images.
+   - Can be subjective.
+   - Could help fit individuals on teams based on similar interests.
+   - Could help individuals analyze their public web presence.
+
+Tools & Data sources
+
+   - Google's Cloud Vision API https://cloud.google.com/vision/
+   - LinkedIn API
+   - Instagram API
+   - Facebook API
+   - Twitter API
+
+Stretch goal
+
+   - Compare individuals' images to get a compatibility score / visualization.
 
 ## Analyze data from libraries.io using TDA: Please contact Jacob Miller at jmill225@vols.utk.edu
 

@@ -48,7 +48,7 @@ Opensecrets.org provides a list of donations made to US politicians and the poli
 
 
 ## Correlation between Pitchfork review scores and Pitchfork Metadata (Contact J.T. Liso at gliso@vols.utk.edu)
- - Scrape data from Pitchfork (https://github.com/nsgrantham/pitchfork-reviews)
+ - Scrape data from Pitchfork (https://github.com/nolanbconaway/pitchfork-data.git)
  - Discover if certain artists are unproportionally rated low or high scores
  - Find correlation between certain scores and words within a review
  - Discover if certain reviewers tend to review high or low scores (or use certain words)

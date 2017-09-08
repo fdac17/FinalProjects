@@ -8,7 +8,7 @@ What: [Topological data analytics](https://www.ias.edu/ideas/2013/lesnick-topolo
 How: Possibly relying on the network structure of open source dependencies, we could create simplicial complexes using something like the "nearest-neighbor" filtration. With this new encoding of the data, we can use available software to find the zigzag persistant homology of the system.
 
 #
-An introduction to TDA by one of its founders:
+An introduction to TDA by one of its founders:\\
 [![IMAGE ALT TEXT](http://img.youtube.com/vi/XfWibrh6stw/0.jpg)](http://www.youtube.com/watch?v=XfWibrh6stw "Introduction to Topological Data Analysis")
 
 

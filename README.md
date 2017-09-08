@@ -36,6 +36,11 @@ What: Topological data analytics is a new field of data analytics which attempts
 
 How: Possibly relying on the network structure of open source dependencies, we could create simplicial complexes using something like the "nearest-neighbor" filtration. With this new encoding of the data, we can use available software to find the zigzag persistant homology of the system.
 
+- An introduction to TDA by one of its founders:
+
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/XfWibrh6stw/0.jpg)](http://www.youtube.com/watch?v=XfWibrh6stw "Introduction to Topological Data Analysis")
+
+
 Further ideas are encouraged. 
 
 ## Startup Analytics Idea: Contact Luke Mills
@@ -69,6 +74,10 @@ The crunchbase API will be used to obtain necessary data.
 -Output new file to desired filename
 -Result is trippy, crazy version of input video.
 -Example of Video Ran through Deep Dream
+
+### JanusVR Web Crawler
+
+-JanusVR is a platform that allows visual representations of web pages -Each web page is an enviroment and allows any sort of user-generated content to be displayed -Users can explore the webspaces, and travel through portal (link) to other sites. -Develop Crawler to map out the JanusWeb and allow users to choose an insertion point
 
 ## How do political donations affect policy decisions?  Contact Denizhan Pak
 

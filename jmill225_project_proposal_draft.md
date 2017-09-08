@@ -1,7 +1,5 @@
 # Possible Project Idea
 
-#
-
 ## Analyze data from libraries.io using TDA
 Question: Using topological data analysis software, can one determine a way of classifying similar structures of open source software?
 

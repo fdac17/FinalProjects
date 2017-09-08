@@ -1,5 +1,8 @@
 # Possible Project Idea
 
+#
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/XfWibrh6stw/0.jpg)](http://www.youtube.com/watch?v=XfWibrh6stw "Introduction to Topological Data Analysis")
+
 ## Analyze data from libraries.io using TDA
 Question: Using topological data analysis software, can one determine a way of classifying similar structures of open source software?
 
@@ -10,7 +13,3 @@ How: Possibly relying on the network structure of open source dependencies, we c
 ##
 Further ideas are encouraged.
 Please contact Jacob Miller at jmill225@vols.utk.edu
-
-
-#
-[![IMAGE ALT TEXT](http://img.youtube.com/vi/XfWibrh6stw/0.jpg)](http://www.youtube.com/watch?v=XfWibrh6stw "Introduction to Topological Data Analysis")

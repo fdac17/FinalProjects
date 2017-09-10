@@ -8,6 +8,11 @@ Data source: Competition gymnastic site: example usa gymnastics Articles and Web
 Social Media Image Analysis
 Goal
 
+## Bitcoin Money Laundering. Please contact Chris Shurtleff
+Bitcoin is a pseudo-anonymous cryptocurrency, known for making millionaires of random internet geeks and its association with online drug trafficking. The most interesting feature (for our purposes) of bitcoin is the blockchain: a completely public ledger that records every transaction ever performed, and is updated in real time as new transactions occur. The blockchain represents a public treasure trove of data, ripe for interested data scientist to play with. There are many sites and programs that perform various levels of analysis on the blockchain. My interest, with this project, will be part of an attempt to de-anonymize certain transactions by finding a measure that can determine how related two transactions are.
+
+Bitcoin transactions can be modeled as unidirectional, sparse graphs. This has been done many times before. The goal for this project would be to model bitcoin transactions as a graph, and identify an easy method or tool to measure how related two transactions are. This measure or technique could be useful in identifying money laundering operations, where criminals seek to obscure the 'dirty' source of money to create 'clean' cash for legal uses. A stretch goal for this project would be to create a web scraper designed to look for and identify valid bitcoin addresses online, and associate those with posted identities.
+
 ## Quantify professionalism, interests, and activities based on individual's images on social media. Contact Paine Leffler
 Reasoning
 

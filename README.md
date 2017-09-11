@@ -1,5 +1,18 @@
 # Final project teasers
 
+## Media Vs. Social media correlation pattern discovery. Please contact Gerald Jones
+
+I want to use text analysis to attempt to look for correlations and possible perceivable patterns in relation to the prominent Ideas and 
+themes expressed in Main Stream and Independent news sources and what the prominent themes and Ideas trending across social media across 
+a predefined time frame (say a few months).I would like to see if the ideas/thems follow social media or vice versa, as well as look for 
+differences in major stories that can be noticed through time, and maybe see how well the different news sources stay neutral or who ends
+up closer to the truth overall.
+
+## Bitcoin Money Laundering. Please contact Chris Shurtleff
+Bitcoin is a pseudo-anonymous cryptocurrency, known for making millionaires of random internet geeks and its association with online drug trafficking. The most interesting feature (for our purposes) of bitcoin is the blockchain: a completely public ledger that records every transaction ever performed, and is updated in real time as new transactions occur. The blockchain represents a public treasure trove of data, ripe for interested data scientist to play with. There are many sites and programs that perform various levels of analysis on the blockchain. My interest, with this project, will be part of an attempt to de-anonymize certain transactions by finding a measure that can determine how related two transactions are.
+
+Bitcoin transactions can be modeled as unidirectional, sparse graphs. This has been done many times before. The goal for this project would be to model bitcoin transactions as a graph, and identify an easy method or tool to measure how related two transactions are. This measure or technique could be useful in identifying money laundering operations, where criminals seek to obscure the 'dirty' source of money to create 'clean' cash for legal uses. A stretch goal for this project would be to create a web scraper designed to look for and identify valid bitcoin addresses online, and associate those with posted identities.
+
 ## Gymnastic outcomes. Please contact Kirsten Dawes
 
 I will be investigating Gymnastic outcomes. Using gymnastic competition score to determine base hierarchical structure of top gymnast. Then some correlation and analysis on this heirarctical structure based on gyms rank, age, age based on level, years in each level. Is there a way to predict early on if a gymnast is more likely to get injury or take injury time off , if so what age and what is its relation to score? As well as we can as a few more questions.
@@ -7,11 +20,6 @@ I will be investigating Gymnastic outcomes. Using gymnastic competition score to
 Data source: Competition gymnastic site: example usa gymnastics Articles and Website information about known top level gymnasts Video to text data: A Lot of gymnastic competition is stream, and include some information about injuries and breaks from gymnastics. As well as technical aspects that we later could use to help certain injuries.
 Social Media Image Analysis
 Goal
-
-## Bitcoin Money Laundering. Please contact Chris Shurtleff
-Bitcoin is a pseudo-anonymous cryptocurrency, known for making millionaires of random internet geeks and its association with online drug trafficking. The most interesting feature (for our purposes) of bitcoin is the blockchain: a completely public ledger that records every transaction ever performed, and is updated in real time as new transactions occur. The blockchain represents a public treasure trove of data, ripe for interested data scientist to play with. There are many sites and programs that perform various levels of analysis on the blockchain. My interest, with this project, will be part of an attempt to de-anonymize certain transactions by finding a measure that can determine how related two transactions are.
-
-Bitcoin transactions can be modeled as unidirectional, sparse graphs. This has been done many times before. The goal for this project would be to model bitcoin transactions as a graph, and identify an easy method or tool to measure how related two transactions are. This measure or technique could be useful in identifying money laundering operations, where criminals seek to obscure the 'dirty' source of money to create 'clean' cash for legal uses. A stretch goal for this project would be to create a web scraper designed to look for and identify valid bitcoin addresses online, and associate those with posted identities.
 
 ## Quantify professionalism, interests, and activities based on individual's images on social media. Contact Paine Leffler
 Reasoning

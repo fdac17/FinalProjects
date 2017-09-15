@@ -218,3 +218,18 @@ annotated left foot sub-images.
   - https://github.com/blackducksoftware/ohloh_api/blob/master/examples/account_sample.py
 
 
+## Relationship among OSS projects
+
+* When a project A depends on another project B, what factors predict how quickly A's code actually makes use of new methods/classes/etc. of B? Some possible factors include number of shared developers, shared membership in organizations, prior collaboration of devs from A and from B, same country or time zone, past update schedules of A and B.
+
+* Compare across multiple ecosystems to see if there are significant differences in practices like:
+    * release frequency; frequency of breaking changes (assuming semver)
+    * backporting (Hannah has already done this for npm)
+    * dependency freshness (how long until downstream projects update dependency versions)
+    * number of automatic updates due to wildcards
+
+A survey of ecosystem values (data at https://doi.org/10.1184/R1/5108716, context at http://breakingapis.org/survey) to see whether ecosystem values have an additional influence and can explain differences among ecosystems.
+
+* Dig into the git repositories and look for release notes or changes to documentation or detect things like deprecating methods. Perhaps apply an automated documentation generation tool to extract the public methods (doxygen works for a number of languages, there are others) and perform a structured diff to see how often public methods are introduced, removed, or signatures are changed.
+
+* They could also do any of those comparisons with subcommunities just within npm

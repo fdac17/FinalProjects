@@ -1,5 +1,20 @@
 # Final project teasers
 
+## Reddit social interactions analysis. Please contact Carissa Bleker & Ashley Cliff
+
+We plan to scrape reddit posts and comments and analysis user interactions with each other and posts. 
+Perhaps we can identify elements which generate a lot of activity in the form of upvotes and downvotes. 
+We also plan to identify themes and how they might evolve over time. 
+
+Tools:
+
+* [Reddit API](https://github.com/reddit/reddit/wiki/API)
+* [The Python Reddit API Wrapper](https://praw.readthedocs.io/en/latest/)
+
+Issues: 
+* subreddits to scrape
+* time limit to scrape
+
 ## Media Vs. Social media correlation pattern discovery. Please contact Gerald Jones
 
 I want to use text analysis to attempt to look for correlations and possible perceivable patterns in relation to the prominent Ideas and 
@@ -20,6 +35,7 @@ I will be investigating Gymnastic outcomes. Using gymnastic competition score to
 Data source: Competition gymnastic site: example usa gymnastics Articles and Website information about known top level gymnasts Video to text data: A Lot of gymnastic competition is stream, and include some information about injuries and breaks from gymnastics. As well as technical aspects that we later could use to help certain injuries.
 Social Media Image Analysis
 Goal
+
 
 ## Quantify professionalism, interests, and activities based on individual's images on social media. Contact Paine Leffler
 Reasoning

@@ -1,5 +1,8 @@
 # Final project teasers
 
+## GroupMe and Discord APIs: Please contact Kevin Ye
+Using the GroupMe and Discord APIs, pick two chats within a larger group and evaluate how usage differs. Which application do people prefer/use more? Do they post different kind of content? Do people use the applications at different times?
+
 ## Reddit social interactions analysis. Please contact Carissa Bleker & Ashley Cliff
 
 We plan to scrape reddit posts and comments and analysis user interactions with each other and posts. 

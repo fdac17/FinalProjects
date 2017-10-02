@@ -18,3 +18,9 @@
   -Output new file to desired filename   
   -Result is trippy, crazy version of input video.   
   -[Example of Video Ran through Deep Dream](https://youtu.be/AhwvJpEEWeE?t=31) 
+
+## JanusVR Web Crawler
+   -JanusVR is a platform that allows visual representations of web pages   
+   -Each web page is an enviroment and allows any sort of user-generated content to be displayed    
+   -Users can explore the webspaces, and travel through portal (link) to other sites.   
+   -Develop Crawler to map out the JanusWeb and allow users to choose an insertion point.   

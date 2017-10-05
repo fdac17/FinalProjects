@@ -1,0 +1,69 @@
+
+\documentclass[journal]{IEEEtran}
+\usepackage{graphicx}
+
+\hyphenation{op-tical net-works semi-conduc-tor}
+
+
+\begin{document}
+\title{Open Secrets Analysis}
+
+\author{Nick Green, William Lifferth, Denizhan Pak, Christian Payne, Zachary Trzil} \maketitle
+
+
+\begin{abstract}
+%\boldmathieee latex template.
+  The United States spent 3.15 billion dollars on lobbying in 2016. The trend of lobbying in the United States has only risen over the years. Lobbying is intended to give the stakeholders of certain policies a direct method of communicating with their representatives. The failing of this system is that it gives disproportionate amount of influence to those with more financial resources. This creates an undesirable scenario where those with more economic resources will pursue goals that reinforce their control over those resources, without regard for the well-being of others. To understand the impact this has on governance, we analyze how impactful these donations are. What is the relationship between lobbying and the support for policies that are beneficial to those entities that fund said lobbying? To answer this question, we will collect and analyze data quantifying amounts spent on lobbying for various politicians and respectively the policies supported by those politicians. We will look for correlations between industries that spend money on lobbying and policies passed affecting said industries. We will then look at the types of policies that are more commonly implemented based on the industry's lobbying capacity. The data will be acquired through an open database, \textit{opensecrets.org}, where donations made to politicians are stored and made freely available. We will then collect federal policy from an open Congressional database \textit{gpo.gov} where we will analyze trends and look for statistical associations.
+\end{abstract}
+% IEEEtran.cls defaults to using nonbold math in the Abstract.
+% This preserves the distinction between vectors and scalars. However,
+% if the journal you are submitting to favors bold math in the abstract,
+% then you can use LaTeX's standard command \boldmath at the very start
+% of the abstract to achieve this. Many IEEE journals frown on math
+% in the abstract anyway.
+
+% Note that keywords are not normally used for peerreview papers.
+\begin{IEEEkeywords}
+Politics, corruption, lobbying, data retrieval, public policy.
+\end{IEEEkeywords}
+
+\IEEEpeerreviewmaketitle
+
+
+
+\section{Introduction}
+While the complexity of modern government necessitates the existence of a system of representation in any fundamentally democratic nation-state, it is important to recognize its limitations. However inevitable, this system is a textbook example of the principal-agent problem, generally defined to be the differential of incentives between a principal (the citizens of a nation state) and a selected agent (elected officials in a representative democracy) when it is unfeasible to evaluate in extreme granularity the decision-making process of the agent. While ideally elected officials should be made easily accessible to their constituents such that they can actively align their objectives with the desires of their respective principals, this access extends to interest groups and private entities. These private entities can use their access to lobby an elected official and effectively incentivize them to pursue their own goals over the goals of their principals--namely the citizenry they were elected to represent.
+While theoretically the natural realigning of incentives should be gradually achieved in an efficient electoral system with regular opportunities to replace representatives, this is rarely the case in modern American political life. Alternatively, making available a better means of evaluating the decision-making process of agents (elected officials) can provide a separate path to alleviating the failings of the principal-agent problem.
+\section{Methodology}
+The central question to alleviating the principal-agent problem is, for a given politician, to what degree is their decision making on matters of public policy associated with desires of the interest groups which provide financial resources, particularly in the case where these desires may be contrary to those of their electorate. 
+
+Using records on the financial relationships between lobbying entities and elected officials, we can derive the groups and entities an elected official may feel potentially beholden to; although there are many valid ways of going about this a simple mapping of magnitude of financial contribution to potential for corrupt rent-seeking behavior may provide a robust mechanism for identifying the third party-agent pairings of most interest.
+
+Additionally, an objective way of determining whether the behavior of an elected official exhibits corrupt rent-seeking potential is necessary. A preliminary method to establish this potential is simply clustering groups of elected officials together based on the nature of their received financial contributions, and verifying whether or not these clusters hold any predictive power over certain actions (i.e. votes on public policy). If this is the case, we can at least show that lobbying behavior is not independent of decision of public policy.
+
+Whoever the above stated method is limited in that it can only show trends in aggregate, as it depends on the clustering of many agents (elected officials). Ideally, we would be able to evaluate a single elected official on the grounds of corruption. For this purpose, it is necessary to build a model capable of labeling a certain public policy decision as either beneficial or disadvantageous for a given third party lobbying entity. If this can be done with relative confidence, we can address to what degree different elected officials are affected by financial contributions to behave in ways that subjugate the well-being of their principals to the well-being of those third-party entities from which they have received financial resources.
+
+\section{Sources}
+We will pull data on financial contributions from the site OpenSecrets.org, to inform our initial assessment of potential for corrupt rent-seeking behavior between a given elected official and any third-party interest group. Furthermore, we will utilize the documents made available by the U.S. Government Publishing Office via the site GPO.gov to evaluate the nature of specific behavior by agents.
+
+\section{Impacts}
+If such a project is able to effectively quantify levels of corruption, it could not only lead to particularly corrupt officials being removed from office, but also provide a real incentive for elected officials act in the best interest of their constituents. In many ways, it can alleviate the issues brought on by the principal-agent problem intrinsic in representative democracy.
+
+
+\section{Conclusion}
+
+Alleviating the principal-agent problem will make the American democratic process stronger. Accurately representing the citizens of the nation, whether or not they can financially support an elected official, is key to accountability in the political process. Unfortunately, there is no accountability in American politics. This is an effort to restore some faith back into the process by shedding light on the parts that Washington aims to keep hidden, rather than sitting idly by while interest groups silently push their own agendas.
+
+\section{Timeline}
+\begin{itemize}
+ \item Compile list of US Legislators to look at data for - by October 15
+ \item Collect donation data from opensecrets.org - by October 31
+ \item Collect legislative data from federal government - by November 16
+ \item Sort and match data per legislator - by November 30
+ \item Create an analysis of data - by December 15
+ \item Create Final report - by December 25
+\end{itemize}
+
+\end{document}
+
+

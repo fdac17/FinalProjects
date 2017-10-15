@@ -31,7 +31,8 @@ might drive the downloads? Could it be that certain type of applications based o
 analysis of reade file may also affect the number of downloads?
 
 2. Write scripts top extract and compute needed measures from MongoDB (perhaps utilizing information
-in collections collected by others).
+in collections collected by others). The full collection of packages is in database NPMS_packages
+collection npms_all.
 
 3. Fit suitable models and present results.
 

@@ -2,7 +2,6 @@ Analyze NPMS data
 =================
 
 
-
 Mini-Project3 - Step 1
 ----------------------
 
@@ -18,6 +17,13 @@ other attributes in the data.
 
 4. Finally prepare a presentation that explains or predicts the number of downloads using remaining 
    variables.
+
+IMPORTANT
+---------
+
+Please follows the steps in the [notebook](https://github.com/fdac17/lectures/blob/master/fdacStats.ipynb)
+that has the all R code needed to do this assignment. The lecure slides are
+in https://github.com/fdac17/lectures/blob/master/fdacStats.pdf
 
 
 

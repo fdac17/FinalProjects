@@ -1,7 +1,7 @@
 import pymongo, json, sys
 
 
-client = pymongo.MongoClient ()
+client = pymongo.MongoClient (host="da1")
 db = client ['NPM_packages']
 id = sys.argv[1]
 
@@ -16,19 +16,28 @@ for r in coll.find():
   if 'devDependencies' in r ['collected']['metadata']:
     nDev = len(r ['collected']['metadata']['devDependencies'])
   nR = 0;
-  for re in r ['collected']['metadata']['releases']:
-    nR =+ re ['count']
+  if 'releases' in r ['collected']['metadata']:
+    for rl in r ['collected']['metadata']['releases']:
+      nR =+ rl ['count']
   nDn = 0
-  for dn in r['collected']['npm']['downloads']:
-    nDn =+ dn ['count']
+  if 'npm' in r['collected']:
+    for dn in r['collected']['npm']['downloads']:
+      nDn =+ dn ['count']
   
   data = r['collected']['metadata']['name'];
   if 'date' in r['collected']['metadata']:
     data += ';' + r['collected']['metadata']['date']
   else:
     data += ';'
-  data += ';' + r['collected']['metadata']['scope'] + ';' + \
-     str(r['collected']['npm']['starsCount']) +';'+ str(r['collected']['npm']['dependentsCount']) +';'+ \
+  if 'scope' in r['collected']['metadata']:
+    data += ';' + r['collected']['metadata']['scope']
+  else:
+    data += ';'
+  if 'npm' in r['collected']:
+    data += ';' + str(r['collected']['npm']['starsCount']) +';'+ str(r['collected']['npm']['dependentsCount'])
+  else:
+    data += ';;'
+  data += ';' + \
      str(r['score']['final']) +';'+ str(r['score']['detail']['quality'])+';'+ str(r['score']['detail']['popularity'])+';'+ str(r['score']['detail']['maintenance']) +';'+\
      str(r['evaluation']['quality']['health'])+';'+  str(r['evaluation']['quality']['branding'])+';'+  str(r['evaluation']['quality']['tests'])+';'+  str(r['evaluation']['quality']['carefulness'])+';'+\
      str(r['evaluation']['popularity']['downloadsCount'])+';'+  str(r['evaluation']['popularity']['downloadsAcceleration'])+';'+\

@@ -3,7 +3,7 @@ import pymongo, json, sys
 
 client = pymongo.MongoClient (host="da1")
 db = client ['NPM_packages']
-id = sys.argv[1]
+id = "mmacneil"
 
 coll = db [ 'npms_' + id]
 

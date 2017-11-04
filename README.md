@@ -259,7 +259,6 @@ A survey of ecosystem values (data at https://doi.org/10.1184/R1/5108716, contex
 
 * Dig into the git repositories and look for release notes or changes to documentation or detect things like deprecating methods. Perhaps apply an automated documentation generation tool to extract the public methods (doxygen works for a number of languages, there are others) and perform a structured diff to see how often public methods are introduced, removed, or signatures are changed.
 
-<<<<<<< HEAD
 ## ECG data
 https://physionet.org/challenge/2017/
 
@@ -287,6 +286,3 @@ classes in this Challenge. From top to bottom, they are ECG
 waveforms of normal rhythm, AF rhythm, other rhythm and noisy
 recordings.
 
-=======
-* They could also do any of those comparisons with subcommunities just within npm
->>>>>>> e8f6529c786dfe8787157fd2778d5191c22af743

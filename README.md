@@ -1,3 +1,27 @@
+# Final Project Proposals & Reports
+
+## Output format
+
+The project will explore one or more of the themes covered in the course that students find particularly compelling. The group needs to submit a project proposal (1.5-2 pages IEEE format) approximately 1.5 months before the end of term. The proposal should provide
+
+   1. a brief motivation of the project,
+   1. detailed discussion of the data that will be obtained or used in the project,
+   1. a time-line of milestones, and
+   1. expected outcome.
+
+At the end of the semester each project will be presented in class: see schedule.
+
+Project report (approximately 4 pages IEEE format) will be due on the last day of classes. 
+The format will be similar to the proposal but with emphasis on the results:
+
+   1. a brief motivation of the project,
+   1. a detailed discussion of the context and data
+   1. a description of the quantitative method used to analyze data
+   1. a description of the results
+   1. related work, limitations, issues encountered
+   1. future work, and conclusions
+
+
 # Final project teasers
 
 ## GroupMe and Discord APIs: Please contact Kevin Ye

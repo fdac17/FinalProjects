@@ -1,3 +1,27 @@
+# Final Project Proposals & Reports
+
+## Output format
+
+The project will explore one or more of the themes covered in the course that students find particularly compelling. The group needs to submit a project proposal (1.5-2 pages IEEE format) approximately 1.5 months before the end of term. The proposal should provide
+
+   1. a brief motivation of the project,
+   1. detailed discussion of the data that will be obtained or used in the project,
+   1. a time-line of milestones, and
+   1. expected outcome.
+
+At the end of the semester each project will be presented in class: see schedule.
+
+Project report (approximately 4 pages IEEE format) will be due on the last day of classes. 
+The format will be similar to the proposal but with emphasis on the results:
+
+   1. a brief motivation of the project,
+   1. a detailed discussion of the context and data
+   1. a description of the quantitative method used to analyze data
+   1. a description of the results
+   1. related work, limitations, issues encountered
+   1. future work, and conclusions
+
+
 # Final project teasers
 
 ## GroupMe and Discord APIs: Please contact Kevin Ye
@@ -235,4 +259,30 @@ A survey of ecosystem values (data at https://doi.org/10.1184/R1/5108716, contex
 
 * Dig into the git repositories and look for release notes or changes to documentation or detect things like deprecating methods. Perhaps apply an automated documentation generation tool to extract the public methods (doxygen works for a number of languages, there are others) and perform a structured diff to see how often public methods are introduced, removed, or signatures are changed.
 
-* They could also do any of those comparisons with subcommunities just within npm
+## ECG data
+https://physionet.org/challenge/2017/
+
+The 2017 PhysioNet/CinC Challenge aims to encourage the development
+of algorithms to classify, from a single short ECG lead recording
+(between 30 s and 60 s in length), whether the recording shows
+normal sinus rhythm, atrial fibrillation (AF), an alternative
+rhythm, or is too noisy to be classified. 
+
+ECG recordings, collected using the AliveCor device, were generously
+donated for this Challenge by AliveCor. The training set contains
+8,528 single lead ECG recordings lasting from 9 s to just over 60 s
+(see Table 2) and the test set contains 3,658 ECG recordings of
+similar lengths. The test set is unavailable to the public and will
+remain private for the purpose of scoring for the duration of the
+Challenge and for some period afterwards. 
+
+ECG recordings were sampled as 300 Hz and they have been band pass
+filtered by the AliveCor device. All data are provided in MATLAB V4
+WFDB-compliant format (each including a .mat file containing the ECG
+and a .hea file containing the waveform information). More details
+of the training set can be seen in Table 2. Figure 1 shows the
+examples of the ECG waveforms (lasting for 20 s) for the four
+classes in this Challenge. From top to bottom, they are ECG
+waveforms of normal rhythm, AF rhythm, other rhythm and noisy
+recordings.
+

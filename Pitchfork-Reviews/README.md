@@ -1,5 +1,4 @@
-# pitchviews
-## J.T. Liso, Caleb Fabian, Richard Riedel
+# pitchviews (J.T. Liso, Caleb Fabian, Richard Riedel)
 Analysis of Pitchfork reviews and streaming data, final project for UTK COSC 545, Fundamentals of Digital Archaeology.
 
 ## Results

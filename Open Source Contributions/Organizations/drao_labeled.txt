@@ -1,0 +1,768 @@
+    kumekay.com: 1:y
+ hackerbots.net: 1:1
+   e-string.com: 1:1
+      nu-ex.com: 1:1
+       53cr.com: 1:1
+stevestmartin.com: 1:3
+panopticdev.com: 1:1
+indierockmedia.com: 1:1
+   morearty.org: 1:1
+ imagegroup.com: 1:1
+  nach-vorne.eu: 1:2
+       abrah.ms: 1:2
+  hdhoang.space: 1:2
+    w3at.com.br: 1:2
+  arieldiaz.com: 1:1
+managedopensource.com: 1:1
+     ullrich.is: 1:2
+  toronegro.net: 1:1
+     prylis.com: 1:1
+        quiz.md: 1:2
+      ucl.ac.uk: 1:1
+  austenito.com: 1:1
+   bentoner.com: 1:1
+aminastaneh.net: 1:1
+   kamawada.com: 1:1
+        ofb.net: 1:1
+          42.dk: 1:1
+   rubyplus.com: 1:1
+marcusirven.com: 1:1
+   42puzzle.com: 1:1
+       scrug.gs: 1:1
+   beancuke.com: 1:1
+   ispirata.com: 1:1
+       yahoo.es: 1:2
+     jlaine.net: 1:1
+levimccallum.com: 1:3
+   mikewest.org: 1:3
+  moonclerk.com: 1:1
+    xiano.co.uk: 1:1
+    crux.org.pl: 1:3
+      i-tool.eu: 1:1
+ justinrich.com: 1:3
+     furilo.com: 1:1
+     haikuco.de: 1:1
+  netresolve.pl: 1:1
+chrissloan.info: 1:1
+davidrodriguez.es: 1:3
+       aitor.is: 1:3
+   hapgoods.com: 1:1
+      lusrc.com: 1:1
+       local.ch: 1:1
+  johntoups.com: 1:1
+alkaline-solutions.com: 1:1
+ ablschools.com: 1:1
+theoremdesign.com: 1:1
+      panter.ch: 1:1
+ presenceco.com: 1:1
+robotloveskitten.com: 1:1
+sourcebender.com: 1:1
+ flipsidexr.com: 1:1
+     trinix.com: 1:1
+       xach.com: 1:1
+       yarp.com: 1:1
+        veez.us: 1:1
+     fdutra.org: 1:1
+      jfred.net: 1:3
+      aurels.be: 1:1
+  kevindamm.com: 1:3
+    tonywinn.me: 1:3
+ elliterate.com: 1:1
+forwardlateral.com: 1:1
+  tesoriere.com: 1:1
+   larkfarm.com: 1:1
+paul.chavard.net: 1:3
+ avandamiri.com: 1:1
+brightsoftwarehq.com: 1:1
+   loscombe.com: 1:1
+ josephwilk.net: 1:1
+junglistheavy.industries: 1:3
+      desire.sh: 1:3
+     thoran.com: 1:1
+ elevenbits.com: 1:1
+       celik.be: 1:3
+    jenssen.org: 1:1
+ryanbergeman.com: 1:1
+   tower-mt.com: 1:1
+   ivercore.com: 1:1
+    roamable.ca: 1:1
+twofoldsoftware.com: 1:1
+    dekorte.com: 1:1
+pillageandplunder.net: 1:1
+   codebeef.com: 1:1
+       emqtt.io: 1:1
+sourcegraph.com: 1:1
+ stonehenge.com: 1:1
+   gokarbon.com: 1:1
+   lazyatom.com: 1:1
+       magni.me: 1:1
+geekbehindthecurtain.com: 1:1
+     armooo.net: 1:1
+     dojbol.com: 1:1
+    zorched.net: 1:1
+thoughtworks.com: 1:1
+      remix.net: 1:1
+      ebrain.nl: 1:1
+     brewbot.io: 1:1
+       uespi.br: 1:3
+  petebevin.com: 1:3
+    tobin.id.au: 1:3
+      escoz.com: 1:1
+   theyapps.com: 1:1
+    cukehub.com: 1:1
+    kopanas.com: 1:1
+  jimsidler.com: 1:1
+     earth-w.jp: 1:3
+ adamhooper.com: 1:1
+      rnd.rocks: 1:3
+   engr.ucr.edu: 1:1
+  picocandy.com: 1:1
+          ti.md: 1:3
+   avenue80.com: 1:1
+     3rdarm.com: 1:1
+        ill.com: 1:1
+    connett.net: 1:1
+   ideopolis.gr: 1:3
+    castelli.me: 1:3
+    marache.com: 1:1
+ hates.software: 1:1
+       nasa.gov: 1:1
+pinepointsoftware.com: 1:1
+     awtrey.com: 1:1
+austinschneider.com: 1:1
+  box2small.com: 1:1
+davecardwell.com: 1:1
+   rubytune.com: 1:1
+doubleencore.com: 1:
+     ramboi.com: 1:1
+      mando.org: 1:1
+jasoncoffin.com: 1:1
+     hasno.info: 1:3
+martyandrews.net: 1:1
+   antiflux.org: 1:3
+     tejasa.com: 1:3
+   dmathieu.com: 1:3
+    zeroping.ca: 1:1
+   gtalumni.org: 1:3
+   grandkru.com: 1:1
+     dofter.com: 1:1
+    poulikov.ru: 1:1
+   dahammer.net: 1:1
+    vasiliev.me: 1:1
+         diu.pm: 1:3
+     lklabs.com: 1:1
+    kstewart.me: 1:3
+andrecardozo.com: 1:1
+    menfin.info: 1:3
+      youhei.jp: 1:1
+        suse.de: 1:3
+andaleadvertising.com: 1:1
+  mutelight.org: 1:3
+     paxata.com: 1:1
+    atomist.com: 1:1
+    loadsys.com: 1:1
+       email.de: 1:3
+cyrilgodefroy.com: 1:3
+  artel-gnu.org: 1:3
+grinning-cat.com: 1:1
+  fleecelabs.se: 1:3
+     beanon.com: 1:1
+     lanyrd.com: 1:1
+  renemoser.net: 1:1
+   catawiki.com: 1:1
+   veldstra.org: 1:1
+     garthk.com: 1:1
+       nika.com: 1:1
+    svashta.com: 1:1
+     tombug.com: 1:1
+         jah.pl: 1:3
+  tddsworld.com: 1:1
+        galv.in: 1:1
+overcommittedapps.com: 1:1
+ travisbell.com: 1:1
+        dirk.to: 1:3
+  lightmesh.com: 1:1
+ theboohers.org: 1:1
+  sonicpond.com: 1:1
+    nanolia.net: 1:3
+magrathealabs.com: 1:1
+ mikenz.geek.nz: 1:3
+       blair.io: 1:3
+        srid.ca: 1:3
+    torsion.org: 1:3
+carlosparamio.com: 1:1
+   monotype.com: 1:1
+    foxking.org: 1:1
+      scotfl.ca: 1:1
+eng.utoledo.edu: 1:1
+  syntactic.org: 1:1
+endlesswhileloop.com: 1:1
+  joshmiller.io: 1:3
+  cartasite.com: 1:1
+ moellegaard.dk: 1:3
+    webpeak.com: 1:1
+ davemerwin.com: 1:3
+ nahapetian.com: 1:1
+ davidohara.net: 1:3
+ruby-sapporo.org: 1:1
+  harrisony.com: 1:1
+      inbox.com: 1:1
+ techvoxinc.com: 1:1
+    prosper.com: 1:1
+    mikamai.com: 1:1
+pharmarketeer.com: 1:1
+  yankowski.com: 1:1
+    humaneq.com: 1:1
+      anlek.com: 1:1
+collectionsaustralia.net: 1:1
+    pandalab.it: 1:1
+alexeypegov.com: 1:3
+henrikhjelte.com: 1:3
+    schopp3r.de: 1:1
+      renta.net: 1:1
+     bitovi.com: 1:1
+       xoom.org: 1:1
+   any-where.de: 1:1
+        fgad.de: 1:3
+abstractbinary.org: 1:1
+   joshpeek.com: 1:3
+     medivo.com: 1:1
+  nordaaker.com: 1:1
+ automattic.com: 1:1
+linksbusinessgroup.com: 1:1
+productscience.co.uk: 1:1
+ railsjitsu.com: 1:3
+  accidental.cc: 1:2
+ltheobald.co.uk: 1:1
+mytaskhelper.com: 1:1
+   idaemons.org: 1:1
+        geek.im: 1:3
+   kakutani.com: 1:1
+  boddie.org.uk: 1:3
+   cyberfox.com: 1:1
+  balansoft.com: 1:1
+    zeromtn.com: 1:1
+  realnorth.net: 1:1
+       kydd.net: 1:1
+       ramen.is: 1:3
+    subblue.com: 1:1
+      frede.biz: 1:3
+    wwindia.com: 1:1
+    gihyo.co.jp: 1:3
+    hedges.name: 1:1
+joellongtine.com: 1:3
+     dotless.de: 1:1
+  officewai.com: 1:1
+      rot13.org: 1:1
+      nata2.org: 1:1
+redromelogic.com: 1:1
+cliffpruitt.com: 1:1
+    envoked.com: 1:1
+  awhitebox.com: 1:1
+   yahoo.com.cn: 1:1
+          xc.cx: 1:1
+  madebyjam.com: 1:1
+  withaspoon.se: 1:2
+    esmejia.com: 1:1
+      costan.us: 1:1
+    mckible.com: 1:1
+       bertg.be: 1:3
+    glennfu.com: 1:1
+   ryanface.com: 1:1
+      chaz6.com: 1:1
+  lukestark.com: 1:1
+ thomaszone.com: 1:1
+  melvinram.com: 1:1
+     deefour.me: 1:3
+   thequeue.net: 1:1
+ burningbush.us: 1:1
+    schaffer.me: 1:3
+      mcgill.ca: 1:3
+      ahlers.me: 1:3
+bacondarwin.com: 1:1
+ mlbx.matrix.jp: 1:3
+   benmabey.com: 1:1
+    yutongo.com: 1:1
+      phunc.com: 1:1
+  madhatted.com: 1:1
+   bradynet.net: 1:1
+ biggerbird.com: 1:1
+  kevinsmith.cc: 1:3
+ jesseclark.com: 1:3
+refactor.com.au: 1:1
+   jeraimee.com: 1:1
+   drhanson.net: 1:1
+       leers.de: 1:3
+   jumpsuit.org: 1:1
+  davidyang.net: 1:3
+   sprovoost.nl: 1:1
+jointsecurityarea.org: 1:1
+    diegorv.com: 1:1
+davidbolton.net: 1:2
+highlandhomes.com: 1:1
+     nofeed.org: 1:3
+    numenta.org: 1:1
+ netlingshq.com: 1:1
+johnleach.co.uk: 1:3
+     phrogz.net: 1:1
+  imnotpete.com: 1:1
+     enalab.com: 1:1
+     wensel.net: 1:1
+ thetangens.net: 1:1
+    unixorn.net: 1:1
+    millett.net: 1:1
+      sitnik.ru: 1:1
+  alloycode.com: 1:1
+   inf.utfsm.cl: 1:3
+   rubygeek.com: 1:1
+    kiibohd.com: 1:1
+tinycandyhammers.com: 1:1
+      canciu.ro: 1:3
+       valid.be: 1:1
+     neeman.net: 1:3
+     thebird.nl: 1:3
+    nestegg.com: 1:1
+lighttransport.com: 1:1
+     wartala.de: 1:3
+   edwagner.org: 1:3
+ custommode.com: 1:1
+travishartwell.net: 1:3
+      brnbw.com: 1:1
+ federowicz.net: 1:1
+    tdreyno.com: 1:1
+   cloudcity.io: 1:3
+    nlsmith.com: 1:1
+       ciber.nl: 1:11
+      woss.name: 1:3
+  samoliver.com: 1:1
+    notwork.org: 1:1
+adamflorin.work: 1:3
+maik-schmidt.de: 1:3
+fairladymedia.com: 1:3
+    marktd.name: 1:3
+    jetruby.com: 1:3
+    iprobot.com: 1:1
+   shareday.com: 1:1
+arjanvandergaag.nl: 1:3
+  timmorgan.org: 1:3
+   ibody.com.br: 1:3
+      angel.net: 1:1
+   davegwan.com: 1:1
+     qvitta.net: 1:1
+     blossom.io: 1:3
+    predpol.com: 1:1
+   mikegray.org: 1:1
+intersectnyc.com: 1:1
+    emerose.com: 1:1
+      notso.net: 1:2
+ collispuro.net: 1:1
+     tekrat.com: 1:1
+ vermonster.com: 1:1
+    schembri.me: 1:1
+  lucaguidi.com: 1:1
+sevengoslings.net: 1:1
+     xjunior.me: 1:1
+hjaltijakobsson.com: 1:1
+     kublai.com: 1:1
+      fab-it.dk: 1:3
+ analysisuk.com: 1:1
+            scw: 1:3
+playfulcorp.com: 1:1
+   drewhess.com: 1:1
+        jcs.org: 1:1
+    tomayko.com: 1:1
+ whalesalad.com: 1:1
+ clerambault.fr: 1:3
+     markin.net: 1:1
+   hoerling.com: 1:1
+      bacek.com: 1:1
+   oliyoung.com: 1:1
+pawelszczesny.org: 1:1
+       weej.com: 1:1
+maxwellhealth.com: 1:1
+   newscred.com: 1:1
+     robi42.net: 1:3
+   madcreek.com: 1:1
+    poetsch.org: 1:1
+willcannings.com: 1:1
+starclass.com.au: 1:3
+    infused.org: 1:1
+   rorcraft.com: 1:1
+tomunsworth.net: 1:1
+swankinnovations.com: 1:1
+keithbingman.com: 1:1
+themoultons.net: 1:1
+  wlbentley.net: 1:1
+  indent.com.au: 1:1
+codejeweler.com: 1:1
+timothymorgan.info: 1:3
+    graysky.org: 1:1
+    sietsma.com: 1:1
+        shaw.ca: 1:3
+hybridgroup.com: 1:1
+aaronkhawkins.com: 1:1
+      ryara.net: 1:1
+      peebs.org: 1:1
+ pauldowman.com: 1:3
+thoughtpropulsion.com: 1:1
+  nickforge.com: 1:1
+       jpoz.net: 1:1
+hennessynet.com: 1:1
+andregoncalves.com: 1:1
+ superhelio.com: 1:1
+      romero.fm: 1:3
+         axb.no: 1:3
+guzenski.com.br: 1:3
+   netpress.com: 1:1
+    schuerig.de: 1:1
+     felideon)): 1:3
+   codeship.com: 1:1
+authomedia.co.uk: 1:1
+ alumni.cmu.edu: 1:1
+acmecreative.com: 1:1
+   kaeding.name: 1:3
+   dolganov.xyz: 1:1
+   ryanbigg.com: 1:1
+         sb.org: 1:1
+ bobmartens.net: 1:3
+goterkyourself.com: 1:3
+      libbey.me: 1:3
+ aetherical.com: 1:1
+    mergate.com: 1:1
+ beckingham.net: 1:3
+    ro-che.info: 1:3
+     talios.com: 1:1
+  glnetworks.de: 1:3
+    rapidan.com: 1:1
+   doxavore.com: 1:1
+        raku.mx: 1:3
+actionwebservice.info: 1:3
+   dealbase.com: 1:1
+sodelsolutions.com: 1:1
+     noswap.com: 1:1
+       danbo.me: 1:3
+       tnir.org: 1:1
+        corp.io: 1:3
+nedbatchelder.com: 1:3
+  rajaratnam.dk: 1:3
+brahmagroup.com: 1:1
+     joaoff.com: 1:1
+        tlen.pl: 1:1
+    aps.systems: 1:3
+     disqus.com: 1:1
+      build.com: 1:1
+studiozenkai.com: 1:1
+     recoil.org: 1:1
+       parmi.it: 1:2
+ inniogroup.com: 1:1
+   zacclark.com: 1:1
+         sav.as: 1:3
+work.renlabs.com: 1:1
+travis-cunningham.com: 1:1
+     webhost.io: 1:3
+    tablexi.com: 1:1
+joshchaiken.com: 1:3
+      hoegh.org: 1:1
+       lieba.ch: 1:3
+gaffertaped.com: 1:1
+  skyscraper.nu: 1:1
+  kevingisi.com: 1:1
+ vijaykiran.com: 1:3
+    nisgits.net: 1:1
+ erlang.geek.nz: 1:3
+     bernoul.li: 1:3
+ hoverkitty.com: 1:1
+     notdot.net: 1:3
+whole-studios.com: 1:1
+      bikle.com: 1:1
+      daddye.it: 1:3
+   seagul.co.uk: 1:1
+    rstudio.com: 1:1
+arbolurbano.org: 1:1
+    cbot-gsm.de: 1:3
+howlingfrog.com: 1:1
+extremist.digital: 1:3
+   innerewut.de: 1:3
+ develooper.com: 1:1
+      damog.net: 1:3
+      apple.com: 1:1
+       0042.com: 1:3
+    carlson.net: 1:1
+   bjdean.id.au: 1:3
+       rezo.net: 1:3
+     baslug.org: 1:1
+      syntax.ps: 1:3
+   opengoss.com: 1:1
+ opennebula.org: 1:1
+   hatena.ne.jp: 1:3
+josephholsten.com: 1:1
+    stadig.name: 1:3
+developersevolved.com: 1:1
+shelfworthy.com: 1:1
+ daveastels.com: 1:1
+       panki.ru: 1:3
+jey.kottalam.net: 1:3
+      mroch.com: 1:1
+   madriska.com: 1:1
+doesnthaveone.com: 1:1
+dandycoding.com: 1:1
+mattmoriarity.com: 1:1
+    awesame.org: 1:1
+    mineiro.org: 1:1
+  changelog.com: 1:1
+ mscottford.com: 1:1
+     ulizko.com: 1:3
+     dagi3d.net: 1:3
+     xeneta.com: 1:1
+    klunick.com: 1:1
+    poulden.com: 1:1
+  mikethole.com: 1:1
+ livingcode.org: 1:1
+ supervacuo.com: 1:1
+go-pragmatic.com: 1:1
+     ftrain.com: 1:1
+       yahoo.ca: 1:3
+          x8.io: 1:3
+andrewnurse.net: 1:3
+      3hv.co.uk: 1:3
+   lawgical.com: 1:1
+blueberryapps.com: 1:1
+delonnewman.name: 1:3
+futurekarma.org: 1:3
+ 8bitwizard.net: 1:3
+ zworkbench.com: 1:1
+ 610systems.com: 1:1
+      lackac.hu: 1:3
+      tanso.net: 1:3
+   markng.co.uk: 1:1
+elevatedrails.com: 1:1
+ snaptalent.com: 1:1
+clojurewerkz.org: 1:3
+prospectmarkets.com: 1:1
+   borgstrom.se: 1:3
+brandonfouts.com: 1:1
+alexlebedev.com: 1:3
+   mowforth.com: 1:1
+brian-donovan.com: 1:1
+artandculture.com: 1:1
+    smith.codes: 1:3
+   iandavis.com: 1:3
+     monkeyx.co: 1:3
+   deadstar.com: 1:1
+choppingblock.com: 1:1
+thirstyhead.com: 1:1
+         dio.jp: 1:3
+     temple.edu: 1:1
+      oak.works: 1:1
+verticalchange.com: 1:1
+     igvita.com: 1:1
+  diephouse.com: 1:1
+ seanhussey.com: 1:1
+    radgost.com: 1:1
+       ball.com: 1:1
+     kennard.me: 1:3
+    matthieu.us: 1:1
+  jystewart.net: 1:3
+  carlosedp.com: 1:1
+   quadhome.com: 1:1
+    tadam.co.il: 1:3
+   pathwayi.com: 1:1
+     fuerto.com: 1:1
+        esse.at: 1:3
+   delaunay.org: 1:1
+ heijmerikx.com: 1:3
+  sifterapp.com: 1:1
+ fanplastic.org: 1:3
+  subwindow.com: 1:1
+     barn3y.net: 1:3
+        gol.com: 1:1
+mutationevent.com: 1:3
+      seebq.com: 1:1
+nucleartesuji.com: 1:3
+  adviso.com.au: 1:1
+    hashref.com: 1:1
+    raupach.com: 1:1
+   digimute.com: 1:1
+       javan.us: 1:3
+   lee-cann.com: 1:1
+arthurkoziel.com: 1:1
+ attackcorp.com: 1:1
+edisonnation.com: 1:3
+ marchildon.net: 1:1
+       itech.ee: 1:3
+  tarantsov.com: 1:1
+      survol.fr: 1:3
+iveyandbrown.com: 1:3
+     xixora.net: 1:3
+    assignr.com: 1:1
+      wynst.com: 1:3
+ stargarden.com: 1:3
+packetmonkey.org: 1:1
+  gauthiers.net: 1:3
+    suttree.com: 1:1
+        rymc.io: 1:3
+ byteengine.net: 1:2
+         jjs.de: 1:3
+burningswell.com: 1:1
+ randnotizen.de: 1:3
+  rwldesign.com: 1:1
+fauxmachine.com: 1:1
+awesomebydesign.com: 1:1
+   errant.me.uk: 1:3
+kinoshita-lab.org: 1:3
+      consti.de: 1:3
+ryanschwartz.net: 1:3
+infinitered.com: 1:3
+martinisoftware.com: 1:1
+ member.fsf.org: 1:3
+     done21.com: 1:1
+       w3fu.com: 1:1
+        dmix.ca: 1:3
+      clabs.org: 1:1
+       dwlt.net: 1:3
+ chadfowler.com: 1:1
+   jackperry.me: 1:3
+      chorn.com: 1:1
+    hobocode.io: 1:3
+  leondewey.com: 1:3
+       myd3.com: 1:1
+       love.com: 1:1
+  snaplab.co.uk: 1:1
+barelyenough.org: 1:1
+  braintube.com: 1:1
+  mindsmith.net: 1:1
+ acceleroto.com: 1:1
+bluescreen303.nl: 1:1
+     caius.name: 1:1
+ northglenn.org: 1:1
+     mrloop.com: 1:1
+calamity.org.uk: 1:1
+   adelphus.com: 1:1
+   aelogica.com: 1:1
+  appwallah.com: 1:1
+   springett.me: 1:1
+  markovics.com: 1:1
+  brainhouse.ru: 1:3
+joshuagriffith.com: 1:1
+phillipoertel.com: 1:3
+         d22.co: 1:3
+   clubhouse.io: 1:3
+davidesperalta.com: 1:3
+   slashdot.org: 1:1
+brunobarreto.net: 1:3
+i.kyoto-u.ac.jp: 1:3
+    joealba.com: 1:1
+      urizen.pl: 1:3
+  patcheung.com: 1:1
+sparkfabrik.com: 1:1
+      larsen.st: 1:3
+     kostuch.at: 1:3
+toddsieling.com: 1:1
+saturnflyer.com: 1:1
+   symbeint.net: 1:3
+     bilien.org: 1:3
+         bri.tt: 1:3
+        plex.tv: 1:1
+tonycoconate.com: 1:1
+gunslingersoftware.com: 1:1
+ xaviershay.com: 1:1
+leisurely-works.jp: 1:1
+ joefiorini.com: 1:1
+        burd.me: 1:3
+  atarde.com.br: 1:3
+ gweezlebur.com: 1:1
+      trimpe.nl: 1:3
+    inceedo.com: 1:1
+corp.insite.com.br: 1:3
+   dysinger.net: 1:1
+    samlown.com: 1:1
+    shapbio.net: 1:3
+   jpserver.net: 1:3
+billeisenhauer.com: 1:1
+logankoester.com: 1:1
+   goldbely.com: 1:1
+scottishclimbs.com: 1:1
+       sina.com: 1:1
+   woodheap.org: 1:1
+   e-accent.com: 1:1
+   hiremaga.com: 1:1
+   joinroot.com: 1:1
+       okaq.com: 1:3
+  phatforge.com: 1:1
+    jrfernandez: 1:3
+       jakub.me: 1:3
+  wildejagd.org: 1:1
+       tj.id.au: 1:3
+     rorkjop.no: 1:3
+stanfordalumni.org: 1:1
+        6xq.net: 1:3
+   bryanwrit.es: 1:3
+   cachafla.com: 1:1
+ davelee.com.au: 1:3
+threeheadedmonkey.com: 1:1
+viseztrance.com: 1:1
+   artchang.com: 1:1
+      edbotz.us: 1:1
+ nathankerr.com: 1:1
+   watzmann.net: 1:1
+ spp.url.com.tw: 1:1
+   roomtone.com: 1:1
+     cassee.net: 1:
+   finecode.net: 1:1
+   ntlworld.com: 1:1
+sternal-johnson.com: 1:1
+watermarktech.com: 1:1
+matthewbuck.com: 1:1
+ernesto-jimenez.com: 1:
+ pewpewlabs.com: 1:1
+       brian.io: 1:3
+     buzzard.ch: 1:1
+    univ.gda.pl: 1:3
+     gensym.org: 1:1
+charliepark.org: 1:1
+  tilthouse.org: 1:1
+     copart.com: 1:1
+papercreatures.com: 1:1
+        patj.ca: 1:3
+    rsbrown.net: 1:3
+      singer.sh: 1:3
+     garlin.org: 1:1
+ideafreemonoid.org: 1:1
+  timwise.co.uk: 1:1
+     elastic.co: 1:1
+    amedias.org: 1:1
+ pirkkaesko.com: 1:3
+bretthoerner.com: 1:1
+   lucas-ts.com: 1:3
+     5stops.com: 1:1
+ codebright.net: 1:3
+     hotsyk.com: 1:1
+   zumbrunn.com: 1:1
+squirrelsoup.net: 1:1
+williammelody.com: 1:1
+ metablocks.com: 1:1
+    forkbox.net: 1:1
+  javasense.com: 1:1
+huesler-informatik.ch: 1:1
+donpetersen.net: 1:1
+    wolferix.de: 1:3
+   codeplant.ch: 1:3
+         bez.co: 1:3
+    ajileso.com: 1:1
+onemorecloud.com: 1:1
+     limpet.net: 1:3
+walkertexascoder.com: 1:1
+  abstractj.org: 1:3
+         ari.io: 1:1
+     ziclix.com: 1:1
+      905pm.com: 1:3
+    dourlad.com: 1:1
+jimvanfleet.com: 1:3
+       fnord.no: 1:3
+dylanfitzgerald.net: 1:3
+       knym.net: 1:3
+     brasten.me: 1:3
+midlakesconsulting.com: 1:1
+     gaimed.com: 1:1
+therightstuff.de: 1:1
+    kubasik.net: 1:3

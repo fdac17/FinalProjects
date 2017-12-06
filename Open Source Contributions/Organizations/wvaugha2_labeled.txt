@@ -1,0 +1,284 @@
+   aribrown.com: 1:m
+     nokes.name: 1:n
+luismayoral.com: 1:n
+brilliantinsanity.com: 1:n
+         dvs.io: 1:n
+    plukevdh.me: 1:n
+happyiterating.com: 1:y
+  beargroup.com: 1:y
+     colyar.net: 1:n
+  ctrlaltdel.ch: 1:n
+thoughthill.com: 1:n
+       wojo.com: 1:n
+  pixelflow.org: 1:m
+       tils.net: 1:n
+       nctv.com: 1:y
+     yamtar.net: 1:m
+         mot.la: 1:n
+        diff.mx: 1:m
+      aenima.pl: 1:n
+stevegibson.com: 1:n
+   kenpratt.net: 1:n
+      dolbo.net: 1:n
+      jogin.com: 1:n
+     odysen.com: 1:m
+       doweb.fr: 1:m
+        alaz.me: 1:n
+    jaigouk.kim: 1:n
+  agiratech.com: 1:y
+        leap.se: 1:y
+microsmart.co.za: 1:m
+  kuroshiro.net: 1:n
+crossproduct.net: 1:n
+      b7j0c.org: 1:n
+     vectron.io: 1:n
+ theleiners.com: 1:n
+  meangrape.com: 1:n
+ fightinjoe.com: 1:n
+       crohr.me: 1:n
+        mans.de: 1:n
+   mainfram.com: 1:n
+  tinogomes.com: 1:n
+deathbyescalator.com: 1:n
+whitepaperclip.com: 1:n
+lifesci.dundee.ac.uk: 1:y
+samuelcole.name: 1:n
+    ubikorp.com: 1:y
+mattbrindley.com: 1:n
+        acz.org: 1:n
+praekeltfoundation.org: 1:y
+olivierdupuis.io: 1:n
+  mintchaos.com: 1:n
+   meltsner.com: 1:n
+ mymindertz.com: 1:n
+    netable.com: 1:m
+stevenrbaker.com: 1:n
+     agrawal.io: 1:n
+    quirkey.com: 1:n
+     envato.com: 1:n
+   yuroyoro.com: 1:n
+      ognio.com: 1:n
+thelackthereof.org: 1:n
+      tadman.ca: 1:n
+     pin.net.au: 1:y
+         orn.li: 1:y
+collectiveidea.com: 1:y
+ insanecorp.com: 1:n
+         hmn.md: 1:y
+ densitylabs.io: 1:y
+primasupply.com: 1:y
+   innologix.at: 1:n
+dailytechnology.net: 1:n
+     47hats.com: 1:n
+        br1.com: 1:n
+    synbioz.com: 1:y
+    grafana.org: 1:y
+ericgoodwin.com: 1:n
+     stuart.com: 1:n
+    canoniq.com: 1:y
+ kunalashah.com: 1:n
+  jeremyrace.ca: 1:n
+   kondzior.com: 1:n
+ newleaders.com: 1:y
+     bissex.net: 1:n
+   facebook.com: 1:y
+plainprograms.com: 1:n
+cs.umanitoba.ca: 2:y
+     caring.com: 2:y
+michaelbarton.me.uk: 2:n
+ jordanwlee.com: 2:y
+bookingexperts.nl: 2:y
+    expedia.com: 2:y
+        126.com: 2:y
+ nikolajsen.net: 2:m
+        aol.com: 2:m
+      umich.edu: 2:y
+    serenity.su: 2:m
+ copypastel.com: 2:m
+   buildout.com: 2:y
+  media.mit.edu: 2:y
+mediamatters.org: 2:y
+      nedap.com: 2:y
+   aya.yale.edu: 2:y
+    cornell.edu: 2:y
+promptworks.com: 2:y
+    alcacoop.it: 2:y
+   manjilab.com: 2:m
+    shopify.com: 2:y
+     yandex.com: 2:y
+          gmail: 2:m
+   mikedoel.com: 2:m
+    kornack.com: 2:n
+    koombea.com: 2:y
+   netphase.com: 2:y
+        rgj.com: 2:y
+      wragg.org: 2:n
+     joyent.com: 2:y
+        ncl.com: 2:y
+   lamolabs.org: 2:n
+    bxthree.com: 2:m
+chariotsolutions.com: 2:y
+    schmidp.com: 2:n
+    deedubs.com: 2:n
+    beebole.com: 2:y
+   alum.mit.edu: 2:y
+        msn.com: 2:y
+     kidzui.com: 2:n
+       aura.com: 2:n
+          mo.jo: 2:n
+   flexnode.com: 2:y
+        php.net: 2:y
+  zndynamic.com: 2:m
+      hoveys.ca: 2:m
+  rubywaves.com: 2:n
+    hoilund.org: 2:n
+simplificator.com: 2:y
+    particle.io: 2:y
+  dartmouth.edu: 2:y
+ mattmckeon.com: 2:n
+marceldegraaf.net: 2:n
+  johnwlong.com: 2:n
+   archlinux.us: 2:n
+  honk-honk.com: 2:n
+  leeourand.com: 2:n
+appcelerator.com: 2:y
+   mjollnir.org: 2:n
+gunnarahlberg.com: 2:n
+       yelp.com: 2:y
+    tudisco.biz: 2:n
+   chromium.org: 2:m
+   openminds.be: 2:y
+   lifedraft.de: 2:n
+  digitaria.com: 2:y
+        rti.org: 2:y
+        gmx.net: 2:m
+stateofflux.com: 2:m
+   mccartney.ie: 2:n
+  underused.org: 2:n
+   mrchucho.net: 2:n
+    opscode.com: 2:y
+        h7a.org: 2:n
+    quiesse.com: 2:y
+   metabahn.com: 2:y
+metacircular-evaluator.org: 2:y
+     aitor.name: 2:n
+codemancode.com: 2:n
+    brockman.se: 2:n
+lincolnloop.com: 2:y
+     dnunes.com: 2:n
+      tos.co.jp: 2:y
+  tuxfamily.org: 2:y
+  icrossing.com: 2:y
+  websanity.com: 2:y
+catchfirelabs.com: 2:y
+      hoopla.no: 2:y
+   domine.co.uk: 2:n
+codingspree.net: 2:n
+       yahoo.cn: 2:y
+   basecamp.com: 2:y
+      100yea.rs: 2:y
+       mail.com: 2:y
+     litmus.com: 2:y
+ elaptics.co.uk: 2:n
+  dataspill.org: 2:n
+ expandrive.com: 2:y
+       imedo.de: 2:n
+novafabrica.com: 2:y
+linkingpaths.com: 2:n
+   wellogic.com: 2:n
+    kpumuk.info: 2:n
+   linkedin.com: 2:y
+  protonmail.ch: 2:y
+        jklm.no: 2:n
+    meadowy.org: 2:n
+    yahoo.co.jp: 2:m
+        iit.edu: 2:y
+    infront.com: 2:y
+     vmware.com: 2:y
+    yahoo.co.uk: 2:y
+expectedbehavior.com: 2:y
+the-cocktail.com: 2:y
+       ieee.org: 2:y
+      danga.com: 2:m
+   purepoint.io: 2:y
+   squeejee.com: 2:n
+productengine.com: 2:y
+    zendesk.com: 2:y
+        spy.net: 2:n
+baobabhealth.org: 2:y
+cs.stanford.edu: 2:y
+   hardinfo.org: 2:n
+delete-me.gmail.com: 2:n
+      incode.it: 2:y
+ atomicbird.com: 2:m
+         web.de: 2:m
+     phusion.nl: 2:y
+  meyerhome.net: 2:y
+    mongodb.com: 2:y
+   intridea.com: 2:y
+    figital.com: 2:n
+  espace.com.eg: 2:y
+  makaluinc.com: 2:y
+     igalia.com: 2:n
+  netzwiese.com: 2:n
+   teamsnap.com: 2:y
+    saurinc.com: 2:n
+  brightmix.com: 2:y
+   yahoo.com.br: 3:y
+     anu.edu.au: 3:y
+  railsware.com: 3:y
+        chef.io: 3:y
+       trms.com: 3:y
+    valtech.com: 3:y
+k3integrations.com: 3:y
+ citrusbyte.com: 3:y
+  railslove.com: 3:y
+      bbc.co.uk: 3:y
+        mit.edu: 3:y
+     heroku.com: 3:y
+ engineyard.com: 3:y
+      xs4all.nl: 3:m
+       yahoo.fr: 3:y
+plataformatec.com.br: 3:y
+    intercom.io: 3:y
+   avantica.net: 3:y
+        mail.ru: 3:m
+        gsa.gov: 3:y
+      gnome.org: 3:y
+    zetetic.net: 3:y
+heurionconsulting.com: 4:y
+ protonmail.com: 4:y
+     ruboss.com: 4:y
+  microsoft.com: 4:y
+   newrelic.com: 4:y
+     debian.org: 4:y
+  ruby-lang.org: 4:y
+       live.com: 4:y
+  fusionary.com: 4:y
+  flatstack.com: 4:y
+ thoughtbot.com: 5:y
+        kde.org: 5:y
+      intel.com: 5:y
+   fastmail.com: 5:m
+     redhat.com: 6:y
+    comcast.net: 6:m
+        163.com: 6:m
+        acm.org: 7:y
+          ya.ru: 7:m
+         qq.com: 7:m
+     google.com: 8:y
+    outlook.com: 8:m
+     apache.org: 9:y
+         iki.fi: 9:m
+         gmx.de: 9:m
+     icloud.com: 10:m
+       cpan.org: 10:y
+    fastmail.fm: 11:m
+      pobox.com: 20:m
+ googlemail.com: 22:m
+    hotmail.com: 32:m
+     github.com: 33:y
+        mac.com: 42:m
+      yahoo.com: 48:m
+         me.com: 48:m
+      gmail.com: 4800:m

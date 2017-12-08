@@ -1,5 +1,12 @@
 # Final Project Proposals & Reports
 
+## Code for final projects
+
+https://github.com/carissableker/Reddit_Analysis
+
+
+
+
 ## Output format
 
 The project will explore one or more of the themes covered in the course that students find particularly compelling. The group needs to submit a project proposal (1.5-2 pages IEEE format) approximately 1.5 months before the end of term. The proposal should provide

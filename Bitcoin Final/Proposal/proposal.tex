@@ -1,0 +1,131 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%2345678901234567890123456789012345678901234567890123456789012345678901234567890
+%        1         2         3         4         5         6         7         8
+
+\documentclass[letterpaper, 10 pt, conference]{ieeeconf}  % Comment this line out
+
+ 
+
+% if you need a4paper
+%\documentclass[a4paper, 10pt, conference]{ieeeconf}      % Use this line for a4
+                                                          % paper
+
+\IEEEoverridecommandlockouts                              % This command is only
+                                                          % needed if you want to
+                                                          % use the \thanks command
+\overrideIEEEmargins
+% See the \addtolength command later in the file to balance the column lengths
+% on the last page of the document
+
+
+
+% The following packages can be found on http:\\www.ctan.org
+%\usepackage{graphics} % for pdf, bitmapped graphics files
+%\usepackage{epsfig} % for postscript graphics files
+%\usepackage{mathptmx} % assumes new font selection scheme installed
+%\usepackage{times} % assumes new font selection scheme installed
+%\usepackage{amsmath} % assumes amsmath package installed
+%\usepackage{amssymb}  % assumes amsmath package installed
+%\usepackage{natbib}
+
+\title{\LARGE \bf
+Modeling Suspicious Transactions in the Bitcoin Blockchain
+}
+
+
+\author{Chris Shurtleff, James Cate, Kevin Gardner, and Devanshu Agrawal% <-this % stops a space
+\thanks{*This work was not supported by any organization}% <-this % stops a space
+}
+
+
+\begin{document}
+
+
+
+\maketitle
+\thispagestyle{empty}
+\pagestyle{empty}
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\begin{abstract}
+
+We propose exploring various methods for detecting unusual and potentially illicit transactions within the bitcoin cryptocurrency. To identify suspicious transactions, we will model the blockchain as several seperate but related unidirectional, sparse graphs. Our end goal will be to provide a useful resource for easily determining how unusual a particular transaction is, to aid companies in compliance with regulatory norms.
+
+\end{abstract}
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\section{INTRODUCTION TO BITCOIN}
+
+Bitcoin is a virtual currency, unsanctioned by any government, and powered by cryptography. Bitcoin relies on a decentralized ledger, called the blockchain, maintained concurrently by a network of independently-owned nodes. Each node is a computer that runs bitcoin client software, contains the full blockchain, and propagates transactions to other nodes on the network.  Potential transactions are verified for legitimacy and added to the end of the ledger in groups of valid transactions called a ‘block’. The process for compiling transactions into a block is computationally intensive, so the node responsible for adding a block of transactions, termed ‘miner’, is rewarded with a small amount of bitcoin to incentivize participation. The blockchain is public, trending, and threatens the classic conception of currency, therefore it is an interesting target for analysis.
+
+
+\section{CURRENT RESEARCH}
+
+Bitcoin transactions are in principle anonymous. But bitcoin addresses sometimes appear in conjunction with a user name on websites such as public forums. Such websites sometimes also contain conversations of bitcoin transactions from which useful information may be inferred. Data of this nature has been scraped from such websites and used to annotate the bitcoin block chain with real user information \cite{fleder2015}. Although the extent of annotation is small compared to the blockchain itself, its use in combination with the rich graphical structure of the bitcoin transactions network itself has led to interesting insights. For example, the annotated bitcoin blockchain allows for the construction of a bitcoin transactions graph whose nodes represent concrete users. Implementation of the PageRank algorithm on this user graph leads to the detection of “interesting” users who should perhaps be flagged for future investigation \cite{fleder2015}.
+
+Even in the absence of real user information, the bitcoin blockchain is still a treasure trove of data ripe for analysis thanks to its rich structure, completeness, and public availability. Statistical analysis of the bitcoin transactions graph and its features has led to insights into the behavior of users and transactions; it was found, for example, that most large transactions in 2012 could be traced back to one single transaction in 2010 and that the subgraph of such large transactions exhibited peculiar features-- perhaps an attempt to conceal or obscure suspicious activity \cite{ron2012}. This example motivates the idea that even though bitcoin transactions are in principle anonymous, it could still be possible to detect suspicious activity by revealing anomalous structures in the bitcoin transactions graph. For instance, it has been shown that certain local features in the bitcoin transactions graph (e.g., degree and clustering coefficient) can allow us to cluster users and transactions and thus to detect suspicious outliers that should be flagged for further investigation \cite{pham2016, zambre2013}.
+
+The core structure of bitcoin transactions is that they make reference to previous transactions and therefore allow bitcoins to be traced. We believe that local feature extraction from the bitcoin transactions graph fails to fully capture this essential structure; for our project, we plan to compare transactions based on the flow of bitcoins common to both transactions.
+
+\section{PROPOSAL}
+
+Bitcoin, being decentralized and pseudo-anonymous, lends itself to criminal activity which inevitably requires money laundering. Our project will focus on ways to automatically flag suspicious transactions with our stretch goal being to identify nodes that have access to dirty money. We will pursue several strategies to flag transactions centered around modelling the blockchain using graph theory. We will consider a graph mapping bitcoin addresses to vertices and transactions to edges and vice versa. Building on this model, we propose using Fleder’s \cite{fleder2015} Union Find algorithm to cluster addresses into likely individuals. Our potential transaction-identification-strategies within the graph include:
+
+\begin{itemize}
+
+\item Determining the degree of relationship between two transactions
+\item Identifying miners and analyzing the structure of their transactions
+\item Tracing specific bitcoins back to the original miner
+\item Scraping identifying information from the web and associating that with known address clusters
+
+\end{itemize}
+
+\section{METHODS}
+
+We will obtain the bitcoin blockchain data either by using a bitcoin client, bitcoin-0.8.5, or by downloading a prepared bitcoin data set from the Stanford Network Analysis Project. In the latter case, the data is a text file in which each line records a transaction. We will use python to parse the blockchain and will construct the transactions graph using the NetworkX python package. We will apply the “union-find algorithm” to group bitcoin addresses that are likely to belong to a common user and will develop algorithms based on network theory to analyze the bitcoin flow through the transactions graph among users.
+
+Time permitting, we will use the “scrapy” python package to obtain real user information from public forums for annotating our transactions graph.
+
+Finally, we are considering the use of computing clusters to aid in scaling our analysis to the entire bitcoin blockchain.
+
+\section{PROJECT TIMELINE}
+
+\begin{table}[h]
+\caption{Initial Timeline of Milestone Due Dates}
+\label{timeline}
+\begin{center}
+\begin{tabular}{|c||c|}
+\hline
+October 13 & Prepare limited transaction sample for development\\
+\hline
+October 27 & Prepare and begin exploration of graph\\
+\hline
+November 17 & Miner and Pool Structure\\
+\hline
+November 17 & PageRank analysis\\
+\hline
+November 20 & External data scraping (if stretch is met)\\
+\hline
+November 20 & Scaled blockchain (if stretch is met)\\
+\hline
+November 24 & Visualization and Interpretation\\
+\hline
+December 5 & Final Report\\
+\hline
+\end{tabular}
+\end{center}
+\end{table}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+\bibliographystyle{plainnat}
+
+
+\bibliography{Bitcoin_Proposal}
+
+
+\end{document}
+

@@ -1,0 +1,768 @@
+﻿company_name,country_code,state_code,city,status,category_group_list,funding_total_usd,founded_on,closed_on,uuid
+ScriptDrop,USA,TN,Nashville,operating,health care,"1,000,000",4/18/2016,,d4c0e9ff-0e0e-f9da-f1c3-1618fc995a8f
+DreamCSX,USA,TN,Louisville,operating,,"150,000",4/26/2017,,26ace4ca-d393-0884-4771-74dbb842b993
+HouseLens,USA,TN,Nashville,operating,advertising|sales and marketing,"4,500,000",1/1/2007,,b36cc355-6182-ef74-3e5e-64aade39db6d
+NOMATIC,USA,TN,Utah,operating,design,"6,177,172",1/1/2014,,b5ab574e-6e7b-e34f-6c5a-21403f95e6f9
+Graph Story,USA,TN,Memphis,operating,artificial intelligence|data and analytics|internet services|software,"1,465,000",1/1/2014,,a04d7958-9357-a791-ed9d-bac67c6cc3b8
+Arkis BioSciences,USA,TN,Knoxville,operating,biotechnology|health care|science and engineering,"5,791,000",1/1/2011,,68ec4ff7-4c9d-d130-6477-c83cc4a303d5
+"Hurdl, Inc.",USA,TN,Nashville,operating,artificial intelligence|consumer electronics|data and analytics|events|hardware|information technology|internet services|media and entertainment|sales and marketing|software,"3,275,000",2/1/2016,,93bcd0be-41f0-f9bc-214d-bb32110861cb
+IQuity,USA,TN,Nashville,operating,artificial intelligence|biotechnology|data and analytics|health care|science and engineering|software,"4,350,000",1/1/2013,,4eb56788-99d7-f47b-2e65-047d905b0237
+EvidenceCare,USA,TN,Nashville,operating,health care,"2,000,000",1/1/2014,,56578579-751c-4cf5-00a6-2fb377e98634
+GreenLight Medical,USA,TN,Nashville,operating,health care,,7/1/2014,,c9d154e2-e7eb-2a2c-5750-75b9ad13d8c7
+BKON Connect,USA,TN,Nashville,operating,hardware|internet services|mobile|sales and marketing|software,"3,850,000",1/1/2014,,b9219a26-6bd7-5eba-3ad8-a461535a1a26
+Jernigan Capital,USA,TN,Memphis,ipo,financial services,"29,500,000",1/1/2013,,9db32006-fc1b-e434-9747-46c5a1762128
+GameWisp,USA,TN,Nashville,operating,content and publishing|financial services|gaming|media and entertainment|sports|video,"2,273,461",7/3/2012,,1ac33060-6d8d-a930-aaa3-ee58e5381b9b
+Bellhops,USA,TN,Chattanooga,operating,professional services,"27,200,000",1/1/2012,,8e3503d6-d978-83c3-6715-4615a7409d6f
+Jonny Dapper,USA,TN,Brentwood,operating,,"780,000",1/1/2017,,92fef1f7-fd4b-fea1-9c21-ee96d026137b
+Active Implants,USA,TN,Memphis,operating,biotechnology|health care|science and engineering,"113,717,506",6/1/2004,,b855667d-0b02-63ac-7de1-fa0025486d78
+Cowlar,USA,TN,Memphis,operating,agriculture and farming|internet services,"50,000",1/1/2015,,3d08c129-cd63-51f7-251c-8d5faa1c70bd
+Skuid,USA,TN,Chattanooga,operating,apps|data and analytics|design|information technology|mobile|sales and marketing|software,"31,622,100",3/1/2013,,6f45e281-0e39-8363-d645-54ca941f6718
+Scripturally Sound,USA,TN,Nashville,operating,community and lifestyle|education|media and entertainment|software,"48,000",2/1/2017,,17f00c98-caf6-4218-a1ca-13dd451ddde4
+Hashed Health,USA,TN,Nashville,operating,information technology,"1,800,000",1/1/2016,,f073879c-adf9-5b74-ed6a-4601cb8a1b50
+Forthright Entertainment,USA,TN,Knoxville,operating,,"200,000",4/5/2007,,44d3ac7b-5817-4f8c-b67a-8855bade5679
+Vendor Registry,USA,TN,Knoxville,operating,government and military|information technology,"1,825,000",1/1/2011,,43ad41fd-bdab-1c93-a827-6971ed19efc0
+Silicon Ranch,USA,TN,Nashville,operating,energy|natural resources|science and engineering|sustainability,"155,000,000",1/1/2010,,d2f8611e-8229-6b52-93c6-5d26ce52332f
+Initial State Technologies,USA,TN,Nashville,operating,data and analytics|design|information technology|internet services|software,"3,541,851",3/22/2012,,2c37fb45-3185-e652-5bcc-1a3acdda8c0b
+JumpCrew,USA,TN,Nashville,operating,advertising|sales and marketing,"3,300,000",1/1/2016,,ee7b5bd3-7d82-0b51-b6e8-2725f0480bfd
+David Dubbs | The Conversion Pros,USA,TN,Nashville,operating,sales and marketing,,1/1/2015,,a0ba5c1d-d89e-b6ff-bd6e-ae6d876acecc
+Relode,USA,TN,Nashville,operating,professional services|software,"750,000",10/1/2014,,f3f9943e-5f9d-8754-9bae-7fc5b8aa7944
+Preteckt,USA,TN,Memphis,operating,artificial intelligence|data and analytics|hardware|software|transportation,"475,000",5/4/2015,,e286b7f9-0a01-67ff-bae9-563da8a3251c
+FrontDoor,USA,TN,Memphis,operating,real estate,"368,750",5/4/2015,,0fc34f10-81ba-6f2f-dbe3-104ff2c93453
+HomeyLabs,USA,TN,Memphis,operating,apps|financial services|mobile|payments|software,"62,500",1/1/2016,,e52f0a47-59c9-e2d2-9a28-95f424dfca36
+Five Star Food Service,USA,TN,Chattanooga,acquired,,,1/1/1993,,575475a5-62d9-5fa1-6117-1a9f8d395581
+US Biologic,USA,TN,Memphis,operating,biotechnology|health care|science and engineering,"2,946,982",1/1/2012,,2db311b6-1c7c-7ced-e5f5-923e1f3cd6a3
+Expression Health Analytics,USA,TN,Nashville,operating,health care,"315,000",1/1/2014,,0a99c3f7-d2b1-1c98-9128-a247c7a6d297
+Kindful,USA,TN,Nashville,operating,information technology|sales and marketing|software,"3,750,000",6/1/2011,,723c3b76-307b-444e-ec71-9e89e5ee1245
+Dart Music,USA,TN,Nashville,operating,apps|media and entertainment|music and audio|software,"1,500,000",1/1/2014,,467853c8-370d-3416-f59b-d916444a923a
+Axial Healthcare,USA,TN,Nashville,operating,health care|information technology,"26,300,012",1/1/2012,,494eb2e0-d1d0-9874-1c42-7a88fe3fe4ed
+Contessa Health,USA,TN,Nashville,operating,health care,"10,499,959",2/1/2015,,dabbfd1d-4bb2-6cde-22d2-233b59c8f05e
+Satchel Health,USA,TN,Nashville,operating,health care,"1,000,000",1/1/2014,,8a816fa6-a7d3-fd6c-63e3-59ba07f01c0e
+Aspire Health,USA,TN,Nashville,operating,health care,"53,500,004",1/1/2011,,881a10a9-4d5f-be59-9fd6-4c5e44434e17
+Soundways,USA,TN,Memphis,operating,manufacturing|media and entertainment|music and audio,"281,000",5/1/2016,,eecab0cc-a09f-c4ae-5aae-55aa785e35f7
+Tithe.ly,USA,TN,Nashville,operating,apps|software,"640,000",9/1/2013,,38e9c029-3027-4a3c-7a9b-490f4f5d38b7
+TransFX,USA,TN,Chattanooga,operating,commerce and shopping|financial services|transportation,"2,000,000",6/1/2016,,eeec1a17-c367-a1b7-bc4a-58e9ca278411
+EVAmore,USA,TN,Nashville,operating,media and entertainment,,1/1/2015,,d6c7dade-0802-229c-e7a8-a677fb3ab834
+Concert Genetics,USA,TN,Franklin,operating,biotechnology|health care|science and engineering,"9,147,912",1/1/2010,,02cc0e10-59a2-2422-5b02-3cb01aaca655
+Beachy,USA,TN,Nashville,operating,commerce and shopping|financial services|mobile|navigation and mapping|payments|software|transportation|travel and tourism,"750,000",7/1/2015,,69b8dffc-f37b-217d-63fd-70f94dc51df1
+Med+Proctor,USA,TN,Nashville,operating,health care|software,,1/1/2014,,a9bed32a-766f-0463-5b79-3644c14add64
+Sano Informed Prescribing,USA,TN,Franklin,operating,data and analytics|design,"5,543,132",1/1/2015,,6c954857-beda-7faa-3cf0-a15a77933e99
+"Restore Medical Solutions, Inc.",USA,TN,Memphis,operating,health care,"4,550,000",5/19/2012,,f9ffeec2-380c-a6c3-42be-75698609a663
+SweetBio,USA,TN,Memphis,operating,biotechnology|science and engineering,"1,300,000",1/1/2015,,36009d08-8c86-a665-565f-2f295fb982c6
+ProxBox,USA,TN,Memphis,operating,real estate,"141,000",1/1/2016,,192d4b6e-ae7b-0819-b483-7edad26ec643
+IngagePatient,USA,TN,Franklin,acquired,health care|mobile,"8,516,875",1/1/2007,,1d1dc0c2-ac90-acc6-507a-1be19100b8f8
+MDsave,USA,TN,Brentwood,operating,commerce and shopping|health care,"26,543,720",6/1/2012,,83f91144-d203-3e42-2ad6-859f2408d14f
+Signix,USA,TN,Chattanooga,operating,information technology|privacy and security|software,"13,972,500",1/1/2002,,1c952b54-8b95-58a1-bd9f-038a901287d3
+Haven Lock,USA,TN,Franklin,operating,apps|manufacturing|software,"410,000",4/1/2014,,c1c97329-6fa5-c55d-f2a4-8000fe65a00e
+PathGroup,USA,TN,Brentwood,operating,biotechnology|health care|science and engineering,"19,500,000",1/1/1996,,1810aa04-934a-dd06-3e3d-b00a8e640834
+Quire,USA,TN,Memphis,operating,biotechnology|health care|information technology|science and engineering|software,"3,114,250",1/1/2009,,9d3dee30-26e7-3b2e-cccd-960fe702929c
+SOMAVAC Medical Solutions,USA,TN,Memphis,operating,biotechnology|science and engineering,"25,000",4/28/2016,,8a2b07db-dc11-b118-505b-91fa30751b6a
+splitsecnd,USA,TN,Nashville,operating,consumer electronics|hardware|software,"6,802,000",5/1/2012,,26cff0aa-74eb-c6f4-c688-4a159cc6d8f2
+Medaxion,USA,TN,Nashville,operating,biotechnology|health care|information technology|science and engineering,"6,998,872",1/1/2008,,f67d5107-4dc9-3920-88ba-bb1c27e210d6
+MindCare Solutions,USA,TN,Nashville,operating,health care,"19,006,443",1/1/2013,,da317413-05ce-1633-6d57-eebe3bb1780e
+iScreen Vision,USA,TN,Cordova,operating,health care,"11,108,279",3/31/2009,,ea195c54-95ac-1242-a2cb-58a851451cbe
+Thrivist,USA,TN,Franklin,acquired,data and analytics|education|software,,3/10/2015,,43c5274d-3f11-9d2b-16a3-1dcc50fd44f7
+Directed Sensing,USA,TN,Knoxville,operating,consumer electronics|consumer goods|hardware|internet services,"2,000,000",1/1/2012,,25873940-fcc2-dcae-467e-c6bd243dd9e5
+Slope,USA,TN,Chattanooga,operating,software|transportation,,1/1/2016,,c92e98e7-c2d1-648f-5f91-08257c70ea4c
+Mossey Creek Technologies,USA,TN,Jefferson City,operating,,"2,500,000",1/1/2015,,467ca8bc-0dba-5ba8-925b-31b0cff4d4a5
+SmileDirectClub,USA,TN,Nashville,operating,consumer goods|health care,,12/1/2013,,460ed485-64d1-b93e-32f7-ed3cacc302f4
+Franklin Synergy Bank,USA,TN,Franklin,ipo,financial services|lending and investments,"20,000,000",1/1/2007,,0b972681-36df-007d-54c3-79e16bb2aaae
+Groups360,USA,TN,Nashville,operating,events|media and entertainment,"5,500,000",1/1/2014,,b4775a19-1681-f32b-f7ec-ff014ac36114
+Watershed Systems,USA,TN,Franklin,operating,content and publishing|data and analytics|education|media and entertainment,"8,000,000",1/1/2015,,ed0278f0-67f7-bbea-9d4a-3dbe400b981b
+Ampersand Health,USA,TN,Nashville,operating,biotechnology|health care|science and engineering,"20,000,017",1/1/2013,,d4158fdc-552a-ca17-7c34-00637e784df6
+Aegle Gear,USA,TN,Chattanooga,operating,consumer electronics|hardware|health care,"750,000",1/1/2015,,75d22ecd-9e2f-8fad-fe70-bfd3f40c1f2a
+Cabsolutely,USA,TN,Memphis,operating,mobile|transportation,"595,000",9/1/2014,,58efba93-9a45-2a90-8af0-bfb11757d06e
+Everly,USA,TN,Nashville,operating,food and beverage|health care,"685,000",1/1/2012,,a3bc54bb-3e9a-0bb1-7942-89e898badf68
+affirmhealth,USA,TN,Nashville,operating,health care,"150,000",4/1/2016,,1437c99c-947b-6eab-5c64-0560ae1a85f7
+Compression Kinetics,USA,TN,Memphis,operating,health care,"490,000",5/14/2014,,9ba628d9-25b8-863d-a41b-1fd628ed4845
+Digital Reasoning,USA,TN,Franklin,operating,artificial intelligence|data and analytics|software,"73,959,965",1/1/2000,,b145e4cc-2802-d73d-f5d9-f3c35b1ff573
+WeCounsel Solutions,USA,TN,Chattanooga,operating,financial services|software,"4,100,000",6/2/2011,,8dd6a81f-161a-f650-6cd9-a1f56eceb187
+Trinocity,USA,TN,Nashville,operating,education|software,"1,196,020",5/1/2014,,5328475d-d4fb-181c-c840-99fe81bf2353
+Maize Analytics,USA,TN,Nashville,operating,data and analytics|health care,,7/1/2013,,078cf767-5147-fa64-5d1d-736c98dbc77f
+Remix Hits,USA,TN,Nashville,operating,media and entertainment|music and audio|software,,1/18/2015,,732c53ef-3124-15bb-aceb-17828d20bbb4
+Branch Technology,USA,TN,Chattanooga,operating,hardware|manufacturing|real estate|science and engineering|software,"710,000",1/1/2014,,1d6c5f97-1fd1-a510-3edf-c27bd90019f9
+StudioNow,USA,TN,Nashville,operating,content and publishing|media and entertainment|video,"20,360,000",1/1/2007,,8e51db8e-e2bc-1624-d09e-79d9bd3704b6
+Sizzle,USA,TN,Nashville,operating,professional services|sales and marketing|software,,9/12/2015,,d433bcb6-979d-1f53-fa80-2a561f06c8c0
+Tandum,USA,TN,Nashville,operating,events|internet services|media and entertainment,"1,850,000",12/1/2013,,f0fa5b8f-7d58-cde1-e5c9-11eedbc42839
+Integrated Healing Technologies (IHT),USA,TN,Franklin,operating,design|health care,"5,978,648",1/1/2007,,9bbbce14-7b15-bee9-7f50-14050da97bf3
+"iQuantifi, Inc.",USA,TN,Franklin,operating,financial services,"3,700,000",10/15/2009,,929600ef-a5d2-ac97-1218-63be53a112f4
+JourneyPure,USA,TN,Brentwood,operating,biotechnology|health care|science and engineering,"4,711,450",1/1/2014,,3efc9d7f-5c4e-fe2c-e91a-58b9c2e9d783
+Lucro,USA,TN,Nashville,operating,health care|information technology,,1/1/2014,,14c1f360-2275-2df9-8e63-18ee66c9ea9a
+Senta,USA,TN,Bristol,operating,software,"219,441",1/1/2014,,5b696a48-a9ac-5a4b-ca9f-1e19a2c2f9a2
+"Urgent Team Holdings, Inc.",USA,TN,Nashville,operating,health care,"64,200,000",1/1/2011,,f2475528-7e4b-700f-30a2-1923bb606669
+Grow Bioplastics,USA,TN,Knoxville,operating,,"136,000",12/29/2015,,d707dc45-01b4-c102-b6c8-bfaa489152e5
+cicayda,USA,TN,Nashville,operating,information technology|internet services|professional services,"11,000,000",1/1/2012,,ebf01177-cc7c-76d8-0eb4-f4bcedcfb6d9
+Stony Creek Colors,USA,TN,Goodlettsville,operating,agriculture and farming,"80,000",1/1/2012,,fe42acc5-3b14-968e-8d0b-94b7b55c3993
+SertintyOne,USA,TN,Nashville,operating,software,"3,000,000",1/1/2010,,a6692a34-4a74-05d1-bc84-7df1edd0e5d5
+QualDerm Partners,USA,TN,Brentwood,operating,health care|information technology,"31,800,000",1/1/2014,,c0d5d385-87d8-5ec3-488b-b42508972bc6
+MedPass Health,USA,TN,Nashville,operating,health care,"1,410,000",1/1/2014,,b947ba22-ab59-e110-aac2-4c4674849044
+Molecular Sensing,USA,TN,Nashville,operating,biotechnology|science and engineering,"7,945,000",1/1/2007,,29809a8c-92f9-7554-8b3b-9b1287d84812
+Nisolo,USA,TN,Nashville,operating,clothing and apparel|community and lifestyle|consumer goods,"1,040,000",1/1/2011,,dae2451c-964c-de96-498c-ee12e31463d8
+PlayMaker CRM,USA,TN,Franklin,operating,health care|information technology|sales and marketing|software,"4,125,000",1/1/2008,,c0aeebae-1e39-02b8-7d26-85fdfd493398
+Haven Behavioral,USA,TN,Nashville,operating,health care,,1/1/2006,,f15bcaff-0461-60ac-c07c-e72383875a4c
+LogoGarden,USA,TN,Franklin,operating,sales and marketing|software,"5,050,000",7/1/2011,,84c978a0-f321-41c3-d206-ce4ab507cb22
+Hapten Sciences,USA,TN,Memphis,operating,biotechnology|health care|science and engineering,"2,925,000",1/1/2010,,9cacaf5a-aebe-939d-95d7-4db444df3298
+Entac Medical,USA,TN,Germantown,operating,health care,"250,000",1/1/2011,,ed6bd270-5e31-2af9-9543-56dbdca48137
+"Smart RIA Ventures, LLC",USA,TN,Knoxville,operating,financial services,"250,000",1/1/2016,,ce91fea9-a40b-4bea-a57d-a79d60291985
+MRI Interventions,USA,TN,Memphis,ipo,health care,"35,821,571",1/1/1998,,c379ac95-8194-e096-5265-5644b6498669
+BioNova,USA,TN,Germantown,operating,health care,"1,901,147",1/1/2011,,3de75e3d-db00-e02c-4156-10402f94fd8b
+Edo Interactive,USA,TN,Nashville,acquired,advertising|data and analytics|financial services|mobile|payments|sales and marketing,"91,600,100",1/1/2007,,438c7e89-ba0c-b8cc-7ea6-1a0ac47ae40d
+Clariture,USA,TN,Nashville,operating,advertising|sales and marketing,"4,550,000",9/1/2013,,3ed604bf-014b-40fb-f40b-a454b348a0f3
+MyFansDemand,USA,TN,Nashville,operating,apps|events|media and entertainment|mobile|software,,1/1/2014,,318f7dd3-d2ca-6d6c-57e4-a768fcfa9de3
+CelgenTek,USA,TN,Memphis,operating,health care|manufacturing,"2,000,000",1/1/2014,,8b6fb1f9-574b-ff16-8d41-ae1f2d0a1600
+"Rezli, Inc.",USA,TN,Chattanooga,operating,gaming|internet services|professional services|software,"2,353,000",4/1/2012,,7192aa5c-d63d-6731-26e0-0b8e5e9dba91
+David Dubbs Internet Marketing,USA,TN,Nashville,operating,sales and marketing,,11/1/2015,,5d3affe2-4f58-5f95-6432-909bb8d68d2a
+GoNoodle,USA,TN,Nashville,operating,health care|internet services,"10,900,000",1/1/1999,,ca3f7852-447d-428e-f635-f0fc0da879b3
+Clarus Care,USA,TN,Brentwood,operating,health care|software,"4,850,000",1/1/2013,,5f47eb3c-d718-5a9a-9d52-ace86d7e37b7
+Bargain Hunt Superstores,USA,TN,La Vergne,operating,commerce and shopping|transportation,,1/1/2000,,a395666b-50e3-08af-a831-9f6eda4b42bc
+"bluField, Inc.",USA,TN,Nashville,operating,advertising|sales and marketing|software,"380,000",4/1/2014,,d285f316-6bad-a9d8-b240-ab4650d422ca
+Nudge,USA,TN,Chattanooga,operating,apps|health care|software,"1,350,000",5/1/2011,,eaa855b5-81de-eb4d-ea54-62c0477c1768
+General Graphene,USA,TN,Oak Ridge,operating,commerce and shopping|hardware|manufacturing|software,"8,700,000",1/1/2014,,b6ac5022-0235-d0c4-1e22-a464998f19c0
+RootsRated,USA,TN,Chattanooga,operating,apps|commerce and shopping|data and analytics|internet services|media and entertainment|mobile|software,"2,965,000",5/5/2012,,45cf20ee-63bd-d645-897a-5d3fbbb37677
+Insight Genetics,USA,TN,Nashville,operating,biotechnology|health care|science and engineering,"4,550,000",1/1/2007,,425dc0d1-c18c-1214-efc4-6ad3c323a1b1
+DataFlyte,USA,TN,Knoxville,operating,energy|science and engineering,"400,000",1/1/2014,,7338b47c-d5a1-d761-b93e-2cb5bcd09e2b
+BTC Media,USA,TN,Nashville,operating,content and publishing|education|financial services|media and entertainment|payments|software,,1/1/2014,,71bfc1e4-b48b-1b9c-8fe6-892238133a2c
+Collider,USA,TN,Chattanooga,operating,manufacturing,"365,000",10/1/2015,,b89d1ccc-0207-890d-7904-3cda63e8a100
+Healthspek,USA,TN,Nashville,operating,hardware|software,"1,250,000",1/1/2012,,61517731-e7e0-10de-b93d-361832e64574
+Rugged Outdoor Computing,USA,TN,Memphis,operating,hardware|internet services,,4/1/2001,,5a968046-4184-2ebf-c80a-921fa7841cbf
+Ridgeholm Energy Partners LLC,USA,TN,Chattanooga,operating,energy,"200,000",2/1/2012,,1de0dc67-fcdf-279b-89ef-e133889d483e
+Evermind,USA,TN,Nashville,operating,hardware|health care|software,"8,815,114",5/1/2012,,dde61135-6ccf-d97b-d4be-db7a7444e0ff
+Crystal Knows,USA,TN,Nashville,operating,information technology|software,"2,435,000",9/1/2014,,cd8188e9-fcf2-5ded-e3d6-1941cf612dea
+Marquee Dental Partners,USA,TN,Nashville,operating,health care,"35,000,000",1/1/2015,,81cd3d65-2fba-ddb6-8f4a-fa02ad608925
+Trocar Sweep,USA,TN,Germantown,operating,health care,"500,000",3/1/2011,,00f47a74-88ef-b09a-2745-6db415fce4aa
+PerfectServe,USA,TN,Knoxville,operating,health care|mobile,"35,900,000",1/1/1997,,40e896c5-6991-e0ca-143c-d8f24e4b5be8
+Wealth Access,USA,TN,Nashville,operating,financial services,"6,189,808",1/1/2011,,df4abd53-cc6b-fc46-8cde-0f4c1f21d456
+Cybera,USA,TN,Franklin,operating,hardware|information technology|privacy and security|software,"37,894,393",1/1/2001,,6467e9d6-7b9f-8e7a-4d6a-e5300f2daf55
+Apple Pie Studio,USA,TN,Murfreesboro,operating,internet services,"250,000",1/1/2009,,378e9087-7947-881a-17c2-01a6934d20e1
+Clinical Pharmacy Services,USA,TN,,operating,,,1/1/1990,,1c85c61c-eaf4-7c6b-bdf0-f79b5f23e4ea
+ECOSURG,USA,TN,Memphis,operating,health care|manufacturing,"520,000",5/12/2012,,f4128282-3001-fb0f-f2ad-f1a4fb506c44
+RemitDATA,USA,TN,Memphis,operating,data and analytics|health care,"16,450,100",1/1/2000,,1d5a4081-5a0e-9250-dbca-34d3b4fba01e
+Everjewel.com,USA,TN,Brentwood,operating,clothing and apparel|commerce and shopping|consumer goods|design,"800,000",1/1/2015,,78bc3892-836c-017e-c404-d1b65e375aac
+Mixtroz,USA,TN,Franklin,operating,community and lifestyle|events|internet services|media and entertainment|professional services,"200,000",11/9/2014,,a06dd3b1-354a-69c4-9ad3-770e8c2182ce
+Cagenix,USA,TN,Memphis,operating,biotechnology|health care|science and engineering,"5,462,178",1/1/2009,,072690d5-179a-94aa-405e-3661ba9ef6e4
+ReadyCart,USA,TN,Chattanooga,operating,commerce and shopping|media and entertainment,"700,000",11/1/2013,,aefe3f79-837e-ae9a-63e2-6b56f3081672
+Overdog,USA,TN,Nashville,acquired,content and publishing|gaming|internet services|media and entertainment|video,"6,278,109",1/1/2012,,349b09c5-13ca-e680-099f-99ba36a4fd54
+LeanKit,USA,TN,Franklin,operating,software,"24,600,000",5/1/2009,,b8ed196e-b88e-ab68-0629-c94bb07b1881
+Vanderbilt University Medical Center,USA,TN,Nashville,operating,health care,"22,300,000",1/1/2010,,26513ffb-fcf3-2e2c-5dd1-0ba73231ce1b
+Wannado,USA,TN,Nashville,operating,data and analytics|events|media and entertainment|mobile,"811,670",5/1/2011,,bddab089-f0a5-502a-99f4-1be1cd65cc4f
+MedCenterDisplay,USA,TN,Brentwood,acquired,advertising|hardware|sales and marketing|software,"15,925,125",8/1/2007,,6f5ed438-7660-31bb-3958-9bf56b9d7d76
+Emma,USA,TN,Nashville,operating,data and analytics|design|information technology|internet services|messaging and telecommunications|sales and marketing|software,"5,000,000",1/1/2003,,df619c61-fe69-52a4-585f-f55a8fa75bc2
+PYA Analytics,USA,TN,Knoxville,operating,biotechnology|data and analytics|health care|science and engineering,"520,000",1/1/2013,,cf9dc7b4-09e5-6cd0-1d8c-200e05ecb8d4
+SRM Technologies,USA,TN,Murfreesboro,operating,information technology|software,"20,000",1/1/1998,,31fed102-d601-9438-b4f4-7b87c8012d4a
+The PT Solution,USA,TN,Chattanooga,operating,content and publishing|media and entertainment|transportation,"20,000",1/1/2014,,7053c954-0a08-3a9a-98cc-cfbb3d562db8
+PriceWaiter,USA,TN,Chattanooga,operating,commerce and shopping,,1/1/2011,,fd0d2e56-9f3d-f3e6-3b4a-9896a61e6f31
+CrossRoads Extremity Systems,USA,TN,Memphis,operating,biotechnology|health care|science and engineering,"1,777,900",1/1/2014,,63efcade-4180-8a08-30a4-80d156f4c73f
+Rapid RMS,USA,TN,Chattanooga,operating,commerce and shopping|information technology|internet services|software,"1,850,000",11/1/2013,,55fff9c9-61fe-d7bd-a499-47f8c1d81ee1
+Agilum Healthcare Intelligence,USA,TN,Franklin,acquired,health care|information technology|software,"17,433,626",1/1/2005,,7181b2e6-cb19-eb75-2e7f-d88945454a67
+LASSO,USA,TN,Nashville,operating,software,"1,800,000",1/1/2014,,86bec5ae-e8a2-3695-1724-1b2fed77566b
+Care 24/7,USA,TN,Knoxville,operating,health care,"250,000",1/1/2013,,461664df-9f58-394b-c7bd-fa6c0bb59073
+Solar Site Design,USA,TN,Nashville,operating,energy|media and entertainment|natural resources|software|sustainability,"322,500",1/1/2013,,fabf3f68-358e-cc9a-d2ce-6cc760f47d2c
+Brandleton and Charm,USA,TN,Chattanooga,operating,clothing and apparel|commerce and shopping|design,"5,000",2/1/2013,,86c94cda-3afb-678c-d385-08142309b4f6
+Smartvue Corporation,USA,TN,Nashville,operating,internet services|software,"22,357,298",4/25/1996,,f4e94505-10a3-8be7-ddd8-c68b50e54544
+Addiction Campuses of America,USA,TN,Brentwood,operating,health care,"8,500,000",1/1/2014,,35b5477f-98bd-61e8-91ec-7b1467c69f36
+Life Links,USA,TN,Nashville,operating,health care,"150,000",1/1/2002,,9b70d554-dfc6-310d-47a1-493a5762774b
+"Pro Hydration Therapy, Inc.",USA,TN,Nashville,operating,health care,"150,000",1/1/2015,,5d4d11a9-384d-38a2-2612-f3731950417b
+Nusirt,USA,TN,Nashville,operating,biotechnology|health care|science and engineering,"13,983,353",1/1/2007,,bc13bd9a-65ac-3e98-c156-f7b0bd1aab49
+ReTrans,USA,TN,Memphis,acquired,transportation,"80,000",1/1/2000,,1d86f1b7-c30c-2061-1849-d1fc7111cd62
+Ncontracts,USA,TN,Brentwood,operating,financial services|information technology,"1,075,000",7/1/2009,,bc3f35d5-7511-d621-6e9c-24d69b5a1a31
+Browz,USA,TN,Utah,operating,transportation,"10,000,000",1/1/2001,,0e6ec7eb-7abd-3795-599e-8e7ebff8db46
+Shareable Ink,USA,TN,Nashville,acquired,data and analytics|health care|information technology|internet services|software,"27,760,493",1/1/2009,,b15bdf02-47b4-52cb-1803-69ebe4026b3d
+Musistic,USA,TN,Memphis,operating,media and entertainment|music and audio,"629,302",1/1/2013,,9fb6ef1a-f90a-c320-2f66-21020f470f70
+YouScience,USA,TN,Brentwood,operating,administrative services|education|professional services,"17,666,667",1/1/2012,,e2b7c784-7d3f-773e-4c6f-b926ef194521
+Closeup.fm,USA,TN,Knoxville,operating,events|media and entertainment|music and audio,,11/13/2013,,fd796c96-9e03-86e3-c16e-b3fcced5fca7
+DivorceSecure,USA,TN,Memphis,operating,professional services,"25,000",3/1/2015,,00d21f44-7425-5d52-8619-4d0a1c122320
+LendMed,USA,TN,Memphis,operating,health care,"25,000",1/1/2015,,ed46d094-7a3d-2839-8056-5fa75f922fec
+XOEye Technologies,USA,TN,Nashville,operating,consumer electronics|hardware|manufacturing|real estate|software|transportation,"3,400,000",10/1/2013,,13e32f85-8d44-c9c7-a299-94b53b8e1d39
+OnSomble,USA,TN,Nashville,operating,data and analytics|education,"378,286",1/1/2008,,713e3363-7239-7442-9da3-0d805cc2d22a
+Ariste Medical,USA,TN,Memphis,operating,biotechnology|science and engineering,"5,875,000",1/1/2007,,09898987-8a1a-cbb3-f246-13f94c26efb3
+Pass It Down,USA,TN,Chattanooga,operating,media and entertainment|mobile|video,"250,000",4/17/2015,,b58c2ead-c502-c59b-fe25-a3feacf9b96a
+New Constructs,USA,TN,Brentwood,operating,financial services|real estate,"150,000",1/1/2002,,1ee6a576-e988-4c6d-3e28-8db2e6f67f19
+American Born Moonshine,USA,TN,Nashville,acquired,food and beverage,"2,500,000",1/1/2012,,1bfc2285-857f-ab53-560d-6ac9f4b12433
+Agisent Technologies,USA,TN,Tullahoma,operating,government and military|software,"9,029,507",4/4/2006,,51f40efe-f2bd-74b3-be4c-00d37e9865dc
+HectoPlant,USA,TN,Leoma,operating,energy|natural resources|sustainability,,3/15/2015,,6898079a-4c1f-ccf5-c885-3e8ff0062fb0
+Silicone Arts Laboratories,USA,TN,Memphis,operating,media and entertainment|travel and tourism,"2,581,933",1/1/2010,,ae85e5ef-c055-2ed5-3e4f-851b49e7ad70
+Vaxent,USA,TN,Memphis,operating,,"152,500",1/1/2008,,d5d99b8f-df0c-8b25-650e-1eebc6ac0d36
+NuScriptRx,USA,TN,Nashville,operating,biotechnology|health care|science and engineering,"64,630,077",1/1/2007,,6714bea5-ca3a-812f-69e5-0f81713a3515
+Advanced Catheter Therapies,USA,TN,Chattanooga,operating,biotechnology|health care|science and engineering,"14,200,000",4/18/2008,,319a34ca-603e-c7d4-1518-21d698ce0cb2
+Culer,USA,TN,Nashville,operating,manufacturing,"15,106,192",1/1/2006,,d6f18825-4a86-f31c-9eda-3acfeffb0e9c
+AudiencePoint,USA,TN,Chattanooga,operating,data and analytics|software,"2,783,000",1/1/2010,,67fc1506-e079-d78e-8c49-6c669d865d9e
+Provision Diagnostic Imaging,USA,TN,Knoxville,operating,biotechnology|health care|science and engineering,"1,736,410",1/1/2012,,8fa1c015-0c1b-2880-34be-db628e3f81d1
+Clodico,USA,TN,Oak Ridge,operating,information technology|professional services,"120,000",1/1/2013,,5e48755b-b4b9-1e7a-1980-7dffddca6e88
+Artiphon,USA,TN,Nashville,operating,consumer electronics|education|hardware|media and entertainment|music and audio|software,"1,300,000",1/1/2011,,90c6f558-57a6-9276-f7c7-17bbd256d2d4
+Citizengine,USA,TN,Nashville,operating,consumer electronics|hardware|information technology|software,"9,703,020",1/1/2012,,e4c7fc94-81b8-f8f9-ac5d-d29ba1874157
+Pickle,USA,TN,Memphis,closed,content and publishing|media and entertainment|mobile,"135,000",5/1/2014,9/18/2015,00bbd731-bce4-2ada-501d-2b8ec23f1414
+MakeWay Wellness,USA,TN,Brentwood,operating,health care,,7/15/2013,,2c3f38d1-b8b9-ab24-249d-28fe7840410f
+Boomalang,USA,TN,Nashville,operating,education|hardware|media and entertainment|music and audio,"40,000",5/1/2014,,147993d2-2cbc-f6f0-afaa-27b9d200ed90
+Jobs Hatchery,USA,TN,Memphis,operating,financial services|lending and investments,,1/1/2013,,9d169141-301a-c6eb-b94a-77473643b63e
+MusicStockExchange,USA,TN,Nashville,operating,financial services|media and entertainment|music and audio,"275,000",3/1/2011,,9f07f988-251c-86f8-4efe-b0a8cbef9459
+New Wind,USA,TN,Nashville,operating,energy|natural resources|sustainability,"2,230,975",1/1/2010,,dc2774bd-d44a-1592-e20d-76b6ae7111ed
+Fiveworx,USA,TN,Knoxville,acquired,energy|sales and marketing|software|sustainability,,1/1/2014,,ff3869ec-e52f-d500-ef40-64504d357f3f
+Beaver Liquors,USA,TN,Nashville,operating,data and analytics,,1/23/2015,,a9ad816e-cc3d-48bd-6f1e-27d644fa3970
+1417Power,USA,TN,Brentwood,operating,financial services|lending and investments,,1/12/2012,,a7a4f9c1-6fc7-ceb2-691f-ba46c9f2c4f1
+Socket,USA,TN,Nashville,operating,apps|hardware|mobile|software,,1/1/2012,,85d018c6-8164-4251-f363-4275eec91175
+Remedify,USA,TN,Nashville,closed,hardware|software,"210,000",6/1/2012,,12b7a57c-c9c4-7c09-1a50-92e4d0202cb2
+Epic Stock Media,USA,TN,Nashville,operating,gaming|media and entertainment|music and audio,,1/1/2014,,a60ab76a-9bf0-1664-9b95-7775424f109f
+Scorebird,USA,TN,Nashville,operating,media and entertainment|mobile|platforms|software,"500,000",1/1/2014,,6f136f89-dc04-42f9-38cf-12c975b590b4
+"KickShark, Inc.",USA,TN,Nashville,closed,design|financial services|lending and investments|manufacturing,"100,000",1/1/2015,,ad820da3-c9fe-c6a8-321a-94d1e758a610
+Meridian Econometrics LLC,USA,TN,Memphis,operating,data and analytics|internet services|navigation and mapping,"1,000,000",1/1/2014,,d74bccc8-1b26-8dd6-0bf4-d3dd8fcd00da
+RN Entertainment,USA,TN,Nashville,operating,content and publishing|media and entertainment|music and audio,"10,000",11/1/2014,,3e103c2f-d141-5bff-90a2-6e15088a53f6
+"Escadrille, Inc.",USA,TN,Chattanooga,operating,clothing and apparel|community and lifestyle|design|sports,"419,630",1/3/2013,,5ec5b1f6-c701-c5b2-49a7-79882174d75f
+Future Vision Energy,USA,TN,Hendersonville,operating,energy|hardware|sustainability,,3/1/2010,,b29f8e81-c713-3a85-e850-76be4da668ae
+SocialCoaster Digital Agency (SDA),USA,TN,Nashville,operating,advertising|media and entertainment|sales and marketing,"650,000",1/1/2014,,57aff97f-4dd7-8faa-cf47-d9ff69f332ff
+PhyMed Healthcare Group,USA,TN,Nashville,operating,health care,,1/1/2012,,2a468bf7-3c04-2c10-3a86-000667166b76
+Beyond Games,USA,TN,Utah,operating,mobile,"800,000",1/1/2013,,7410bab5-fcb7-9e85-00ac-56710fae5f5c
+Utilize Health,USA,TN,Nashville,operating,health care|sports,"765,000",1/1/2012,,e4e7833c-f823-5d7e-0d57-64cc3fc8990b
+Genera Energy,USA,TN,Vonore,operating,biotechnology|energy|science and engineering|sustainability,"9,000,000",1/1/2008,,9d462a86-20c8-b4c7-c8d9-a5328b2b8d26
+"Brickhunter USA, LLC",USA,TN,Chattanooga,operating,commerce and shopping|information technology|internet services|real estate|software,,9/1/2014,,c225ea16-e0bf-048b-4234-ac42c5f1386a
+Encore Gaming,USA,TN,Nashville,operating,gaming|information technology|software,"4,353,500",1/1/2013,,8065a6b2-ae12-8dff-defa-982ae315e34a
+GTx,USA,TN,Memphis,ipo,biotechnology|health care|science and engineering,"114,681,455",1/1/1997,,fdc0bb7a-173b-be99-20ca-32411e784143
+Torch,USA,TN,Chattanooga,operating,hardware|internet services|mobile,"2,000,000",11/20/2014,,e18a17c5-8be5-d061-76cb-3c747647c12d
+Kettle Real Estate Investments,USA,TN,Clarksville,operating,real estate,,11/1/2014,,98ed97dd-3084-d13e-3d04-1d09b5351424
+NewQuest Health Solutions,USA,TN,Nashville,operating,financial services|health care,,1/1/2009,,0757fa30-942b-3d3a-1fd0-2401dd6ace27
+ProNova Solutions,USA,TN,Knoxville,operating,biotechnology|health care|science and engineering,"40,202,460",1/1/2011,,2cb931a6-2641-6130-2a71-db66fcd773a9
+Price-Points sm,USA,TN,Memphis,operating,financial services|lending and investments,,11/10/2014,,f5745f01-dac3-cd58-6e45-0a9971e9840c
+Preeminent Leadership,USA,TN,Hendersonville,operating,education,,5/17/2015,,2af04654-9b3d-ac5d-0978-9de60f04933a
+myNEXUS,USA,TN,Brentwood,operating,health care,"13,600,000",1/1/2014,,8ce1230b-c566-dba7-d147-d747f90aab76
+International Coffee Group,USA,TN,Chattanooga,operating,food and beverage,"700,000",1/1/1997,,4629bf9f-92e6-85f1-3291-1615bec639a2
+Rossville Solar Farm,USA,TN,Chattanooga,operating,energy|natural resources|sustainability,"30,000",10/24/2014,,868dcef2-b65e-52fc-88db-cfe8ad5d288f
+Ear IQ,USA,TN,Nashville,operating,media and entertainment|music and audio,,1/1/2015,,e579ed54-f98e-66f6-283c-e4221742f5ad
+KaraoQ,USA,TN,Nashville,operating,internet services|media and entertainment|mobile|music and audio,,1/1/2014,,ee3bd4a7-747c-5034-9d98-f145d135919e
+RMXHTZ,USA,TN,Nashville,operating,media and entertainment,,1/1/2015,,abb2c2e0-2fcd-31f9-3f1f-3b724cfb4121
+VideoBomb,USA,TN,Nashville,operating,media and entertainment|music and audio|video,,2/17/2015,,9de4a743-6ff2-d457-a35f-c83b2668a566
+EndoInSight,USA,TN,Cordova,operating,health care,"175,000",5/9/2014,,213c8439-ec4a-f8e0-152d-983831a9243e
+Lucent Health Solutions,USA,TN,Nashville,operating,health care,"13,500,000",1/1/2014,,b1d603de-d9c9-2a90-95ab-41a03602f9f2
+Results Physiotherapy,USA,TN,Franklin,operating,health care,,1/1/1996,,bf715721-06bb-63b6-a10f-236de0ed87bd
+Bernard Health,USA,TN,Nashville,operating,financial services|health care|media and entertainment,"4,000,000",6/1/2006,,5b73caf1-c58b-74bd-2dcb-19d6bab6ed20
+Exile Media,USA,TN,Nashville,operating,content and publishing|media and entertainment,,7/6/2012,,beb688b1-ef96-bab1-4647-10021ad80cf5
+Healthcare TTU,USA,TN,Franklin,operating,financial services|health care,"2,500,000",1/1/2014,,576ae1d0-5a1e-dcab-59f0-98ad103b196c
+Pathway Lending,USA,TN,Nashville,operating,,"1,750,000",1/1/1999,,9f6fc513-62d4-5037-6cb1-0e3fdc862c98
+Care2Manage,USA,TN,Memphis,operating,health care|mobile,"30,000",12/8/2012,,8302a298-c076-344d-ab74-0a33bd8e3044
+FuelFilm,USA,TN,Memphis,operating,media and entertainment|video,"40,000",9/1/2009,,a351e473-5c46-9a45-45d3-ee8eff902cd9
+MEDArchon,USA,TN,Nashville,operating,biotechnology|health care|science and engineering,"1,802,640",1/1/2012,,95950598-27da-43d8-a0d5-5cd48e528237
+Twin Willows Construction,USA,TN,Knoxville,operating,energy|natural resources|real estate|sustainability,"175,000",4/1/2012,,7ec0787b-f119-cbff-270a-c3351cfe5607
+WheelTek of Memphis,USA,TN,Memphis,operating,transportation,,11/17/2007,,11f71f93-ea81-ef29-ecbe-8a2644b4cd3e
+CoreCommerce,USA,TN,Franklin,operating,commerce and shopping|software,"125,000",1/1/2008,,f3540449-2332-0340-0ceb-015969d7f357
+Medalogix,USA,TN,Nashville,operating,data and analytics,"5,300,000",2/1/2009,,aa4f8020-79ba-7b66-aef0-d928b418dc12
+Spotwise,USA,TN,Nashville,operating,data and analytics|hardware|software|transportation,"42,500",1/1/2014,,d29f2954-2dfa-4474-98eb-b33ac4383b34
+American Medical CO-OP,USA,TN,Franklin,operating,health care,"1,612,500",1/1/2012,,f119d491-957c-e174-4572-f23c241bf982
+Healthcare MarketMaker,USA,TN,Nashville,operating,health care,"80,000",1/1/2013,,6c13ba0d-7d2f-785f-8b85-7d588878ab5b
+Amiare,USA,TN,Nashville,operating,energy|natural resources|sustainability,"1,290,000",11/25/2013,,5a94277f-f4f8-68b3-af82-5227ebcb7b15
+Akimbo LLC,USA,TN,Chattanooga,operating,professional services|sales and marketing|software,"470,000",2/1/2012,,3475e03e-a4c8-280f-b974-406dfe3a2898
+Knock Knock,USA,TN,Nashville,operating,software,"1,500",6/28/2014,,5a821e10-ab5d-3a7d-3f1d-a4eaf7525be0
+Qualifacts Systems,USA,TN,Nashville,operating,health care|information technology|software,,1/1/2000,,eebdd469-27c7-6211-00ac-09682935c535
+Roovyn,USA,TN,Mount Juliet,operating,content and publishing|media and entertainment,,7/8/2013,,c62cc394-1116-3104-f711-1316bd7b4a7a
+Censis Technologies,USA,TN,Franklin,operating,health care,,1/1/1999,,f985817c-81fb-ed15-53d9-bfaf7aed662b
+Survature,USA,TN,Knoxville,operating,data and analytics|design,"792,132",1/1/2013,,e58e3725-ef64-cd5f-f52a-810d76989cb5
+Entrada,USA,TN,Brentwood,acquired,health care|information technology|mobile,"7,050,301",1/1/2005,,c6605f9f-a10d-ddc2-3ff1-2bc56a7f966a
+Change Healthcare,USA,TN,Brentwood,operating,education|health care|information technology,"48,000,000",1/1/2005,,53e7b604-1ccb-0e6a-efc3-7ddf555826ec
+Veterans Business Services Organization,USA,TN,Lexington,operating,education,"3,000",6/30/2014,,00412f5f-a853-cbc6-5675-fa42446d75ba
+GiveToken,USA,TN,Nashville,operating,,"250,000",6/1/2014,,92d44180-a673-14d8-1baa-1037e779fe86
+Jamanimal,USA,TN,Nashville,closed,internet services|media and entertainment|music and audio,"600,000",2/1/2014,,8e28f0d3-43a3-80f2-e525-dc59544c4a5d
+"Octovis, Inc.",USA,TN,Nashville,operating,health care|information technology|mobile,"180,000",3/1/2014,,c73fb3c6-8766-f19a-21e5-1469694ec0d7
+Phase,USA,TN,Memphis,operating,apps|internet services|software,"15,000",7/1/2014,,31bb11b1-296a-a6cf-f54b-83a67793bd29
+Zipflip,USA,TN,Chattanooga,operating,software|transportation,"730,000",3/20/2014,,b7758022-e119-0783-1d00-16fa9c75fcfd
+The Convenience Network,USA,TN,Knoxville,operating,advertising|sales and marketing,"902,612",1/1/2009,,c7951ab5-eed6-c7f4-676c-465b24a9d73b
+S2 Interactive,USA,TN,Germantown,operating,health care,"786,674",9/1/2011,,9e403c66-e095-dcc8-d0f0-1990229330e0
+LiveSchool,USA,TN,Nashville,operating,apps|education|software,"2,395,319",5/1/2011,,5ed5d936-f516-04ef-bb77-c96871c4f775
+Preferral,USA,TN,Nashville,operating,education|health care,"553,000",1/1/2008,,f0e6a352-cae4-67cc-6020-e081f792d9ae
+VenX Medical,USA,TN,Nashville,operating,hardware|software,"2,920,103",1/1/2009,,10d9be13-4dc0-a551-5579-de6cf71ef71a
+Inova Payroll,USA,TN,Nashville,operating,financial services|payments,"7,100,000",1/1/2010,,e8399ad7-4da6-f937-c328-dc785c05d28f
+Ambition,USA,TN,Chattanooga,operating,software,"2,000,000",2/21/2013,,cc68abb5-198d-1049-cf4f-3bf965275753
+InvisionHeart,USA,TN,Nashville,operating,health care,"1,915,000",1/1/2013,,fa118be5-7298-881f-7fc6-eb7ffab0d2b6
+Chef Shuttle,USA,TN,Collierville,operating,food and beverage|transportation,,2/3/2014,,ccafd9be-099d-deb8-243d-1c47ff1d7050
+Spendsetter,USA,TN,Nashville,operating,advertising|commerce and shopping|data and analytics|mobile|sales and marketing,"17,998,631",1/1/2009,,cf89363f-b9ff-df07-57a6-1b3fc670eb3e
+Smart Furniture,USA,TN,Chattanooga,operating,commerce and shopping|consumer goods|design|real estate,"8,660,000",1/1/2001,,8575d9b1-fd97-39e5-23e3-97d608eb972a
+"3D Operations, Inc.",USA,TN,Chattanooga,operating,health care|manufacturing,"7,500",1/1/2014,,7b9f9d18-4cd9-f8ae-ea48-7c69be0d8254
+"Blood Monitoring Solutions, Inc.",USA,TN,Memphis,operating,data and analytics|health care|information technology|software,"50,000",5/14/2014,,0d45ebd7-7203-0686-ef1a-d0890350a90e
+Innometrix,USA,TN,Memphis,operating,health care,"50,000",5/14/2014,,cab1a39c-a489-257f-90ac-7a8530afa2ca
+Aloncii,USA,TN,Nashville,operating,clothing and apparel|commerce and shopping|consumer goods|design,"15,000",1/1/2014,,c34abf72-ea0f-3011-3a2b-527b750f912a
+Applyance,USA,TN,Nashville,operating,information technology|professional services|software,"15,000",1/1/2013,,df7f230a-5119-f3f5-2419-62fa5e0ac80f
+Arrister,USA,TN,Nashville,operating,commerce and shopping|consumer goods|manufacturing,"15,000",1/1/2014,,78a1d010-9ba6-54f2-88ce-058c9ef47d59
+Well Done,USA,TN,Memphis,operating,commerce and shopping|events|financial services|food and beverage|information technology|internet services|media and entertainment|mobile|payments|software|travel and tourism,"15,000",5/1/2014,,e7064a73-bff6-63d6-ae8a-65863c7b04a3
+PROVECTUS PHARMACEUTICALS,USA,TN,Knoxville,ipo,biotechnology|health care|science and engineering,"10,592,426",1/1/2002,,3896b606-77d5-83b8-6975-d923786ca5a7
+Populr,USA,TN,Nashville,acquired,data and analytics|information technology|internet services|messaging and telecommunications,"975,000",8/30/2011,,e8923c41-4ead-6aca-2f8b-553cef863179
+Parental Health,USA,TN,Franklin,operating,health care|information technology,"1,795,000",1/1/2009,,5bf7e4fb-763e-292a-0aca-76ce6a2f1a2e
+ABT Molecular Imaging,USA,TN,Knoxville,operating,health care,"28,364,818",1/1/2006,,68eed649-8061-a564-afa3-14550d2eee7f
+Prime Health Services,USA,TN,Brentwood,operating,health care,"8,000,000",1/1/1996,,7e845ff4-33a3-021b-277b-4323276f033c
+HealthStream,USA,TN,Nashville,ipo,education|internet services|software,"2,400,000",1/1/1990,,14798525-7ebb-e75e-6430-39d96e3d7519
+Tidal Wave Technology,USA,TN,Memphis,operating,energy|natural resources|sustainability,"1,470,000",1/1/2011,,f88dc797-4066-058f-3625-8a26647d9b50
+American Addiction Centers,USA,TN,Brentwood,ipo,biotechnology|health care|science and engineering,"8,877,015",1/1/2007,,1f46d2ef-992a-3eec-75b3-2a7a6f0a3358
+Pathfinder Technologies,USA,TN,Nashville,acquired,biotechnology|health care|science and engineering,"7,476,374",1/1/2004,,28286e58-89a0-e2c0-acf1-9a4e04a2caec
+Hubble Telemedical,USA,TN,Knoxville,acquired,biotechnology|health care|science and engineering,"1,150,000",1/1/2011,,cacd7eee-119e-53ec-8eb5-205eac47f245
+Variable,USA,TN,Chattanooga,operating,hardware|software,"1,850,000",12/7/2009,,9fe2bf2b-59e1-e574-820a-a6d227db05b2
+Dataium,USA,TN,Nashville,operating,data and analytics|software,"3,104,714",1/1/2009,,d605746d-060b-ecd2-6c0c-c8ee342c3974
+i3 Verticals,USA,TN,Nashville,operating,commerce and shopping|financial services|payments|software,"16,608,000",1/1/2012,,14ea437f-6021-d469-c251-e2a342b7cb03
+BorderJump,USA,TN,Nashville,operating,commerce and shopping,"735,000",1/1/2008,,0b8d72df-b8ba-0c45-6a9c-339951fe2a6d
+INFERNO FITNESS NASHVILLE,USA,TN,Nashville,operating,sports,"4,000",3/12/2012,,2d589502-1d8b-5d8b-7ea9-291b98a7b438
+Mentor Me,USA,TN,Memphis,operating,community and lifestyle|education|software,"175,000",12/8/2012,,830f2c72-0330-8073-77b1-14f9dd05103c
+Leafless,USA,TN,Arlington,operating,content and publishing|media and entertainment|sales and marketing,"345,000",2/8/2013,,52881da1-3598-05cc-ee3f-08c18e5b2df4
+Quovant,USA,TN,Nashville,operating,data and analytics|government and military|privacy and security|professional services,,1/1/1992,,2dc2dbb2-e5f7-4fbd-1eca-fd50124decf1
+Evergreen Real Estate,USA,TN,Nashville,operating,real estate,"4,000,000",1/1/2012,,5bca960b-86a9-66ba-2c32-5ee7c0a1beea
+NewsBreak,USA,TN,Knoxville,operating,commerce and shopping|hardware|media and entertainment|software,,8/25/2009,,b8fbb94f-eecc-36c3-7b08-2440d9423acf
+Relatient,USA,TN,Franklin,operating,health care,,8/7/2010,,14261379-a8b8-8fcf-7f02-d922d772bb1c
+Covenant Surgical Partners,USA,TN,Nashville,acquired,biotechnology|health care|science and engineering,"76,336,992",1/1/2008,,673996ac-03c9-d6d3-b993-7c9b98569469
+Healthcare Bluebook,USA,TN,Brentwood,operating,health care,"10,000,000",1/1/2008,,9b854149-09d9-acc7-2207-2f5db48a7997
+Mobilizer,USA,TN,Memphis,operating,health care,"350,000",1/1/2013,,76dcd907-3eee-fc1d-1421-71f5c0631a0b
+Carbon Objects,USA,TN,Chattanooga,operating,content and publishing|media and entertainment,"250,000",1/1/2013,,86451f71-5fef-c8cb-152f-177c18f1330d
+Urova Medical,USA,TN,Memphis,operating,health care,"404,000",5/15/2012,,e25c1609-ba7e-145e-6d11-4169d5ec5180
+Mississippi ALF Investor,USA,TN,Memphis,operating,health care,"1,200,000",1/1/2013,,ad3d1ae1-cb86-81ff-2f7c-099bf77b5fdf
+Blue Bay Technologies,USA,TN,Nashville,operating,hardware|manufacturing|science and engineering|software,"100,000",1/1/2007,,4f1553fb-0ec7-ff75-6470-899055f37ca7
+Hathaway Renewable Energy,USA,TN,Leoma,operating,energy|natural resources|sustainability,"1,000,000",1/1/2006,,83d4b009-a09e-b4ba-c714-07998c27a786
+IMI Health,USA,TN,Brentwood,acquired,health care|information technology,"75,000",1/1/1995,,20a82f12-f32b-8791-e22c-e1d904712175
+ReDoc Software,USA,TN,Brentwood,acquired,health care|software,"3,949,998",1/1/1995,,7ebcea84-6b21-2b7f-f651-9093cb78701d
+emids,USA,TN,Nashville,operating,information technology|software,"13,300,000",1/1/1999,,bcd7a07c-b2b2-5cd3-0f1b-092c5ca334f9
+Wunderlich Securities,USA,TN,Memphis,acquired,financial services|lending and investments|sales and marketing,"40,000,000",1/1/1996,,fb72e5e3-b112-0848-e127-7fd34403431a
+Apollo Laser Welding Services,USA,TN,Memphis,operating,manufacturing,"140,000",6/9/2014,,cb979175-5639-0e9d-762f-77ccf426f7d7
+Dinetouch,USA,TN,Knoxville,operating,commerce and shopping|financial services|mobile|payments,"100,000",5/1/2011,,97748808-1320-6d52-4882-9ff32ba1417b
+Consensus Point,USA,TN,Nashville,operating,data and analytics|design|software,"5,938,758",1/1/2006,,542bc7d0-fe50-5f31-80a6-f10bf25bd6d3
+Diagnovus,USA,TN,Nashville,acquired,health care,"2,010,000",1/1/2011,,c9972d1a-731f-b5b0-592e-4fe75c0d1c5f
+Legacybox,USA,TN,Chattanooga,operating,consumer electronics|content and publishing|hardware|media and entertainment|video,"12,022",1/1/2001,,820748a0-97e5-ef54-3f4e-8e6ce72a1171
+RecruitTalk,USA,TN,Nashville,operating,education|media and entertainment|professional services|sports|video,"50,000",9/30/2012,,58167958-fce9-87ea-bb88-6bc5c117e30b
+Tin Roof,USA,TN,Nashville,operating,food and beverage|internet services|media and entertainment,,1/1/2002,,8285eb79-b43e-2f87-ff8c-1bf05cfd9b46
+Big Bears Recycling,USA,TN,Knoxville,operating,professional services|sustainability,,10/12/2009,,89e22a99-b107-8a35-a6ff-a39259e9d399
+Artwardly,USA,TN,Memphis,operating,events|internet services|media and entertainment,,1/1/2013,,72720a45-fb8b-fdd5-1e0c-b8761a688fab
+GemPhones,USA,TN,Memphis,operating,clothing and apparel|commerce and shopping|consumer electronics|design|hardware,,1/1/2013,,6aaf90f4-3588-5b24-be40-9ffe57704728
+StyroPower,USA,TN,Knoxville,operating,natural resources|sustainability,,3/15/2012,,da0c41d6-1583-1f4a-4b46-6d6f9fe60010
+Free Automotive Training,USA,TN,Memphis,operating,education,,10/1/2013,,3f76fa45-0996-5884-f4a9-e6c5a392a436
+Foomanchew,USA,TN,Brentwood,operating,commerce and shopping|food and beverage,"400,000",1/1/2012,,736239b3-4d17-3b24-3d4f-83a669714d65
+Jenn Rykert,USA,TN,Nashville,operating,,,9/27/2013,,0e2afc94-6662-4400-9f43-aade70211271
+BreatheAmerica,USA,TN,Nashville,operating,biotechnology|health care|science and engineering,"29,800,000",1/1/2006,,f9265a64-8919-3bdf-eb8c-b4672946f06b
+PRSM Healthcare,USA,TN,Brentwood,operating,biotechnology|health care|science and engineering,"105,000",1/1/2011,,4e7e164f-ee0b-2823-557d-7653c5ef65ad
+Health & Bliss,USA,TN,Memphis,operating,health care,"2,050,000",1/1/2013,,1a75a588-38bd-0a3e-51de-e4f7b085429f
+BioNanovations,USA,TN,Memphis,operating,health care,"165,000",5/14/2012,,658498af-3cc3-ff6f-2255-d994c365fd10
+Focal Point Pharmaceuticals,USA,TN,Memphis,operating,health care,"150,000",1/1/2013,,d2669efa-229e-82d8-1b99-70e21f098be9
+GOBA,USA,TN,Nashville,operating,information technology|internet services|messaging and telecommunications|mobile,"1,825,000",10/20/2009,,7d485abb-71ee-bc02-5628-eb7548b41bf5
+GreenDot Trans,USA,TN,Nashville,operating,software|transportation,"20,000",1/1/2013,,9bfc7368-8f61-d552-90f4-f3907327b2f7
+InVivioLink,USA,TN,Nashville,operating,health care|information technology,"4,900,000",1/1/2008,,617e856a-cce1-60cf-714c-30a097a2cdeb
+Juice Analytics,USA,TN,Nashville,operating,data and analytics|design|information technology|software,"500,000",1/1/2004,,db9361d9-95e6-73a5-4ca9-2a3d4c06be02
+Mach Fuels,USA,TN,Chattanooga,operating,transportation,,1/1/2012,,28ff90e7-36e8-364d-eb21-2dd5cd5b91b6
+MyWerx,USA,TN,Nashville,operating,internet services|media and entertainment|music and audio|software,"14,000",1/1/2008,,19dcf342-ad07-9045-fb45-7d2740a8c11b
+SecureWaters,USA,TN,Tullahoma,operating,data and analytics|natural resources,"637,500",1/1/2011,,1bfeb5f4-d69d-53c3-1379-caf7ec9880c6
+Snapshot Interactive,USA,TN,Nashville,operating,design|internet services|media and entertainment|sales and marketing|software|video,"325,000",1/1/2010,,d9d1fc97-9e7b-340a-c1b5-7bace46b36ea
+Streamweaver,USA,TN,Nashville,operating,internet services|media and entertainment|mobile|software|video,"3,029,994",1/1/2011,,8105657f-0655-b662-ef92-4caeae3e94cb
+SwingPal,USA,TN,Franklin,operating,sports,"800,000",1/1/2010,,be188d7e-bfb9-411f-0421-1fab7c258cf3
+VideoLens,USA,TN,Nashville,operating,media and entertainment|real estate|video,"500,000",1/1/2007,,abbe76df-2245-de95-e928-a49d7994f40f
+View Medical,USA,TN,Memphis,operating,hardware|health care,"100,000",5/11/2013,,b8338d99-9147-8844-30ac-61b8f0eecf24
+Samuels Sleep,USA,TN,Memphis,operating,commerce and shopping|manufacturing|science and engineering,,8/16/2013,,7df072b9-a768-64b0-20da-9206d43fee90
+dVisit,USA,TN,Nashville,closed,health care,"15,000",1/1/2013,10/9/2015,2fb84815-019d-498e-827e-a0165d16f8e3
+Poliana,USA,TN,Nashville,closed,data and analytics|government and military,"15,000",1/1/2013,1/1/2015,e27e1dfe-3367-90ce-fa5d-cab45e8dd0ea
+Rocket Raise,USA,TN,Collegedale,closed,advertising|internet services|messaging and telecommunications|sales and marketing,"15,000",8/1/2013,,3d383ee5-7bf4-e92c-c2cb-d723460500be
+SpecialtyCare,USA,TN,Nashville,operating,health care,"569,968",1/1/2006,,0c8ed58b-6b5d-59ae-3b1b-43d21eec29af
+TRAKLOK,USA,TN,Knoxville,operating,hardware|software,"3,182,533",1/1/2008,,deb7eed4-63bc-3642-aa06-3df0e7e9cf1a
+Care Technology Systems,USA,TN,Nashville,operating,data and analytics|health care|internet services|sales and marketing,"980,000",1/1/2010,,eaebb3a4-3d29-d4f9-4a53-5b16850460fb
+Kids360,USA,TN,Memphis,operating,privacy and security,"15,000",1/1/2013,,a03ce2ae-5701-56a2-77cc-863de079db34
+Memphis Street Newspaper Organization,USA,TN,Memphis,operating,content and publishing|media and entertainment,,1/1/2013,,5c9ba670-db97-b8bb-dad3-a3de32bf2da8
+Cigna HealthSpring,USA,TN,Franklin,acquired,biotechnology|health care|science and engineering,"8,281,347",1/1/2000,,e364e0ed-d59a-1dc1-bdc1-aaecbdab2be0
+Aloompa,USA,TN,Nashville,operating,artificial intelligence|data and analytics|events|internet services|media and entertainment|mobile|navigation and mapping|software,"500,000",1/1/2009,,5da29873-0f5f-cf49-af6d-31d1194d6d25
+SupplyHog,USA,TN,Chattanooga,operating,commerce and shopping|internet services|real estate,"2,975,000",1/1/2011,,fd050551-75f7-d675-66e6-b0c24ea49c5f
+Ballparc,USA,TN,Nashville,operating,apps|software|transportation,,1/1/2012,,fcb93592-eb1e-3578-e987-c441835c4335
+DiaTech Oncology,USA,TN,Brentwood,operating,biotechnology|health care|information technology|science and engineering,"18,000,000",6/1/2003,,f2871c68-d3f8-ed03-9d63-a713fc80f316
+Cuff-Protect,USA,TN,Memphis,operating,health care,"50,000",1/1/2013,,277c0d1b-608f-d902-1391-e53476d92de7
+FwdHealth,USA,TN,Chattanooga,operating,health care,"7,500",10/1/2012,,7c79e470-af06-c84e-a02d-a0c4b742895a
+NaviHealth,USA,TN,Brentwood,acquired,health care,"4,099,999",1/1/2011,,0791ced3-0e3b-004e-f4e5-0324f6a5393b
+Shareholder InSite,USA,TN,Nashville,acquired,information technology|software,"7,655,002",1/1/2008,,4816ec39-5ac6-af42-02ed-92ddbabe6ec4
+Sisasa,USA,TN,Chattanooga,operating,financial services,"7,500",5/1/2013,,28033b58-27a0-db73-49d4-4f0b60cde141
+Unity Physician Partners,USA,TN,Nashville,operating,health care,"6,006,000",1/1/2013,,2b284acc-fd1f-8fdb-8629-6bf8aef4c0b1
+AIS,USA,TN,Memphis,operating,health care|information technology,"50,000",1/1/2004,,3d8d68b9-4c22-9581-e0ed-f1d7c0f28d63
+EDP Biotech,USA,TN,Knoxville,operating,biotechnology|health care|science and engineering,"2,706,000",1/1/2005,,7d7832dd-8626-ee68-d04d-07a3c09d6910
+SurgiLight,USA,TN,Memphis,operating,financial services|lending and investments,"50,000",1/1/2013,,af708570-e017-7cdc-2c10-eaf5a45e2d28
+CrowdPC,USA,TN,Nashville,closed,hardware|internet services|mobile|platforms|software,"780,000",6/4/2012,9/1/2013,06687b60-0060-5cbc-c58e-e8378598d362
+GreenPal,USA,TN,Nashville,operating,apps|mobile|software,"250,000",5/1/2012,,dae69d49-b924-488a-0c5d-5053f39262ed
+Zingfin,USA,TN,Nashville,operating,data and analytics|design|financial services|information technology|lending and investments|software,"15,000",1/31/2013,,15d43618-f16d-a304-8308-8c59cbbcf75e
+CleanApp,USA,TN,Memphis,closed,mobile,"1,010",2/5/2013,6/1/2013,772edcac-c18c-39f1-6576-7f7fd3469a82
+Alert/Divert Systems,USA,TN,Nashville,operating,transportation,"20,000",1/1/2013,,f905ad24-81c0-b6e8-edea-19677521568e
+Consensium,USA,TN,Tullahoma,operating,artificial intelligence|data and analytics|science and engineering|software|transportation,"20,000",1/1/2013,,85edf517-c6b5-e1d3-4bf1-887ec2a7bb77
+"EnhanceWorks, Inc.",USA,TN,Nashville,operating,apps|data and analytics|mobile|platforms|software,"300,000",3/1/2013,,f001500d-6b08-2888-405c-2ad00d8923d1
+Pinewood Social,USA,TN,Nashville,operating,community and lifestyle|food and beverage,"1,150,000",1/1/2012,,76887eeb-0ee3-6bd4-181f-212712c870d4
+Acacia Interactive,USA,TN,Nashville,operating,apps|gaming|media and entertainment|mobile|platforms|software|video,"792,000",3/10/2012,,fa4892c2-a921-473e-c599-271ec9a21149
+Artist Growth,USA,TN,Nashville,operating,media and entertainment|mobile|music and audio|software,"2,000,000",1/1/2011,,936ebcf0-5e77-ba5f-a3f1-09dd2f62d858
+American Hometown Media,USA,TN,Franklin,operating,food and beverage|media and entertainment,"5,519,437",1/1/2011,,d8a8ec3b-255f-0083-1d63-44cbdec88e44
+Banyan,USA,TN,Chattanooga,operating,internet services|software,"144,000",5/1/2012,,d27d8a56-aee4-c723-b9ab-6e3442568bb8
+Cutting Edge Wheels,USA,TN,Louisville,operating,manufacturing,"480,000",1/1/2012,,3b3f4866-dc14-7067-0c40-abda58ac86b1
+FSI,USA,TN,Nashville,operating,software|transportation,"517,000",1/1/1990,,a6190262-065e-6d89-63a5-dba9443cce2e
+Hear It First,USA,TN,Nashville,operating,community and lifestyle|media and entertainment|music and audio,"320,000",1/1/2006,,7d1e1ea5-7d76-6cfc-8d7b-a52621da27cd
+Informatics Corporation of America (ICA),USA,TN,Nashville,operating,health care|information technology,"6,000,000",1/1/2005,,ea2e798e-5348-c652-297a-2077b1def669
+MentorDOTMe,USA,TN,Memphis,operating,education,"15,000",1/1/2013,,87bfc936-5587-9394-cac3-d0266a788143
+NeighborMD,USA,TN,Nashville,operating,health care,"3,298,998",1/1/2010,,f53585da-ee6a-cc0f-50d6-18b988dd958b
+Soundstache,USA,TN,Memphis,closed,media and entertainment|music and audio,"15,000",1/1/2013,,2dd25fb3-ce9b-6f2a-050a-761d7e025905
+MyRooms Inc.,USA,TN,Utah,operating,advertising|internet services|media and entertainment|sales and marketing,"1,500,000",1/1/2013,,3055bfd6-67e0-fefe-8cfa-7089854e3e87
+Big Box Overstocks,USA,TN,Tullahoma,closed,commerce and shopping,"552,500",1/1/2005,,8f215b1a-8264-c13e-1eb2-ba04136f3f2c
+InCrowd Capital,USA,TN,Nashville,operating,financial services|lending and investments,"55,000",1/1/2012,,8be11d7a-326d-6b42-b408-c069bdb28481
+Listen Up,USA,TN,Nashville,operating,media and entertainment|music and audio,"40,000",5/17/2012,,51d05d13-6587-5bec-52c6-ec9b81fec1a3
+Mibio,USA,TN,Nashville,operating,information technology|internet services|mobile|platforms|software,"32,000",1/1/2012,,7276cafd-871f-a445-3dfe-8d6f30e082e7
+Quickcue,USA,TN,Chattanooga,acquired,food and beverage|software|travel and tourism,"1,800,000",1/1/2011,,75d41092-0dfc-8d98-1cb4-5c35f5231bbf
+RediMetrics,USA,TN,Nashville,operating,,"80,000",1/1/2011,,446e4a68-0be3-e675-9ca5-45284345bd87
+Stratasan,USA,TN,Nashville,operating,data and analytics|design|information technology|internet services|software,"1,231,756",9/1/2010,,0f39e94a-3b04-a80b-fdd8-0503797ab53e
+Melanie Clark Communications,USA,TN,Nashville,operating,sales and marketing,,3/8/2012,,36a9e621-55bb-ba9e-1a55-7bd4f6d6647a
+Medical Reimbursements of America,USA,TN,Franklin,acquired,health care,"7,500,000",1/1/1999,,4a7eb803-2f50-40fa-397c-acd8ecea0536
+Anthem Healthcare Intelligence,USA,TN,Franklin,closed,data and analytics|health care|transportation,"4,800,000",1/1/2004,,92310591-247f-bbf9-a993-f0e678797bbf
+mSIGNIA,USA,TN,Nashville,operating,financial services|information technology|lending and investments|mobile|payments|privacy and security,,10/19/2010,,6f758691-fcfa-7b00-083a-0ecf186c4ea5
+WOW3D Group,USA,TN,Knoxville,operating,,"1,000,000",1/1/2010,,22b94be5-94d8-0f67-830b-9a05668682e0
+American Pathology Partners,USA,TN,Brentwood,operating,biotechnology|health care|science and engineering,"5,999,999",1/1/2008,,8f867f9e-bd03-faef-e3c6-a4bf89b11c64
+HistoPathway,USA,TN,Memphis,operating,,"20,000",1/1/2012,,6709c321-6e48-026d-e4bd-2fb0ed85d65a
+Iono Pharma,USA,TN,,operating,health care,"20,000",10/1/2015,,98b5eb7c-5cc7-e791-8432-1b528cb47c1e
+LifeCareSim,USA,TN,Memphis,operating,education,"20,000",1/1/2012,,dee54a5a-616a-79b5-9bc7-f7e83dc02e04
+Nanophthalmics,USA,TN,Memphis,operating,manufacturing|science and engineering,"75,000",1/1/2012,,21652a46-1ed9-1cdd-4792-b2c798361a8f
+Pro Player Connect,USA,TN,Nashville,operating,community and lifestyle|media and entertainment|sports,"449,964",1/1/2007,,be21fa94-b7d2-5f8f-0d83-45b767cabd2b
+Site Organic,USA,TN,Knoxville,operating,food and beverage|internet services,"600,000",1/1/2001,,386d38ec-9c3c-5a42-7072-eff6901dc2c7
+Splother,USA,TN,Nashville,operating,media and entertainment|music and audio,"150,000",4/15/2011,,afe4428b-3d8a-4234-de81-3b61e7e64a46
+Xoinka,USA,TN,Memphis,closed,food and beverage,"40,000",8/1/2011,,6ce577ec-6096-b60a-8a91-051dd1ae84e4
+Contigo Financial,USA,TN,Nashville,acquired,financial services|lending and investments,"15,000",5/1/2012,,26531a0d-0f63-468f-84d7-223a06a4c9a2
+Photo Rankr,USA,TN,Nashville,operating,content and publishing|media and entertainment,,5/1/2012,,79371e88-2ca3-65f7-1422-2519faa9dd01
+The Skillery,USA,TN,Nashville,operating,education|events|media and entertainment,"15,000",11/11/2011,,8f645810-7d78-d21f-9891-63838a93002d
+Agile Health,USA,TN,Nashville,operating,health care|mobile,"2,000,000",1/1/2011,,921b3e40-25d3-1da5-adbf-019844719925
+Complete Holdings Group,USA,TN,Franklin,operating,financial services|health care,"6,505,000",1/1/2000,,866793db-7ae8-8614-14e5-83c5b1a37e4d
+Voices Heard Media,USA,TN,Knoxville,operating,internet services|media and entertainment|software,"2,897,233",1/1/2007,,a4031ca2-ed7e-bad3-a589-3928437c1bb0
+Medical Direct Club,USA,TN,Nashville,acquired,health care,"7,000,000",1/1/2009,,d56a2096-01b2-efe8-11d1-c61e69160c65
+i-drive,USA,TN,Cordova,operating,transportation,,4/1/2012,,163ed4e7-c90b-8e81-df02-f2ff6e1e2cbb
+RyMed Technologies,USA,TN,Franklin,operating,biotechnology|health care|science and engineering,"7,935,325",1/1/1994,,e5824495-d73a-e25e-e5c4-0271da7e18ea
+HandMinder,USA,TN,Memphis,operating,health care,"50,000",1/1/2012,,1085838e-39b2-5730-7b9e-b637921a79b0
+Spireon,USA,TN,Knoxville,operating,hardware|software,"7,714,643",1/1/2003,,f2b20035-4303-c5f9-0a88-ba4f57f5d4ef
+Kleen Extreme,USA,TN,Chattanooga,operating,energy|sustainability,,10/1/1998,,2ff97866-5903-e065-2440-7787cee45ba4
+PDP Holdings,USA,TN,Nashville,operating,health care,"225,000",1/1/2010,,7478eee8-44d8-c3dc-b92b-aed5c683faa4
+SourceYourCity,USA,TN,Nashville,operating,sales and marketing,,8/1/2010,,e83f688e-d40d-166f-1221-b854af985e22
+Verus Healthcare,USA,TN,Franklin,operating,biotechnology|health care|science and engineering,"7,150,000",1/1/2011,,c7d46905-52ea-9871-8482-ba61506d69e9
+"GRIDSMART Technologies, Inc.",USA,TN,Knoxville,operating,information technology|software|transportation,"11,043,722",1/1/2006,,3519a42e-7b92-9fbc-520b-ce2cdbeb6430
+Omnisoft Services,USA,TN,Chattanooga,operating,education|health care|sports,"15,000",1/1/2010,,513f4c8c-ae3f-71f1-09e4-8ee9ef34bc13
+PatientFocus,USA,TN,Nashville,operating,health care,"1,045,000",1/1/2008,,182f099d-9be8-c10a-6dba-430cbbb8549e
+Quantum Surgical,USA,TN,Chattanooga,operating,health care,"500,000",1/1/2011,,c0ae9bdb-36f4-cc10-86e4-01facfc1d9db
+Southern Alpha,USA,TN,Nashville,operating,content and publishing|media and entertainment,"175,000",1/1/2012,,ba992232-f7e8-02a3-b681-883b12bbf80d
+TalkApolis,USA,TN,Nashville,operating,internet services|media and entertainment|mobile|video,"15,000",6/1/2012,,5620995e-2206-aa75-b97a-b00d83f59fc6
+Glenveigh Medical,USA,TN,Chattanooga,operating,biotechnology|health care|science and engineering,"3,350,000",1/1/2004,,3cfc7f66-f538-e85a-6a8b-e37fb953898c
+iPractice Group,USA,TN,Nashville,closed,biotechnology|health care|mobile|science and engineering,"2,517,000",1/1/2009,1/25/2013,59d0ce08-9308-54cd-69e4-f38084537b07
+Venture Incite,USA,TN,Nashville,closed,,"875,000",1/1/2011,8/19/2014,e34cd375-c16e-47c9-d688-14ceca25c79f
+Work For Pie,USA,TN,Memphis,operating,professional services|software,"315,000",3/5/2011,,6014fb80-8c13-5974-cd14-127faac748b5
+Easiest Credit Card To Get Approved For,USA,TN,Brentwood,closed,financial services|lending and investments|payments,"25,000",5/11/2012,5/1/2013,82083f93-861a-6cd2-6074-6ef94d065b08
+OurVinyl,USA,TN,Nashville,operating,media and entertainment|music and audio|video,"15,000",5/1/2009,,1c676f09-13bd-477a-d423-00adc01e98cc
+Regional Diagnostic Laboratories,USA,TN,Brentwood,operating,health care,"4,537,001",1/1/2012,,405cc66f-1a7d-e543-116e-56cd2ce12eb9
+Tiger Logistics,USA,TN,Memphis,operating,transportation,,9/15/2008,,bb5eba39-460e-497f-d09c-b7f07fe617e3
+RentStuff.com,USA,TN,Nashville,acquired,commerce and shopping|internet services,"675,000",1/1/2010,,f4cfccd7-11cb-f0d2-82d5-d9a576eefeb0
+ProviderTrust,USA,TN,Nashville,operating,health care|software,"1,796,636",7/2/2010,,2747d9d7-0d87-7fa6-f1fe-907917ca6c76
+Paytopia,USA,TN,Memphis,operating,commerce and shopping|financial services|payments,"15,000",1/28/2012,,fd356d71-1961-adda-a6bc-23e22276aac9
+Evaporcool,USA,TN,Memphis,operating,manufacturing|professional services,"450,000",1/1/2008,,6248d2aa-0654-03a8-be2b-c09bf875bd78
+Apax Solutions,USA,TN,Nashville,operating,,"170,000",1/1/1999,,49653a27-c5e3-5750-feba-357d092c0150
+Criterion Security,USA,TN,Nashville,operating,privacy and security,"250,000",1/1/2010,,d20691c0-edf0-06a6-afac-631655712506
+Silvercare Solutions,USA,TN,Nashville,operating,health care,"1,777,995",1/1/2008,,76f74f35-c5bd-0a43-ef50-708d009b6a9e
+Veracity Medical Solutions,USA,TN,Collierville,operating,health care|manufacturing,"250,000",1/1/2007,,c4055840-9280-68ea-5c92-3152df9581b4
+retickr,USA,TN,Chattanooga,closed,content and publishing|internet services|media and entertainment,"1,550,000",3/1/2011,1/1/2014,5bd6ff50-bf13-ee00-706a-2efb40245321
+Urge,USA,TN,Nashville,operating,commerce and shopping|mobile,,11/1/2011,,8264bd89-13f6-365a-1856-6c90bf212a8c
+CloudAptitude,USA,TN,Memphis,closed,internet services|media and entertainment|software,"15,000",1/28/2012,,00107fd1-b65b-85cd-7d60-c00c4b2ae2fb
+Friendsignia,USA,TN,Memphis,closed,information technology|internet services|media and entertainment|software,"15,000",1/29/2012,6/1/2013,8d84e281-0051-30e2-dff9-50cff697dc89
+"VTM, LLC",USA,TN,Nashville,operating,biotechnology|education|health care|science and engineering,"2,015,130",1/1/2010,,da178206-be63-cc23-7ac0-ab4c0ff2eed7
+"HyperMed Imaging, Inc.",USA,TN,Memphis,operating,health care,"5,000,000",1/1/1997,,97141148-a0ad-d1db-cfd0-56a1e3f4fd4f
+KnoCo,USA,TN,Memphis,operating,education|gaming|media and entertainment,"15,000",1/1/2012,,7b967721-26b5-4842-c28a-56d9d9c22a67
+Alana HealthCare,USA,TN,Dickson,operating,health care,"10,000,000",1/1/2009,,c4060af0-cfff-995d-99b7-4bc0d69962f0
+Ogden Tomotherapy,USA,TN,Nashville,operating,health care,"676,708",1/1/2011,,6b7596fe-a2ae-31ca-aba3-693ea6243714
+Southtree,USA,TN,Chattanooga,operating,content and publishing|media and entertainment,"60,000",1/1/2009,,39b08a48-d371-798c-a4b9-25e803ea7a00
+HydroLogex,USA,TN,Brentwood,operating,manufacturing,,8/19/2009,,6e9930fb-e262-6cb3-82d6-a7901ef6c2b0
+Partners Healthcare Group,USA,TN,Brentwood,operating,health care|information technology,"2,700,000",6/1/1995,,6738b798-6213-17ae-305b-ebb0a28bf538
+Rodney's Soul & Grill Express,USA,TN,Nashville,operating,travel and tourism,,11/1/2011,,93926bc9-fee2-a3e0-d212-d7a12e25f7dd
+RMB Inc.,USA,TN,Knoxville,operating,health care,,1/1/1991,,fb455685-9b08-9184-4b1c-9d27f43b44d6
+Industrial Ceramic Solutions,USA,TN,Oak Ridge,operating,energy|sustainability,"1,100,000",1/1/1997,,7bff89e4-c1a1-670b-cd99-ce09724c6b3e
+Checkd.In,USA,TN,Nashville,operating,data and analytics|information technology|sales and marketing|software,"1,000,000",1/1/2011,,95d73133-4378-b776-0f9c-09e30cbf4492
+Foundations Recovery Network,USA,TN,Brentwood,acquired,health care,"29,000,000",1/1/1995,,b9a5eace-640a-7591-b992-fce2141bf646
+Caregivers,USA,TN,Nashville,operating,health care,"2,700,000",1/1/1998,,e5ecb0dd-b6b5-6531-90a6-a195e3430dc3
+Cold Crate,USA,TN,Nashville,closed,biotechnology|science and engineering|transportation,,9/22/2010,,7dbed1e6-b2f7-48fd-d7e8-70d4701921d3
+Morris Freight and Transport Brokerage,USA,TN,Memphis,operating,transportation,,10/1/2011,,d5f442db-d248-83e5-8feb-c6a750a3863d
+StyleNet,USA,TN,Franklin,operating,design|internet services|sales and marketing,"150,000",1/1/2007,,6b61f6cc-6368-6bc4-92a9-1e3d11efc08d
+Ernie's,USA,TN,Memphis,closed,commerce and shopping|internet services,"15,000",3/5/2011,9/1/2013,1666dc00-3a5a-7daf-356e-316281a93cf1
+IdleAir,USA,TN,Knoxville,operating,transportation,"3,000,000",1/1/2003,,c52c0ae6-dd45-e6f8-68bd-6573d8f87710
+Primocare,USA,TN,Nashville,closed,health care,"50,000",1/1/2010,8/1/2012,1a85d8bc-b385-9618-f741-3fb14f060242
+meevl,USA,TN,Nashville,operating,internet services|media and entertainment,"15,000",6/1/2011,,39de71a1-a7fd-851a-b06b-f3514f20a84c
+SergeMD,USA,TN,Memphis,operating,health care,,12/1/2004,,85fb74d3-c511-dd28-63be-fa333aed3132
+Asmacure Ltée,USA,TN,Quebeck,operating,biotechnology|health care|science and engineering,"16,925,741",1/1/2002,,7044d4e3-279b-8e20-69fb-dba613abc1c5
+ExtraOrtho,USA,TN,Memphis,operating,biotechnology|health care|science and engineering,"4,690,185",1/1/2007,,89d7a547-ec23-dc8c-e159-65a669566cf3
+Nuhook,USA,TN,Knoxville,operating,community and lifestyle|internet services,"30,860",1/1/2011,,3a15b8f2-edcf-1eed-9f29-3ad1fe7e73a6
+Surgery Partners,USA,TN,Cleveland,ipo,health care,"173,111",1/1/2000,,467d1a2b-932c-3d9b-a30c-ad70bb85c5f4
+Graceful Tables,USA,TN,Nashville,operating,commerce and shopping,"750,000",1/1/2010,,b76504ef-3e5d-b4ef-90ac-8ff0f3de20bb
+CHOOMOGO,USA,TN,Memphis,closed,advertising|consumer electronics|hardware|mobile|sales and marketing|software,"15,000",3/5/2011,8/1/2013,d480818e-9322-87a7-48c8-59547c982a42
+Krikle,USA,TN,Memphis,closed,apps|media and entertainment|mobile|software,"15,000",3/5/2011,11/1/2012,61637f82-dca3-1e03-2e0a-141ed3222f08
+stiQRd,USA,TN,Memphis,closed,apps|mobile|sales and marketing|software,"15,000",3/5/2011,3/1/2013,f067e669-dc63-851b-a7e4-d5003c4282cd
+Bizen,USA,TN,Nashville,operating,software,"365,000",8/31/2010,,482b21bf-5b0a-5515-80e0-62ef00a2b45e
+Bravoavia,USA,TN,Moscow,operating,internet services|software|travel and tourism,,1/1/2011,,f6dd0fb6-2c1f-94e7-8b0e-70bbe3fbf596
+M2G,USA,TN,Nashville,operating,health care|payments|software,"1,331,000",1/1/2006,,d681c113-3edd-530e-f292-62f43e88a7eb
+Executive Trading Solutions,USA,TN,Brentwood,operating,internet services|software,"621,410",1/1/2008,,e8b6861d-7c57-5a0c-9dc8-91da0eb6ca31
+Device Innovation Group,USA,TN,Nashville,operating,biotechnology|health care|science and engineering|software,"4,000,000",1/1/2011,,87d18ac9-1d96-370b-b877-8e575920930c
+Optimal Radiology,USA,TN,Nashville,operating,health care,"34,604,568",1/1/2005,,91cc338e-bc67-ff54-be47-efa6ef4c8da7
+Spire,USA,TN,Chattanooga,operating,apps|community and lifestyle|health care|internet services|media and entertainment|mobile|software,"1,250,000",1/1/2010,,43fbcfdf-7509-9e52-a84d-3749e152daac
+Daio,USA,TN,Nashville,operating,mobile|software,,1/1/2011,,0a244f7b-4e15-b6e6-51c2-325c750fbe65
+Nooga.com,USA,TN,Chattanooga,operating,content and publishing|media and entertainment,,1/1/2010,,f3b2e34d-d787-d57e-0f9f-a853408df221
+Wylio,USA,TN,,operating,content and publishing|data and analytics|internet services|media and entertainment|software,"1,000",12/6/2010,,a0427015-21f3-01c9-484b-97f174b8753f
+Precedent Health,USA,TN,Brentwood,operating,health care,,1/1/2010,,2bc05d64-433f-0329-4fd8-4178753d0f63
+Vivere Health,USA,TN,Franklin,operating,health care,"23,000,000",1/1/2010,,ac8f5b94-b3c7-5f7f-e2f0-4538f161d381
+Aionex,USA,TN,Goodlettsville,operating,health care|information technology,"250,000",1/1/2005,,1860f077-887c-0e11-9c37-c761c6666415
+Graceway Pharma,USA,TN,Bristol,operating,health care|manufacturing,"9,084,161",1/1/2010,,ae7a8391-2940-0b9a-4fd6-03358057ddcf
+Fort Sanders West,USA,TN,Knoxville,operating,biotechnology|health care|science and engineering,"100,000",1/1/2001,,830d9b28-2fcf-de6b-159e-12f953593496
+North Dallas Surgical Center,USA,TN,Brentwood,operating,health care,"1,080,000",1/1/2005,,de444e51-b78d-9e24-3c18-eab50cefb02f
+JBI Fish & Wings,USA,TN,Humboldt,operating,travel and tourism,,7/25/2010,,98404ca1-363d-68d7-9d01-86aefc2ce32c
+SCSG EA Acquisition Company,USA,TN,Nashville,operating,,"32,000,000",1/1/2007,,07931198-2c1a-ce89-0e7a-99839e9c9a9d
+Value Payment Systems,USA,TN,Nashville,operating,financial services|software,"600,000",1/1/2008,,b1ca4b42-5d0e-f717-9604-76a59085732b
+NOC2 Healthcare,USA,TN,Nashville,operating,hardware|software,"310,000",1/1/2009,,2d950875-e495-ba9b-bd32-f19ea1268dc3
+KarmaKey,USA,TN,Utah,operating,advertising|apps|data and analytics|food and beverage|mobile|platforms|sales and marketing|software,"15,000",5/11/2010,,cbd64eee-5807-a7e7-8b87-3d044b6e5d46
+DotGT,USA,TN,Madison,closed,consumer electronics|hardware|mobile|software,"250,000",5/1/2010,7/1/2012,ddcfd9f9-5373-c31c-532f-d664f9b455a3
+Navmd,USA,TN,Knoxville,operating,biotechnology|health care|science and engineering,"50,000",1/1/2005,,40faad3b-405d-9e57-0617-9563526da1ed
+Simplex Healthcare,USA,TN,Franklin,acquired,administrative services|health care,"2,999,997",4/1/2007,,81e6be14-4958-d9e7-7917-6b6b3f3766b9
+Education Networks of America,USA,TN,Nashville,acquired,education|government and military|software,"14,300,000",1/1/1996,,1c7b73a5-d377-1ea5-10d2-cb97181ae260
+Mango Reservations,USA,TN,Nashville,closed,software,"20,000",1/1/2010,,6e1617b1-abad-21ca-6c27-f9eb5dda2733
+Scripps Networks,USA,TN,Knoxville,acquired,community and lifestyle|media and entertainment|video,"10,000,000",1/1/1994,,b5a96cd7-044d-70f0-04c5-f125e57a4b35
+Park Media,USA,TN,Memphis,operating,content and publishing|media and entertainment|software,"602,082",1/1/2004,,1b405cae-c6b2-8033-14df-162618d8c836
+Mingleplay,USA,TN,Murfreesboro,closed,commerce and shopping|financial services|mobile|payments|platforms|software,"300,000",1/27/2010,12/25/2011,3c361c75-1a53-1728-4374-4f3310d5fbf5
+TopTenREVIEWS,USA,TN,Utah,operating,commerce and shopping|consumer electronics|gaming|hardware,"7,500,001",1/1/2003,,204e2665-eb97-b4a7-85b2-e12b6d7b4b65
+MDSmartSearch.com,USA,TN,Brentwood,closed,health care,,1/1/2010,2/1/2014,a4f58a0e-222e-77dd-34b8-dcd004016c43
+Dayana's One Stop Salon,USA,TN,Nashville,operating,professional services|software,,12/11/2009,,ad917d4c-9e49-582a-864b-366db5dad619
+PharmMD,USA,TN,Brentwood,operating,health care,"8,800,000",1/1/2006,,096ef6b6-e563-b61b-4156-4f0031884210
+CirQuest Labs,USA,TN,Memphis,operating,biotechnology|health care|science and engineering,"50,000",1/1/2008,,162b4b2a-877e-1cb1-4a9a-1baf493cbc05
+Skoodat,USA,TN,Chattanooga,operating,education|internet services|software,"2,000,000",11/4/2008,,870d14cf-fbd2-cf22-9987-4f0f933ec95e
+BioMimetic Therapeutics,USA,TN,Franklin,acquired,biotechnology|health care|science and engineering|sports,"59,918,955",1/1/1999,,52983b76-ec35-d9b4-b17c-0ede2424d1f6
+JoggleBug,USA,TN,Madison,operating,advertising|apps|sales and marketing|software,"199,999",1/1/2008,,ebc59e53-0fe0-89f3-a42d-c37cdcab643b
+Universal Robotics,USA,TN,Nashville,operating,artificial intelligence|data and analytics|hardware|science and engineering|software|transportation,"1,302,515",1/1/2001,,9d614b79-fa1d-2081-eb06-f5f8c7cedce2
+RevPoint Healthcare Technologies,USA,TN,Brentwood,acquired,health care,"2,800,000",1/1/2003,,9f95076e-a3dc-c422-a411-586d6b7dbe48
+Tricycle,USA,TN,Chattanooga,operating,software|sustainability,"2,175,000",1/1/2002,,6067a3d6-ea4e-6014-425e-4da9b94948b1
+Fleet One,USA,TN,Antioch,acquired,financial services,,1/1/1997,,b916cd77-815d-04d0-73c1-f1cbdd982ee5
+Lumetric Lighting,USA,TN,Oak Ridge,closed,hardware|software,"4,500,000",1/1/2007,,3c83cf3f-d4e4-d0ca-31b5-157c2febde63
+Creative Logic Media,USA,TN,Cookeville,closed,design,"50,000",1/1/2006,,44357d0e-6064-ed90-96f0-4d75eae72bac
+Tingz,USA,TN,Knoxville,closed,internet services|media and entertainment|software,"280,000",4/27/2007,,260fe98f-e19b-3c2a-a928-c7688920b12a
+NellOne Therapeutics,USA,TN,Knoxville,operating,biotechnology|health care|science and engineering,"1,500,000",1/1/2007,,188ab704-072e-0c08-cfc4-baf016b3eba7
+Inspivia,USA,TN,Nashville,operating,content and publishing|media and entertainment,"30,000",6/1/2008,,2679384a-c872-22dc-49c0-497793584fb8
+Wireless Tech,USA,TN,Franklin,operating,internet services|media and entertainment,"1,250,000",3/10/2006,,5ff40f24-6757-221a-ee37-11fab7b86a1a
+Protein Discovery,USA,TN,Knoxville,operating,health care,"10,000,000",1/1/2001,,f3b4d39e-3bf4-cb70-673d-4eabb0509f26
+CyberVision Text,USA,TN,Franklin,operating,sales and marketing,,11/1/2007,,d32a1673-4db8-607d-ec26-f09f1cfe0e03
+GoYoDeo,USA,TN,Nashville,closed,content and publishing|information technology|media and entertainment|software|video,"150,000",8/7/2007,4/13/2010,73d1ceb4-f3ac-9030-dee6-f803f712ee57
+SunCrest Healthcare,USA,TN,Madison,acquired,health care,,1/1/2005,,a47ae197-33f4-0624-ff43-b47ac61fdbdb
+LocalEats,USA,TN,Nashville,operating,food and beverage|media and entertainment|travel and tourism,"5,000,000",1/1/2008,,b3a56b66-ae4c-73a1-ce31-ee94ee9fda60
+Knetwit Inc.,USA,TN,Chattanooga,closed,education|professional services|software,"4,600,000",6/26/2007,11/1/2009,a5e2c2ba-20e9-fbe7-7839-9ef7eb3221d4
+IASIS Healthcare,USA,TN,Franklin,acquired,health care,"1,500,000",10/1/1999,,8d3eae31-09bd-aaf7-8039-0f1a578839da
+Verified Person,USA,TN,Memphis,acquired,privacy and security|professional services,"19,425,000",1/1/2004,,cf7ca015-a03a-9c9e-730f-4f92375635bf
+Mercury Intermedia,USA,TN,Brentwood,operating,mobile|platforms|software,,10/1/2004,,bbdf4928-d74c-1858-654c-9c9456f12d34
+Snowflake Technologies,USA,TN,Memphis,closed,financial services,"6,000,000",1/1/2005,2/3/2011,655657ca-ba1e-f439-01e8-5d69c4a9786d
+Regency Hospice,USA,TN,Nashville,operating,health care|natural resources|sustainability,,1/1/2002,,8d2f1f39-c190-61a4-c944-d70a95136f51
+Luminetx,USA,TN,Memphis,acquired,biotechnology|health care|science and engineering,"11,000,000",1/1/2001,,9001a074-c41f-a744-4f1b-060647c225fc
+Eonstreams,USA,TN,Knoxville,acquired,,,1/1/2000,,8a567c53-3d70-576a-f7e3-52943266be31
+Vintela,USA,TN,Utah,closed,software,"3,000,000",1/1/2003,,7108e70f-ff7d-dd53-1a7b-d379a5173c70
+American Esoteric Laboratories,USA,TN,Memphis,operating,health care,"70,000,000",1/1/2003,,016eeb83-b3e9-08a1-cbb7-99ccf200e2fb
+Inspiris,USA,TN,Brentwood,acquired,health care,"8,020,000",1/1/1998,,22163061-d84e-b08d-f985-d39ddaebc2a6
+Metro Waste,USA,TN,Utah,operating,sustainability,"2,750,000",1/1/1999,,1fa36e1c-fbf3-35ab-3b7c-b2963d09005a
+Private Business,USA,TN,Brentwood,operating,financial services|professional services,"20,000,000",12/26/1990,,fea2c377-f62b-31a6-2c2d-8a208149d32f
+Essent Healthcare,USA,TN,Nashville,operating,health care,"80,000,000",1/1/1999,,39989ae9-4ced-30a6-9720-51e6301d456a
+BulldogIT Corporation,USA,TN,Nashville,operating,health care|information technology,"1,400,000",1/1/2000,,82449d89-09c0-39bb-e907-03bb70c7e0c1
+Healthcare Management Directions,USA,TN,Brentwood,operating,administrative services|health care,"8,100,000",1/1/2001,,e9aa95fb-1307-0a38-40a4-b7015c6c00e5
+Rappore Technologies,USA,TN,Utah,operating,information technology|software,"3,000,000",1/1/2001,,f023a8ea-9202-0eb1-f46c-332fe07d470e
+Freeliant,USA,TN,Nashville,acquired,information technology,"5,400,000",1/1/2000,,1edf0e47-55d7-8d57-4bdd-05c0a4638842
+DoBox,USA,TN,Utah,operating,community and lifestyle|real estate,"2,000,000",1/1/1999,,7904eec0-e85d-70ff-ddee-0a9b3caf5731
+Geobot,USA,TN,Memphis,operating,information technology|internet services|messaging and telecommunications|software,"2,200,000",1/1/1999,,8fe55cd9-1d8e-938a-3c87-6608e311c2ac
+Smallbusiness.com,USA,TN,Nashville,operating,content and publishing|media and entertainment,"1,500,000",1/1/2000,,b34a79c0-c877-9443-0888-c69ef59fb3ce
+Nextier® Solutions,USA,TN,Memphis,operating,financial services|internet services|lending and investments,,1/1/2000,,b69e27e0-3229-1146-8cab-bcb3bf7b3fd3
+Ntown Communications,USA,TN,Knoxville,operating,data and analytics|internet services|navigation and mapping|sales and marketing,"5,000,000",7/1/1996,,587ceaf5-c92f-a919-e6bd-b1eae10d9ac3
+Phyve,USA,TN,Nashville,closed,health care|information technology|privacy and security,"12,000,000",1/1/1997,,61fe9ddd-04e6-9de3-d746-a081ba2db2bd
+EyeZoom.com,USA,TN,Nashville,closed,information technology|internet services|media and entertainment|video,"1,800,000",1/1/2000,,74ce9cc9-2869-d7a6-c53d-871968cec236
+Peacock Financial,USA,TN,Nashville,operating,commerce and shopping|financial services,"5,000,000",1/1/1998,,b3380a7c-ff8b-0ef5-041d-21c382b089ff
+BlueStar Communications,USA,TN,Nashville,acquired,hardware|internet services,"29,000,000",1/1/1998,,2b96462b-52c6-b47e-4ba6-fd4918bdf27c
+eLearnX,USA,TN,Nashville,operating,financial services|professional services|real estate,"2,000,000",1/1/1999,,d7463834-9dfd-521b-ce4a-cb49ab819dfd
+Rivals.com,USA,TN,Brentwood,acquired,commerce and shopping|internet services|sports,"35,000,000",1/1/1998,,1b102efe-ad8b-bb75-1587-d6975c366329
+Passport Health Communications,USA,TN,Franklin,operating,hardware|health care|software,"7,000,000",1/1/1996,,7ff85c1d-7c59-0257-e749-360fbfc3ca41
+iPayment,USA,TN,Nashville,ipo,financial services|lending and investments,,1/1/1997,,a35a7a7d-f756-6549-c1f7-ddada1b350f5
+Symbion Holdings,USA,TN,Nashville,acquired,health care,"16,170,000",1/1/1999,,01cc9a50-0278-8d32-be86-f23f25f511a8
+247 Sports,USA,TN,Brentwood,acquired,content and publishing|media and entertainment|sports,,1/1/2010,,c499b2d5-8335-7ec9-f11b-ead3f09d70a1
+301 Digital Media,USA,TN,Brentwood,operating,advertising|content and publishing|media and entertainment|sales and marketing,,1/1/2014,,f1cf50d9-9f01-2994-cd97-6a602637f164
+Acadia Healthcare,USA,TN,Franklin,ipo,health care,,1/1/2005,,15afda29-f867-f612-0667-3d0e5c940616
+Access America Transport,USA,TN,Chattanooga,acquired,transportation,,1/1/2002,,929d2126-245d-e510-8cf9-d6833920f025
+Accredo Health,USA,TN,Memphis,ipo,health care,,1/1/1996,,b86e0ee0-03b8-5024-a2e2-32595f963f19
+AC Entertainment,USA,TN,Knoxville,acquired,media and entertainment|music and audio,,1/1/1991,,b652e657-f1ad-e38b-1f20-e6c4d0c27b1d
+AdeptBio,USA,TN,Memphis,acquired,biotechnology|science and engineering,,1/1/2010,,c0cb12be-df9a-96e5-8c41-5a58861c5404
+Aegis Sciences,USA,TN,Nashville,operating,biotechnology|health care|science and engineering,,1/1/1991,,fbef6e2d-1ce4-ad5b-4e8f-a95f70ed1c86
+"AgilityFOUR - KMR, Inc.",USA,TN,Dandridge,acquired,software,,1/1/2007,,69e3878b-5ff2-5858-aa3b-c40536c4e0e1
+Aid & Assist At Home,USA,TN,Bristol,acquired,health care,,1/1/2005,,89e32df7-bf62-bccc-7f07-3da1e8399a36
+AirCel Corp,USA,TN,Maryville,acquired,manufacturing,,1/1/1994,,feeca0a7-d9f2-3b2b-fc1e-5a33a29d6b79
+Ambulatory Services of America,USA,TN,Brentwood,acquired,health care,,12/1/2007,,60813f9e-567d-3ea1-6abc-d0c42a268583
+American Hometown Publishing,USA,TN,Franklin,acquired,content and publishing|media and entertainment,,1/1/2005,,80572421-a62e-8da5-45d0-6c04f1794fa6
+AmSurg Corporation,USA,TN,Nashville,acquired,health care,,1/1/1992,,7ce5b727-d53b-d275-3779-b2c653942330
+Animal Emergency Specialty Center,USA,TN,Knoxville,acquired,,,1/1/2001,,1f2d2de3-2b44-8da3-fc87-6c4104e263a7
+Anode - FireSign Dynamic Digital Signage platform,USA,TN,Nashville,acquired,apps|software,,1/1/2003,,8f1254cc-4ff8-3773-e6f3-3486afb22368
+Aqua-Chem,USA,TN,Knoxville,acquired,natural resources,,1/1/2006,,15d6f8f8-f330-a807-2e37-7c7eb8de1582
+Ardent Health Services,USA,TN,Nashville,acquired,health care,,1/1/1993,,a3688269-e3f1-c47a-0896-fc75eebc9b78
+Aries Clean Energy,USA,TN,Nashville,operating,energy|sustainability,,1/1/2010,,bc87d2a9-2cfc-40a8-5df4-ee34d2ea22a8
+ARiES Energy,USA,TN,Knoxville,acquired,energy|sustainability,,1/1/2011,,5f270e0d-65e7-b7b1-184b-ffa3720a7184
+Aries Solar,USA,TN,Knoxville,acquired,energy|natural resources|sustainability,,1/1/2010,,cae44d1d-416e-af17-e34f-2b078ddf630c
+Aroluxe,USA,TN,Brentwood,operating,advertising|sales and marketing,,1/1/2014,,1afd1a79-0258-c981-bd6d-030a3afe951f
+Asentinel,USA,TN,Memphis,acquired,information technology|software,,1/1/2002,,4c1e4350-d2ad-fa02-ddd1-1e0e618469f0
+Asurion,USA,TN,Nashville,operating,consumer electronics|financial services|hardware|mobile,,1/1/1994,,9cf163fb-1f77-0b6d-21ef-c9c6a36f70f0
+AtWork Group,USA,TN,Knoxville,operating,administrative services|professional services,,1/1/1992,,88e12d29-0c6e-d630-f312-6288f6b823d2
+autoXLR8R,USA,TN,Spring Hill,closed,transportation|travel and tourism,,1/1/2013,3/1/2016,7f35271c-66f4-3d0c-9db8-db7ab18f7e71
+Avenue Financial Holdings,USA,TN,Nashville,acquired,financial services|lending and investments,,1/1/2006,,8dc9078b-c357-2f0d-04bd-0ce0ef7d52f7
+Avondale Partners,USA,TN,Nashville,operating,data and analytics|design|financial services|lending and investments,,1/1/2001,,45661b4a-2990-c5dd-416b-343255c75126
+BBR Music Group,USA,TN,Nashville,acquired,media and entertainment|music and audio,,1/1/1997,,84522453-9a1e-4038-4750-0e426418faca
+Behavioral Centers of America,USA,TN,Nashville,acquired,health care,,1/1/2002,,4a1ee997-287d-5d19-ab59-1256240589ce
+BindTech Inc.,USA,TN,Nashville,acquired,manufacturing,,1/1/1992,,0178e038-d471-2595-528b-bd9abd16994b
+"BioD, LLC",USA,TN,Cordova,acquired,biotechnology|health care|science and engineering,,1/1/2005,,4ebb56fc-53f4-caea-51f6-f451fec96369
+Bitcoin Magazine,USA,TN,Nashville,acquired,content and publishing|financial services|media and entertainment|payments|software,,1/1/2011,,cfd48ec6-d8ff-4695-6441-fa07b1b3bcbb
+Caddis,USA,TN,Franklin,acquired,internet services|sales and marketing,,1/1/2010,,c8f08d69-83ee-2776-5b98-cd7b90cc41dc
+Capella Healthcare (now RCCH HealthCare Partners),USA,TN,Franklin,acquired,government and military|health care,,1/1/2005,,e09bae4e-6985-438c-3ace-e47844770ac4
+Capital Confirmation,USA,TN,Brentwood,operating,consumer electronics|financial services|hardware|professional services,,1/1/2000,,bcfdd05e-a729-9f26-30c4-1ac30fe391c4
+Case Closed Software,USA,TN,Cleveland,acquired,data and analytics|software,,1/1/2005,,2c45e37d-4ab5-1707-4d2c-a96d44c278e2
+"CaseLogistix, Inc.",USA,TN,Nashville,acquired,professional services|software,,1/1/1999,,3b655687-bae8-78f1-cd79-36b4ec33d707
+CBL & Associates Properties,USA,TN,Chattanooga,ipo,financial services|real estate,,7/13/1993,,b217c31a-8beb-7efb-07c7-bfb8d7e0d335
+CellBlox,USA,TN,Eagleville,acquired,information technology,,1/1/2012,,8e72435d-e0a9-0d71-f824-4ad90a6c4aaa
+Cell Journalist,USA,TN,Nashville,acquired,content and publishing|internet services|media and entertainment|mobile|software|video,,1/1/2007,,0a902c63-c1c2-dac3-8873-41b936378da7
+Centerre Healthcare Corporation,USA,TN,Brentwood,acquired,health care,,1/1/2002,,0cee9241-feaf-298c-c2a1-ad52d340ee1c
+Clayton Associates,USA,TN,Nashville,operating,financial services|lending and investments,,1/5/1996,,75f7c49e-8575-bd7c-8b5a-0ea5783e5d2d
+Cogent Healthcare,USA,TN,Brentwood,acquired,biotechnology|science and engineering,,1/1/2007,,6fa08f33-2310-3cee-5e5a-424001f40d9b
+Combustion LLC,USA,TN,Memphis,acquired,advertising|design|information technology|privacy and security|sales and marketing,,1/1/1997,,5ac638a3-7a4d-ccf0-fce3-0da3a0e2b202
+Converged Solutions Group,USA,TN,Nashville,acquired,hardware|information technology,,1/1/2004,,fa7e05bd-e2e0-6513-bc8a-0be2ca4188ed
+Cornerstone Community Bank,USA,TN,Chattanooga,acquired,financial services|lending and investments,,1/1/1996,,3d274198-911c-0847-cedd-ec9433f54bea
+Crafty Games,USA,TN,Knoxville,acquired,content and publishing|gaming|media and entertainment,,1/1/2005,,c7ef08e1-5d19-eb70-a355-9ac057501ea4
+CredenceHealth,USA,TN,Brentwood,acquired,artificial intelligence|data and analytics|health care|information technology|science and engineering,,1/1/2007,,c1ec15cd-c1fd-735c-db23-a582c534fbc2
+CrossBrowserTesting.com,USA,TN,Germantown,acquired,hardware|internet services|software,,1/1/2008,,95cce0d2-cbb9-b060-51de-4f6edf240e00
+CSC Links,USA,TN,Nashville,acquired,financial services|payments,,1/1/2008,,9ba6aae7-c84f-a3a7-60d7-4c797bbd8126
+CSI Medical,USA,TN,Gallatin,acquired,health care,,1/1/2001,,c9bae78c-55b6-ecd6-e98b-42bdfbd25fc3
+Cumberland Consulting Group,USA,TN,Franklin,operating,information technology,,1/1/2004,,2a2414c1-41c4-e3a4-1dbb-c0942b20af0d
+Cumberland Pharmaceuticals,USA,TN,Nashville,ipo,biotechnology|health care|science and engineering,,1/1/1999,,8ee813e6-930b-5329-f36c-b670093c1fa2
+"Delek Logistics Partners, L.P.",USA,TN,Brentwood,ipo,energy,,1/1/2012,,579e776d-bddf-8b9c-8e13-ddbaf9286f8d
+"Delek US Holdings, Inc.",USA,TN,Brentwood,ipo,energy|natural resources|sales and marketing,,1/1/2001,,5abb242c-a64d-ed8c-580e-367265c98091
+DeMoss Capital,USA,TN,Chattanooga,acquired,,,1/1/2008,,3130536c-0b60-05d4-be5a-d3d7b4dbd763
+Diabetes Care Club,USA,TN,Franklin,operating,biotechnology|health care|science and engineering,,1/1/2007,,37499f71-9a5c-c30e-3d3c-cda86fabafea
+digichart,USA,TN,Brentwood,acquired,health care|information technology,,1/1/1996,,d03e964d-aadc-6fab-68c6-13b67a125654
+Direct General Insurance,USA,TN,Nashville,acquired,financial services,,1/1/1991,,3dcd12be-a424-3dd7-9eb5-1c585f838cf5
+DiscLive Network,USA,TN,Memphis,acquired,media and entertainment|music and audio,,1/1/2007,,22811718-09c5-3bff-6e74-4fd3fc3cfc01
+Diversicare Healthcare Services Inc.,USA,TN,Brentwood,ipo,,,1/1/1994,,37687df4-5cc1-1861-5cf8-aa9b5dad46e4
+Documentary Channel,USA,TN,Nashville,acquired,media and entertainment|video,,1/1/2006,,0d728bef-2407-a517-f883-b9df3a3834f1
+Dualtone Music Group,USA,TN,Nashville,acquired,,,1/1/2001,,31f6265c-5ce2-0ef1-14cc-2bdd4fe9d2e2
+DXE Medical,USA,TN,Brentwood,operating,health care,,1/1/1999,,409e0848-0f81-bdfc-4741-82ebf715c118
+EBM Solutions,USA,TN,Nashville,acquired,,,1/1/1999,,26ee737d-a8f5-5a1b-048c-a5c6e487a764
+echomusic,USA,TN,Nashville,acquired,,,1/1/1999,,efce3202-ffc1-3939-72e6-d32bbc27bd07
+Edgenet,USA,TN,Brentwood,acquired,software,,1/1/1990,,3069a962-4056-3620-5814-d64ec6d8a381
+Education Solutions Services,USA,TN,Knoxville,operating,education|information technology,,1/1/2016,,b4ca84e6-b2a9-f040-2eaf-72dcea098502
+Emdeon,USA,TN,Nashville,acquired,financial services|payments|software,,1/1/2006,,0f0c5929-d9ec-252c-6ec4-2d45d0dd8c05
+Emerge Financial Wellness,USA,TN,Nashville,operating,financial services,,7/1/2010,,a7b698c2-6616-0b4b-7869-4e3df18b5272
+EN-Chart Scanning Program,USA,TN,Dandridge,acquired,,,1/1/2002,,a642ca63-1eb5-a74a-904e-33bd7467b266
+Express Freight Systems,USA,TN,Chattanooga,acquired,transportation,,1/1/2004,,0963a205-1013-fc0f-6fb4-2b4604e372f7
+Firefly Logic,USA,TN,Nashville,acquired,apps|internet services|mobile|software,,1/1/2004,,55bcc3f8-8815-220b-9b1a-e75ea06fb38c
+First Security Group,USA,TN,Chattanooga,acquired,financial services,,1/1/1999,,0f3dd704-f3db-b3e0-0276-17734818d393
+Focus Search Partners,USA,TN,Brentwood,operating,administrative services|professional services,,1/1/2010,,582c7867-6c40-2fa4-8f16-14224d0df820
+Focus Technology Group,USA,TN,Nashville,acquired,information technology,,1/1/2001,,d75335b5-cfae-3145-c192-1449a0ba384c
+ForceX,USA,TN,Clarksville,acquired,manufacturing|science and engineering|software,,1/1/2004,,587348c6-3cdb-564d-e0a3-9a71cc2059bc
+Forward Air,USA,TN,Greeneville,ipo,transportation,,1/1/1993,,7e27aebd-e425-cc42-ad79-fc50c30f4582
+Gales Network,USA,TN,Nashville,acquired,advertising|media and entertainment|sales and marketing,,1/1/1995,,481500d9-8423-00e9-bce6-26d49fd5698a
+Genetics of Memphis,USA,TN,Memphis,acquired,biotechnology|science and engineering,,1/1/2002,,825946b6-bb80-f1a5-fc2e-3639c9149a72
+Gotee Records,USA,TN,Brentwood,operating,,,1/1/1994,,ccdb96a6-b5b5-f9f0-38e8-0dec2ecb1b2c
+"GreatDay Auto Group, Inc.",USA,TN,Memphis,acquired,commerce and shopping|transportation,,1/1/2014,,07642ca8-d3ed-cab2-e8aa-8148d3a0ddc1
+Green Ballast,USA,TN,Memphis,ipo,hardware,,1/1/2011,,107b01ef-0122-f7c2-c4e0-1670a7861928
+Griffin Technology,USA,TN,Nashville,acquired,consumer electronics|hardware|mobile|software,,1/1/1992,,99e15479-1e75-80bc-f603-d69d74d8a715
+HCCA International,USA,TN,Franklin,acquired,health care,,1/1/1993,,e149072d-5eea-f563-610a-836773ca6681
+Healthcare Realty Trust,USA,TN,Nashville,ipo,health care|real estate,,1/1/1992,,44e5ecd4-ef88-97f8-1197-08f3557827b2
+Hemophilia Health Services,USA,TN,Nashville,operating,,,1/1/1990,,cf79d7bf-ae79-9642-c4d0-296f9ebdbab9
+H&S Railroad Co.,USA,TN,Knoxville,acquired,transportation,,1/1/1992,,2a3efdf8-6341-f674-8ea2-d224e41b751a
+Hunsicker Senior Living Services,USA,TN,Fairview,acquired,,,1/1/2008,,317b730f-f48c-fc29-eb38-400f2bf804a2
+Inform DX,USA,TN,Nashville,acquired,,,1/1/1997,,68dfd54e-69af-4502-29bf-40d760314adb
+Innertainment Delivery Systems,USA,TN,Nashville,acquired,information technology,,1/1/2009,,44e0ac2c-be39-831d-422c-51ec9cafa5ce
+InnLink,USA,TN,Hendersonville,acquired,travel and tourism,,1/1/1991,,c83c78ae-51a3-9eee-ee93-77ca2eb6f01d
+InQuicker,USA,TN,Nashville,acquired,information technology|software,,1/1/2006,,5aef7827-78b5-cdef-15a8-0ae62131f4a3
+Integrity Nutraceuticals,USA,TN,Spring Hill,operating,commerce and shopping|data and analytics|health care|manufacturing,,1/1/1999,,3427a549-9a21-6a66-b14a-efb482e47db3
+Intellio LLC,USA,TN,Franklin,acquired,advertising|sales and marketing,,1/1/2014,,e045b409-eb90-18cf-d3f3-8d37f5115352
+International Sourcing Company,USA,TN,Memphis,acquired,commerce and shopping|manufacturing,,1/1/1994,,b69a9b20-6de5-deb0-5a59-a4425786b8f9
+Investment Scorecard,USA,TN,Nashville,acquired,financial services,,1/1/1995,,350260e2-f3c7-566a-3826-357a9ab34359
+Jaysec Technologies,USA,TN,Knoxville,acquired,information technology|software,,1/1/2002,,30f8e9ae-9bd5-bf4f-dc69-8268608326b5
+Keys Group Holdings,USA,TN,Nashville,acquired,education|health care,,1/1/2001,,a96811bd-e3af-64d8-fdf4-2714dbc83393
+King Pharmaceuticals,USA,TN,Bristol,acquired,biotechnology|science and engineering|software,,1/1/1994,,6fcbf851-0154-3bc4-0619-b3fdf5b39bb6
+LFM Capital,USA,TN,Nashville,operating,manufacturing,,1/1/2014,,93d12ad3-28a3-e620-d57d-650edad3c4fe
+LifeGuard Medical Solutions,USA,TN,Nashville,acquired,health care,,1/1/1999,,8a03911c-1fe8-05ba-4ef0-c78feb9214e1
+LifePoint Health,USA,TN,Brentwood,ipo,health care,,1/1/1999,,ce055461-40cc-024a-e4a4-c4a8323af808
+LinkSpectrum,USA,TN,Memphis,acquired,software,,1/1/2001,,43bb7fb5-d49c-9bbd-ed49-f701cb11ad74
+Logan's Roadhouse,USA,TN,Nashville,acquired,food and beverage,,1/1/1995,,2f491cda-8856-4dac-aa55-1d24061cd2d5
+LPS Integration,USA,TN,Brentwood,acquired,information technology,,1/1/2002,,7df0f8ed-1ee1-7784-b0ff-99634616b5a1
+MacNeill Pride Group,USA,TN,Brentwood,operating,commerce and shopping|sports,,1/1/2003,,d9532791-42aa-3407-5438-ef57d7316821
+Magna Bank,USA,TN,Memphis,acquired,financial services|lending and investments,,1/1/1999,,b3c7206c-32a0-5c76-f7f9-8f131b43545c
+Market Street Solutions,USA,TN,Chattanooga,acquired,,,1/1/2002,,8f82b9b3-f531-a1cb-0546-7afdb09b294a
+Mathis Tire,USA,TN,Collierville,acquired,transportation,,1/1/1993,,373f9962-2815-1dde-cb63-b17641e56ac3
+Memphis Networx,USA,TN,Memphis,acquired,,,1/1/1999,,90f809ec-c7c2-d141-db73-f3b6195e7b74
+Mid Tennessee Dentistry,USA,TN,Franklin,acquired,health care,,1/1/2014,,6d069575-6176-f717-38e6-04839280285b
+M*Modal,USA,TN,Franklin,acquired,health care,,1/1/2001,,db47c83e-f955-6594-fdd1-ee0e01c26a08
+N2 The Net,USA,TN,Cookeville,acquired,internet services,,1/1/1996,,79f39e8b-6b82-e404-778b-f05213b6ab7a
+Nashville Family Dentistry,USA,TN,Nashville,acquired,health care,,1/1/2008,,4e271851-0ec3-7267-22f3-c816f3175a7b
+National Renal Alliance,USA,TN,Franklin,acquired,,,1/1/2002,,f47f0ed9-4c40-a2bc-df54-5a3a3b1b54fd
+National Seating & Mobility,USA,TN,Franklin,acquired,,,1/1/1992,,0ee19aa3-87d2-6874-76b8-1a9518f09286
+New American Healthcare,USA,TN,Brentwood,ipo,health care,,1/1/1995,,8be5e30b-2d0b-b005-c656-b107cd930f2f
+Nextech Solutions,USA,TN,Germantown,ipo,administrative services,,1/1/1999,,4630ce0d-40e1-5484-f44b-6c0033da72d9
+NHI - National Health Investors,USA,TN,Murfreesboro,ipo,financial services,,1/1/1991,,3044a420-8cd5-e62e-d40b-96eaca83fb55
+NoiseTrade,USA,TN,Nashville,acquired,information technology|media and entertainment|music and audio|sales and marketing|software,,1/1/2008,,67d3173b-4799-bcc2-bf0d-14f82b8b587e
+Northshore Management Company,USA,TN,Knoxville,operating,,,1/1/2003,,810f6bec-e905-0a38-6926-31636cedc318
+NovaLign Orthopaedics,USA,TN,Memphis,acquired,biotechnology|science and engineering,,1/1/2005,,dc7f6c7e-9b7e-5580-9199-2b16de5be8c2
+Odyssey Behavioral Healthcare,USA,TN,Brentwood,operating,health care,,1/1/2015,,5e2a8d7b-5702-748f-7d47-81185943b0b5
+OKDOTHIS,USA,TN,Nashville,operating,content and publishing|internet services|media and entertainment,,1/1/2012,,f9f8e1b1-32c5-6a48-2e5c-6933d61f6565
+PalmGear,USA,TN,Franklin,acquired,community and lifestyle|internet services|mobile|platforms|software,,1/1/1997,,ab2c00ca-f131-df4f-a833-9395f69ed7c4
+Parallon Business Solutions,USA,TN,Franklin,operating,,,1/1/2011,,206bfa85-9ab8-45a2-d576-81b8fedf22ad
+Paramore Digital,USA,TN,Nashville,acquired,advertising|sales and marketing,,1/1/2002,,a859d371-0cfa-fd48-f4b0-0996cb571576
+PGOA Media,USA,TN,Franklin,acquired,advertising|content and publishing|media and entertainment|sales and marketing,,1/1/1999,,57fd69eb-a050-921a-dcfc-6f14fbccd833
+Physicians Care,USA,TN,Chattanooga,acquired,health care,,1/1/1990,,62471dd6-4bf3-0316-82a9-2583ab9f84a6
+Pinnacle,USA,TN,Nashville,ipo,financial services|lending and investments,,1/1/1990,,88353901-2229-130d-a7d8-c74cd1ebbc0c
+Pinnacle Airlines,USA,TN,Memphis,ipo,travel and tourism,,1/1/2002,,1981dd01-521f-723a-3a2c-014a24e3f523
+Pinnacle Financial Partners,USA,TN,Nashville,ipo,financial services|lending and investments,,1/1/2000,,acc6bf22-49f7-32cb-2027-fa6412a17dcd
+Polaris Hospital Company,USA,TN,Brentwood,operating,,,1/1/2007,,01a23469-fdc1-f14f-e8a5-ed619eeb36d5
+Poplar Healthcare,USA,TN,Memphis,operating,biotechnology|science and engineering,,1/1/1995,,cd979db5-7d6a-5f77-74cd-8b2fca3c305a
+Premier Concrete Pumping,USA,TN,Memphis,acquired,real estate|transportation,,1/1/1992,,6271347f-a712-259f-6ee5-33c7e6bf3200
+Premier Parking,USA,TN,Nashville,acquired,transportation,,1/1/2001,,02db1ae7-d28e-f729-c25e-73db73150c90
+Premise Health,USA,TN,Franklin,operating,community and lifestyle|internet services|media and entertainment|software,,2/1/2010,,1f5a1a2e-59cc-a546-1a39-8e4710c288ce
+Primeritus Financial Services,USA,TN,Nashville,operating,financial services,,1/1/2012,,72027024-b8c1-c99f-78c1-c8964e1e4062
+Promus Hotel Corp.,USA,TN,Memphis,acquired,food and beverage|travel and tourism,,1/1/1995,,4a814ecb-2bb6-2c79-47ab-fcff22a93956
+PureSafety,USA,TN,Franklin,acquired,software,,1/1/1999,,1e0ce733-4b29-720d-9aa1-c0c4d94fc2a9
+Quality Mobile X-Ray Services,USA,TN,Nashville,acquired,,,1/1/1992,,838c1c7a-ab45-c1b8-3bf5-3c0e13b050b2
+Radiation Oncology Services of America,USA,TN,Brentwood,acquired,health care,,1/1/2006,,81a41f35-6043-bd13-9cc0-b391ce009b70
+Radiology Alliance,USA,TN,Nashville,acquired,health care,,1/1/2001,,61e5e225-af1e-33fb-867d-3719126f599f
+RA Group Holdings,USA,TN,Brentwood,operating,,,1/1/2005,,1b08a325-22b2-a19a-9f66-61ee82cf9093
+RCCH HealthCare Partners,USA,TN,Brentwood,operating,health care,,1/1/2009,,0086d1f3-0562-fe79-d3d9-d1961f06a13e
+RealVoice,USA,TN,Memphis,operating,commerce and shopping|travel and tourism,,1/1/2013,,6ae64877-831a-41c7-609a-bcd7b9eba08e
+RegionalCare Hospital Partners,USA,TN,Brentwood,acquired,health care,,1/1/2009,,db89504d-0c15-4738-6667-772c3682d402
+Relegent,USA,TN,Franklin,acquired,health care|internet services,,1/1/2002,,342b63a2-db5f-ceeb-f366-5dde9644c9b5
+Renal Advantage,USA,TN,Franklin,acquired,health care,,1/1/2005,,331f875c-d420-5dc1-c157-bffb7db77bb0
+Renal Care Group,USA,TN,Nashville,acquired,health care,,1/1/1996,,19210fb5-183d-fc45-c076-1ea2a848c35f
+Resortquest International,USA,TN,Memphis,ipo,travel and tourism,,1/1/1997,,3ba80fdb-b1f5-cc94-ce06-7ca4b833e527
+RocketFuel,USA,TN,Memphis,operating,software,,7/7/2007,,3ad1e8dd-eb3e-7a1c-9177-0b99980cb679
+Rockhouse Partners,USA,TN,Nashville,acquired,sales and marketing,,1/1/2009,,39b5f18c-d88c-63e9-4373-3e57bb5a15ac
+Rough Country,USA,TN,Dyersburg,acquired,,,1/1/1996,,4ee60594-4527-9f96-cff8-1cc44d1c159c
+Rustici Software,USA,TN,Franklin,acquired,education|software,,1/1/2003,,be7c8c33-f973-f7d2-1299-386d02fdec8e
+Safety and Ecology Corp,USA,TN,Knoxville,acquired,professional services,,1/1/1991,,a6b8cdc1-bd02-04cf-2eb0-03020f39fe81
+Sitening LLC,USA,TN,Nashville,acquired,data and analytics|internet services|media and entertainment|sales and marketing|software,,1/1/2007,,92cf2066-43b3-ce6c-c861-888c5156bd91
+SmartBank,USA,TN,Pigeon Forge,operating,financial services|lending and investments,,1/1/2007,,1ae9400c-724b-c9f9-7013-28b14f899d4d
+SmartDM Holdings,USA,TN,Nashville,acquired,,,1/1/1995,,343271a2-f4da-f585-e13c-eae79d20afab
+SoberCircle,USA,TN,Brentwood,acquired,health care|internet services|media and entertainment,,4/24/2006,,4b0c17d1-0856-0203-9c0a-f184377480e8
+Solana Surgical,USA,TN,Memphis,acquired,biotechnology|science and engineering,,1/1/2011,,6f71dff8-a669-a18d-c879-c910826b8e8a
+Southern Made,USA,TN,Nashville,acquired,travel and tourism,,1/1/2015,,a9e69f40-5e86-9a88-5682-ad81678e6878
+Spendship,USA,TN,Nashville,acquired,commerce and shopping|internet services|media and entertainment|mobile|sales and marketing,,4/15/2013,,6dd6a876-85fb-b019-1c7a-7ead01b47e7a
+Spheris,USA,TN,Franklin,acquired,software,,1/1/1998,,a779a9b3-548e-3551-22b5-f3498047a81b
+"Spicerack Media, Inc.",USA,TN,Chattanooga,acquired,gaming,,1/1/2007,,fe2be7a0-6ccf-a065-e345-6d67a61d1d3d
+Staffing as a Mission,USA,TN,Brentwood,acquired,administrative services|professional services,,1/1/2014,,77da286c-dcce-f4ab-ac83-e3e254234996
+Sterling Solutions,USA,TN,Memphis,acquired,,,1/1/1998,,44e016ea-26b2-b139-b415-447699685b9e
+Stone Pump & Trench,USA,TN,Knoxville,acquired,,,8/1/2010,,3b0a497d-8ad2-5579-54eb-6229b3bbf210
+Stratas Foods,USA,TN,Memphis,operating,food and beverage,,10/1/2008,,9fbe1eaa-806c-f123-9718-49c2c2ea5324
+SureGrip Footwear,USA,TN,Nashville,acquired,,,1/1/2004,,64bb3353-57c3-6e27-9d7b-ec354cc92235
+Symmetry Surgical,USA,TN,Antioch,acquired,health care,,1/1/2012,,ea26bffb-80da-329e-763f-718d6402e2c0
+"TBX Group, Inc",USA,TN,Memphis,operating,information technology|software|transportation,,4/13/2015,,75adb82c-9e47-4600-a9ab-2ff711968ea2
+Telerhythmics,USA,TN,Collierville,acquired,health care,,1/1/1997,,a0f0ebe4-8c90-360e-b84d-1fb55e148dff
+TelPlexus,USA,TN,Murfreesboro,acquired,,,1/1/1998,,da5685b9-74b3-621f-4a5c-aee25da0cfcf
+The Gravel Company,USA,TN,Murfreesboro,acquired,real estate,,1/1/2005,,b0d4d3ae-ed93-505e-d4f8-c5be32534556
+The HR Group,USA,TN,Brentwood,acquired,health care,,1/1/1996,,c5f385e2-a05e-2dd9-7192-2347a2eaac96
+The Orchard,USA,TN,Nashville,acquired,media and entertainment|music and audio|sales and marketing|video,,1/1/1997,,a72cf9e7-492b-4461-1f1f-d839fa8ca86f
+The Retirement Plan Company LLC,USA,TN,Brentwood,operating,,,1/1/1992,,bde6a300-178b-004b-fd88-07239d404e36
+Thompson Dunavant,USA,TN,Memphis,acquired,,,1/1/1997,,2aec95fc-de10-0ec9-d1f3-e15e4e574552
+"TNA Entertainment, LLC (Impact Wrestling)",USA,TN,Nashville,acquired,gaming|sports,,6/1/2002,,063a08cc-a6bb-c160-27d0-b53997f84644
+TouchMD,USA,TN,Utah,acquired,health care|software,,1/1/2009,,04418197-50db-d0d6-137b-3541df8a4f63
+TouchPoint Software,USA,TN,Cordova,acquired,consumer electronics|hardware|software,,1/1/2009,,892d2d4f-46aa-35c8-5d2c-107337e9ab5c
+Tournament Games,USA,TN,Lebanon,acquired,gaming,,1/1/1997,,70367598-262e-a7fb-6f47-0957ccf64df7
+TractManager,USA,TN,Chattanooga,operating,health care|information technology,,1/1/2000,,61b24a44-b2ca-cc0c-6586-fb8dfbbcf8af
+TransCard,USA,TN,Chattanooga,operating,commerce and shopping|data and analytics|design|financial services|information technology|lending and investments|mobile|software,,1/1/2005,,0e564f33-e103-7c75-e483-3ce607e2e478
+TriSummit Bank,USA,TN,Kingsport,acquired,financial services,,1/1/2007,,714de49d-cb1c-9053-1cc4-6de195d2ec51
+TruGreen,USA,TN,Memphis,operating,real estate,,1/1/2012,,be5cc9a1-2ea7-35c4-79c4-d664d9a3178b
+Universal Comedy Network,USA,TN,Nashville,acquired,media and entertainment,,1/1/2013,,ea293008-c5b4-d2c5-69ad-8ee2f9863b05
+Vaco Technology,USA,TN,Brentwood,operating,administrative services|financial services|professional services,,1/1/2002,,561dc9d5-724b-7443-c112-0868ebbe9641
+Valutec Card Solutions,USA,TN,Franklin,operating,privacy and security,,1/1/1998,,4272ec15-94f7-1aeb-b54f-4c68b79d38a2
+Vanguard Health Systems,USA,TN,Nashville,acquired,health care,,1/1/1997,,6307968c-cf8d-862f-135d-271a68b1d0a8
+Vector Oncology’s Pharma Services (CRO) Division,USA,TN,Memphis,acquired,health care,,1/1/2002,,e0d6ce3d-ac96-68c4-6e00-e7f823fc9d92
+Velox Consulting,USA,TN,Nashville,acquired,information technology,,1/1/2011,,1d887274-ed53-f300-9d13-8ac8c8102b73
+Verso,USA,TN,Memphis,ipo,design|manufacturing,,1/1/2006,,5a1ed89a-18e5-eb78-f4af-bd98aa078fc6
+Video Gaming Technologies,USA,TN,Franklin,acquired,gaming,,1/1/1991,,6848aad5-cba1-ca35-2da7-13d4be77800e
+Virsys12,USA,TN,Brentwood,operating,health care|information technology,,8/1/2011,,96541586-aadf-24f2-99ab-eaea1208b042
+Walker Forge Tennessee,USA,TN,Surgoinsville,acquired,natural resources,,1/1/2004,,f6052303-9995-f892-231b-2d5b08a4a280
+West End Holdings,USA,TN,Nashville,operating,,,1/1/2011,,97e3d5e2-a4fb-2316-8abc-f633262d3f31
+Womanista,USA,TN,Brentwood,operating,software,,1/1/2012,,c768717c-2273-f880-9fd0-54f9b01c9546
+WPC Healthcare,USA,TN,Brentwood,acquired,health care,,2/1/2014,,2f690852-ba96-80c6-8be7-897a48670557
+Xtend Healthcare,USA,TN,Hendersonville,acquired,,,1/1/1990,,ffba6c2d-8521-37a6-0a01-1df5f5967549
+Zeumo,USA,TN,Nashville,acquired,health care,,1/1/2012,,acb74611-d117-76ff-c91b-014f51d0522a
+Zycron,USA,TN,Nashville,acquired,information technology,,1/1/1991,,e24582cc-bb18-8531-b974-6fb626bfd2c3

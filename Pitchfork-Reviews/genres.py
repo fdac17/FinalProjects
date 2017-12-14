@@ -1,0 +1,1 @@
+genres = ["electronic", "folk", "jazz", "pop", "rap", "experimental", "global", "metal", "rock"]
